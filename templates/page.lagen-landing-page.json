@@ -166,6 +166,123 @@
         "padding_bottom_mobile": 20
       }
     },
+    "product_highlight_djb6EM": {
+      "type": "product-highlight",
+      "blocks": {
+        "columns_mnXdLw": {
+          "type": "columns",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Column",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+          }
+        },
+        "columns_WGWnDV": {
+          "type": "columns",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Column",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+          }
+        },
+        "columns_phtM3A": {
+          "type": "columns",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Column",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+          }
+        },
+        "columns_znL9MV": {
+          "type": "columns",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Column",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "columns_mnXdLw",
+        "columns_WGWnDV",
+        "columns_phtM3A",
+        "columns_znL9MV"
+      ],
+      "name": "t:sections.product-highlight.name",
+      "settings": {
+        "heading": "Product highlight",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "show_sound_control": false,
+        "block_layout": "aspect-[9/16]",
+        "enable_video_autoplay": true,
+        "video_alt_text": "",
+        "product": "",
+        "show_vendor": false,
+        "show_rating": false,
+        "show_highlighted_features": true,
+        "show_highlighted_attributes": true,
+        "show_quickview": true,
+        "product_background": "rgba(0,0,0,0)",
+        "product_background_dark": "rgba(0,0,0,0)",
+        "line_border": "line",
+        "icon_position": "col",
+        "icon_size": 45,
+        "content_alignment": "center",
+        "content_position": "center",
+        "spacing": 28,
+        "icon_highlight_background": "rgba(0,0,0,0)",
+        "block_heading_color_light": "rgba(0,0,0,0)",
+        "block_text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "icon_highlight_background_dark": "rgba(0,0,0,0)",
+        "block_heading_color_dark": "rgba(0,0,0,0)",
+        "block_text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_full_width": false,
+        "adapt_corners_desktop": true,
+        "rounded_corner_section": false,
+        "desktop_height": "natural",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "show_section_divider_mobile": false,
+        "full_width_mobile": false,
+        "adapt_corners_mobile": true,
+        "rounded_corner_section_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "image_with_text_feQhxP": {
       "type": "image-with-text",
       "blocks": {
@@ -455,6 +572,7 @@
   "order": [
     "main",
     "slideshow_ztEAAV",
+    "product_highlight_djb6EM",
     "image_with_text_feQhxP",
     "image_with_text_yHGk6D",
     "image_with_text_Q3MVMU"
