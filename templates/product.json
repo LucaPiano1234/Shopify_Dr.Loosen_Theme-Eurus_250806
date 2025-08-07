@@ -133,6 +133,7 @@
         },
         "coupon_code_d4T8zk": {
           "type": "coupon_code",
+          "disabled": true,
           "settings": {
             "block_edges": "rounded_corners",
             "coupon_box_edges": "rounded_corners",
@@ -159,7 +160,6 @@
         },
         "frequently_bought_pGGTM8": {
           "type": "frequently_bought",
-          "disabled": true,
           "settings": {
             "icon": "hot-sale",
             "another_icon": "",
@@ -208,6 +208,7 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "open_by_default": false,
             "icon": "none",
@@ -220,6 +221,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "open_by_default": false,
             "icon": "none",
@@ -232,6 +234,7 @@
         },
         "payment_methods_kHWDBf": {
           "type": "payment_methods",
+          "disabled": true,
           "settings": {
             "heading": "Pay with",
             "text": "Your transaction is protected with advanced security measures to keep your information confidential",
@@ -250,6 +253,7 @@
         },
         "social-sharing": {
           "type": "social_sharing",
+          "disabled": true,
           "settings": {}
         },
         "complementary_XCwmDV": {
