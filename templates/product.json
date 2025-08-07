@@ -176,6 +176,18 @@
             "border_color_dark": "rgba(0,0,0,0)"
           }
         },
+        "collapsible_tab_MgjKqH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Mehr dazu",
+            "tab_content": "{{ product.description }}"
+          }
+        },
         "nutrition_fact_tEqfWX": {
           "type": "nutrition_fact",
           "settings": {
@@ -192,18 +204,6 @@
             "content_background_color": "rgba(0,0,0,0)",
             "content_background_color_dark": "rgba(0,0,0,0)",
             "loading_bar_color": "rgba(0,0,0,0)"
-          }
-        },
-        "collapsible_tab_MgjKqH": {
-          "type": "collapsible_tab",
-          "settings": {
-            "open_by_default": false,
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "use_secondary_background": false,
-            "heading": "Testing Shows",
-            "tab_content": "<p><strong>Instantly<br/></strong>Skin is hydrated, barrier is supported.</p><p><strong>After 1 week<br/></strong>Skin feels smoother and softer. Hydration levels increase continually week over week.</p><p><strong>After 2 weeks<br/></strong>Lines and wrinkles look smoothed, nasolabial folds look plumper. Skin's elasticity and suppleness are improved.*<br/><br/>*Clinical testing in 32 people, 2 x per day.</p>"
           }
         },
         "collapsible-row-1": {
@@ -254,7 +254,6 @@
         },
         "complementary_XCwmDV": {
           "type": "complementary",
-          "disabled": true,
           "settings": {
             "heading": "Buy It With",
             "show_tab": false,
@@ -308,8 +307,8 @@
         "buy_buttons",
         "coupon_code_d4T8zk",
         "frequently_bought_pGGTM8",
-        "nutrition_fact_tEqfWX",
         "collapsible_tab_MgjKqH",
+        "nutrition_fact_tEqfWX",
         "collapsible-row-1",
         "collapsible-row-0",
         "payment_methods_kHWDBf",
@@ -487,6 +486,100 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 16,
         "padding_bottom_mobile": 48
+      }
+    },
+    "image_with_text_RBtGLj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8nMPQf": {
+          "type": "heading",
+          "settings": {
+            "subheading": "OUR SUSTAINABILITY PROMISE",
+            "heading": "Your regimen in 4 minutes. Instant hydration.",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>As the world’s leading skin health accreditation body, we want everyone to have access to the best help and advice to care for their skin & more.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_fYQUVB": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order now",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8nMPQf",
+        "button_fYQUVB"
+      ],
+      "settings": {
+        "show_hero": false,
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "medium",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 10,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "no-overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 100,
+        "bottom_padding": 32,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 20
       }
     },
     "products_bundle_8bV8CB": {
@@ -692,100 +785,6 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 28
-      }
-    },
-    "image_with_text_RBtGLj": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_8nMPQf": {
-          "type": "heading",
-          "settings": {
-            "subheading": "OUR SUSTAINABILITY PROMISE",
-            "heading": "Your regimen in 4 minutes. Instant hydration.",
-            "highlight_type": "underline",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p>As the world’s leading skin health accreditation body, we want everyone to have access to the best help and advice to care for their skin & more.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "button_fYQUVB": {
-          "type": "button",
-          "settings": {
-            "button_label": "Order now",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "heading_8nMPQf",
-        "button_fYQUVB"
-      ],
-      "settings": {
-        "show_hero": false,
-        "desktop_height": "550px",
-        "mobile_height": "400px",
-        "desktop_image_width": "medium",
-        "image_layout": "normal",
-        "adapt_radius": true,
-        "image_corner_radius": 10,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "no-overlap",
-        "spacing_image": false,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 100,
-        "bottom_padding": 32,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 20
       }
     },
     "image_with_text_ehEUt4": {
@@ -1357,10 +1356,10 @@
     "main",
     "product-recommendations",
     "331e6fca-2947-4a19-89c5-9396be0d666a",
+    "image_with_text_RBtGLj",
     "products_bundle_8bV8CB",
     "text_column_with_image_MUhrhK",
     "rich_text_erqjzG",
-    "image_with_text_RBtGLj",
     "image_with_text_ehEUt4",
     "product_comparison_table_jjhwBg",
     "media_gallery_Nz9AUy",
