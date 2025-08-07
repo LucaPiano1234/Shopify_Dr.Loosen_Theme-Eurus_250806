@@ -88,6 +88,7 @@
         "slide_T4tN7A": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
