@@ -187,7 +187,31 @@
     "checkout_button_color": "#ff6600",
     "checkout_error_color": "#E12B28",
     "products_hover_to_reveal_second_image": true,
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "10746902591489815047": {
+        "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
+        "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      },
+      "5550728556201851227": {
+        "type": "shopify://apps/glc-geolocation/blocks/selector/e347b539-0714-46e4-9e69-23a73992ae3a",
+        "disabled": false,
+        "settings": {}
+      },
+      "13180643132867056963": {
+        "type": "shopify://apps/complianz-gdpr-cookie-consent/blocks/bc-block/e49729f0-d37d-4e24-ac65-e0e2f472ac27",
+        "disabled": false,
+        "settings": {
+          "hide_label": true
+        }
+      }
+    }
   },
   "installed_preset_name": "Eurus",
   "presets": {
