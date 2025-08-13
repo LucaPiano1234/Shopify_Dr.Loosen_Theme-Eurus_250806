@@ -69,18 +69,18 @@
             "open_new_window_image": true,
             "subheading": "",
             "subheading_size": 100,
-            "heading": "Slide title",
+            "heading": "Das Beste unserer Mittelmosel-Terroirs",
             "highlight_type": "font_highlight",
             "heading_size": 140,
             "heading_tag": "h2",
-            "text": "",
+            "text": "<p>Das Beste unserer Mittelmosel-Terroirs</p>",
             "button_label_1": "Button label",
             "button_link_1": "",
             "open_new_window_button": false,
             "show_button_style_1": "primary",
             "button_label_2": "",
             "button_link_2": "",
-            "open_new_window_button_2": false,
+            "open_new_window_button_2": true,
             "show_button_style_2": "primary",
             "content_alignment": "middle-center",
             "alignment": "center",
@@ -90,9 +90,9 @@
             "open_new_window_product": false,
             "desktop_layout": "left",
             "mobile_layout": "top",
-            "content_background_color": "#ffffff",
-            "color_text": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
+            "content_background_color": "#53585e",
+            "color_text": "#ffffff",
+            "color_button": "#313e4d",
             "color_text_button": "rgba(0,0,0,0)",
             "color_button_hover": "rgba(0,0,0,0)",
             "color_text_button_hover": "rgba(0,0,0,0)",
@@ -747,7 +747,7 @@
             "highlight_type": "font_highlight",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität. Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p>Diesen Prinzipien fühlen wir uns auf unseren beiden Weingütern Dr. Loosen an der Mosel und Villa Wolf in der Pfalz verpflichtet. Wir wollen Weine erzeugen, die zum Genuss verführen, die konzentriert und komplex sind und auf unverwechselbare Weise ihre Herkunft wiederspiegeln.</p><p>Wenn ich einen Wein aus unserer Ersten Großen Lage Wehlener Sonnenuhr trinke, dann möchte ich den blauen Schiefer riechen, der die Trauben genährt hat und die Frucht schmecken, die mit diesem einzigartigen Terroir verbunden ist. Ich möchte den besonderen Charakter eines Jahrgangs erleben. Das ist das Besondere, was Wein von jedem anderen Getränk unterscheidet.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.</p>",
+            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität. Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p>Diesen Prinzipien fühlen wir uns auf unseren beiden Weingütern Dr. Loosen an der Mosel und Villa Wolf in der Pfalz verpflichtet. Wir wollen Weine erzeugen, die zum Genuss verführen, die konzentriert und komplex sind und auf unverwechselbare Weise ihre Herkunft wiederspiegeln.</p><p>Wenn ich einen Wein aus unserer Ersten Großen Lage Wehlener Sonnenuhr trinke, dann möchte ich den blauen Schiefer riechen, der die Trauben genährt hat und die Frucht schmecken, die mit diesem einzigartigen Terroir verbunden ist. Ich möchte den besonderen Charakter eines Jahrgangs erleben. Das ist das Besondere, was Wein von jedem anderen Getränk unterscheidet.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.<br/><br/>Ernst Loosen</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -1470,250 +1470,6 @@
         "top_padding_mobile": 48,
         "bottom_padding_mobile": 48
       }
-    },
-    "social_feeds_39n9Ne": {
-      "type": "social-feeds",
-      "blocks": {
-        "social_post_HgCTt8": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "<p>Show your customers' feedback<br/><br/>#hastag</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_rfzkfd": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_RVkkCK": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_QyRHLF": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_PmXxMz": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_XDkVeh": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_znHtRY": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_R97iLM": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_cR7xK7": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        },
-        "social_post_yA8g6f": {
-          "type": "social-post",
-          "settings": {
-            "enable_video_autoplay": true,
-            "show_sound_control": false,
-            "social_post_content": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "social_post_link": "",
-            "open_new_window_button": true,
-            "integrated_social_media": "adapt",
-            "account_username": "Eurus",
-            "list_products": [],
-            "show_products_on_image": true
-          }
-        }
-      },
-      "block_order": [
-        "social_post_HgCTt8",
-        "social_post_rfzkfd",
-        "social_post_RVkkCK",
-        "social_post_QyRHLF",
-        "social_post_PmXxMz",
-        "social_post_XDkVeh",
-        "social_post_znHtRY",
-        "social_post_R97iLM",
-        "social_post_cR7xK7",
-        "social_post_yA8g6f"
-      ],
-      "name": "t:sections.social-feeds.name",
-      "settings": {
-        "heading": "[Social] feeds",
-        "highlight_type": "font_highlight",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "subheading": "",
-        "text": "",
-        "button_label": "Follow us",
-        "button_link": "",
-        "open_new_window_button": false,
-        "show_button_style": "secondary",
-        "integrated_social_media": "instagram",
-        "media_ratio": "aspect-square",
-        "show_border": true,
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "heading_dark": "rgba(0,0,0,0)",
-        "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "button_light": "rgba(0,0,0,0)",
-        "button_text_light": "rgba(0,0,0,0)",
-        "button_hover_light": "rgba(0,0,0,0)",
-        "button_text_hover_light": "rgba(0,0,0,0)",
-        "secondary_button_light": "rgba(0,0,0,0)",
-        "secondary_button_text_light": "rgba(0,0,0,0)",
-        "colors_text_link": "rgba(0,0,0,0)",
-        "button_dark": "rgba(0,0,0,0)",
-        "button_text_dark": "rgba(0,0,0,0)",
-        "button_hover_dark": "rgba(0,0,0,0)",
-        "button_text_hover_dark": "rgba(0,0,0,0)",
-        "secondary_button_dark": "rgba(0,0,0,0)",
-        "secondary_button_text_dark": "rgba(0,0,0,0)",
-        "colors_text_link_dark": "rgba(0,0,0,0)",
-        "enable_carousel_on_desktop": false,
-        "show_navigation": true,
-        "swiper_on_mobile": true,
-        "enable_arrow_mobile": false,
-        "change_slides_speed": 5,
-        "columns_desktop": 5,
-        "full_width": true,
-        "padding_full_width": true,
-        "show_section_divider": false,
-        "spacing": 8,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "columns_mobile": "2",
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "spacing_mobile": 8,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 0
-      }
     }
   },
   "order": [
@@ -1729,7 +1485,6 @@
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
     "promotion_banner_ijXatP",
     "video_looping_ijQzex",
-    "testimonials_with_card_ErTtk4",
-    "social_feeds_39n9Ne"
+    "testimonials_with_card_ErTtk4"
   ]
 }
