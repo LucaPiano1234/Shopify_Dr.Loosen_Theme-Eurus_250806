@@ -452,7 +452,7 @@
         "spacing_image": true,
         "text_position": "center",
         "text_alignment": "start",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#ffffff",
         "background_color_dark": "rgba(0,0,0,0)",
         "line_border": "none",
         "icon_position": "col",
@@ -732,7 +732,7 @@
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "Unsere Lagen",
-        "highlight_type": "font_highlight",
+        "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
         "heading_alignment": "center",
