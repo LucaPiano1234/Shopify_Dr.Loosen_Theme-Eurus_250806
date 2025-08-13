@@ -17,6 +17,7 @@
         "media_4L8RHR": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01335_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -59,7 +60,8 @@
         "media_9bgExe": {
           "type": "media",
           "settings": {
-            "image_link": "",
+            "image": "shopify://shop_images/2023-09_HoR_DrLoosen-07891_1.jpg",
+            "image_link": "shopify://pages/gastezimmer",
             "open_new_window": false,
             "show_sound_control": false,
             "enable_video_autoplay": true,
@@ -101,6 +103,7 @@
         "media_ARza8M": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01358_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,

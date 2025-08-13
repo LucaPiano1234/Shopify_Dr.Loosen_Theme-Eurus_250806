@@ -1136,28 +1136,6 @@
             "color_content_box_dark": "rgba(0,0,0,0)"
           }
         },
-        "countdown_timer_MNe8Kp": {
-          "type": "countdown_timer",
-          "settings": {
-            "countdown_type": "evergreen",
-            "countdown_interval": 30,
-            "interval_unit": "day",
-            "timezone": "-4",
-            "end_year": 2025,
-            "end_month": "6",
-            "end_day": "27",
-            "end_hour": "0",
-            "end_minute": "45",
-            "timer_style": "square",
-            "border_style": "none",
-            "overlay_opacity": 100,
-            "timer_color_countdown": "rgba(0,0,0,0)",
-            "text_color_countdown": "rgba(0,0,0,0)",
-            "bg_color_countdown": "rgba(0,0,0,0)",
-            "spacing_col": 12,
-            "spacing_col_mobile": 8
-          }
-        },
         "buttons_EyUERK": {
           "type": "buttons",
           "settings": {
@@ -1181,7 +1159,6 @@
       },
       "block_order": [
         "image_banner_HYLK68",
-        "countdown_timer_MNe8Kp",
         "buttons_EyUERK"
       ],
       "name": "t:sections.promotion-banner.name",
