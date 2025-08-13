@@ -24,14 +24,14 @@
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "enable_bakground": false,
-            "subheading": "Slide subheading",
+            "subheading": "Weingut Dr .Loosen",
             "subheading_size": 100,
-            "heading": "Slide title",
+            "heading": "ERLESENE RIESLINGE AUS DENSTEILLAGEN DER MITTEL-MOSEL.",
             "highlight_type": "font_highlight",
             "heading_size": 160,
             "heading_tag": "h2",
             "text": "",
-            "button_label_1": "Button label",
+            "button_label_1": "Lagen-Rieslinge entdecken",
             "button_link_1": "",
             "open_new_window_button": false,
             "show_button_style_1": "primary",
@@ -102,103 +102,11 @@
             "color_product_card_background": "rgba(0,0,0,0)",
             "color_product_card_text": "rgba(0,0,0,0)"
           }
-        },
-        "22d0c1f1-c698-47cb-9ca4-ee29a140da77": {
-          "type": "slide",
-          "settings": {
-            "image_link": "",
-            "open_new_window_image": false,
-            "overlay_opacity": 10,
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": true,
-            "video_alt_text": "",
-            "enable_bakground": false,
-            "subheading": "Slide subheading",
-            "subheading_size": 100,
-            "heading": "[Slide] title",
-            "highlight_type": "font_highlight",
-            "heading_size": 160,
-            "heading_tag": "h2",
-            "text": "",
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "open_new_window_button": false,
-            "show_button_style_1": "secondary",
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "open_new_window_button_2": false,
-            "show_button_style_2": "primary",
-            "content_alignment": "bottom-center",
-            "custom_horizontal": 64,
-            "custom_vertical": 50,
-            "alignment": "center",
-            "text_product": "Check out our products:",
-            "list_products": [],
-            "show_rating": false,
-            "open_new_window_product": false,
-            "content_background_color": "rgba(0,0,0,0)",
-            "color_text": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_product_card_background": "rgba(0,0,0,0)",
-            "color_product_card_text": "rgba(0,0,0,0)"
-          }
-        },
-        "three_fold_riJxUQ": {
-          "type": "three_fold",
-          "settings": {
-            "image_link": "",
-            "open_new_window_image": false,
-            "image_link_2": "",
-            "open_new_window_image_2": false,
-            "subheading": "Slide subheading",
-            "subheading_size": 100,
-            "heading": "Slide [title]",
-            "highlight_type": "font_highlight",
-            "heading_size": 160,
-            "heading_tag": "h2",
-            "text": "<p>Tell your brand's story through images</p>",
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "open_new_window_button": true,
-            "show_button_style_1": "secondary",
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "open_new_window_button_2": true,
-            "show_button_style_2": "primary",
-            "content_alignment": "middle-center",
-            "alignment": "center",
-            "text_product": "Check out our products:",
-            "list_products": [],
-            "show_rating": false,
-            "open_new_window_product": false,
-            "content_background_color": "rgba(0,0,0,0)",
-            "color_text": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_product_card_background": "rgba(0,0,0,0)",
-            "color_product_card_text": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
         "template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2",
-        "slide_text_LqRTiw",
-        "22d0c1f1-c698-47cb-9ca4-ee29a140da77",
-        "three_fold_riJxUQ"
+        "slide_text_LqRTiw"
       ],
       "custom_css": [],
       "settings": {
@@ -247,41 +155,11 @@
             "read_more_label": "Read more",
             "see_less_label": "See less"
           }
-        },
-        "button_pTHDiN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Lagen-Rieslinge entdecken",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style_1": "primary",
-            "button_label_2": "",
-            "button_link_2": "",
-            "open_new_window_button_2": false,
-            "show_button_style_2": "primary",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
-          }
-        },
-        "caption_6JfFF4": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "uppercase",
-            "text_size": 100
-          }
         }
       },
       "block_order": [
         "heading_U9QwPN",
-        "text_YWzLPW",
-        "button_pTHDiN",
-        "caption_6JfFF4"
+        "text_YWzLPW"
       ],
       "name": "t:sections.rich-text.name",
       "settings": {
@@ -313,12 +191,12 @@
             "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
-            "title": "Column",
+            "title": "Ursprünglicher Ausbau",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
           }
         },
         "column_ipkiCp": {
@@ -327,21 +205,7 @@
             "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
-            "title": "Column",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Add details on availability, style, or even provide a review.</p>"
-          }
-        },
-        "column_C9L9mz": {
-          "type": "column",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Column",
+            "title": "VDP",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
@@ -355,19 +219,18 @@
             "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
-            "title": "Column",
+            "title": "Weltbekannte Schiefersteillagen der Mittelmosel",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Weltbekannte Schiefersteillagen der Mittelmosel</p>"
           }
         }
       },
       "block_order": [
         "column_LEfVGd",
         "column_ipkiCp",
-        "column_C9L9mz",
         "column_ipMknc"
       ],
       "settings": {
@@ -417,19 +280,6 @@
     "product_highlight_PDTNQP": {
       "type": "product-highlight",
       "blocks": {
-        "columns_NanD3P": {
-          "type": "columns",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Column",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Add details on availability, style, or even provide a review.</p>"
-          }
-        },
         "columns_3Rqjib": {
           "type": "columns",
           "settings": {
@@ -471,7 +321,6 @@
         }
       },
       "block_order": [
-        "columns_NanD3P",
         "columns_3Rqjib",
         "columns_FDUrHV",
         "columns_LE7Rxd"
@@ -485,10 +334,11 @@
         "heading_alignment": "center",
         "subheading": "",
         "text": "",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#ffffff",
         "background_color_dark": "rgba(0,0,0,0)",
+        "video": "shopify://files/videos/Test Video Platzhalter DR. Loosen.mp4",
         "show_sound_control": false,
-        "block_layout": "aspect-[9/16]",
+        "block_layout": "aspect-[3/4]",
         "video_url": "",
         "enable_video_autoplay": true,
         "video_alt_text": "",
@@ -498,7 +348,7 @@
         "show_highlighted_features": true,
         "show_highlighted_attributes": true,
         "show_quickview": true,
-        "product_background": "rgba(0,0,0,0)",
+        "product_background": "#313e4d",
         "product_background_dark": "rgba(0,0,0,0)",
         "line_border": "line",
         "icon_position": "col",
@@ -507,17 +357,17 @@
         "content_position": "center",
         "spacing": 28,
         "icon_highlight_background": "rgba(0,0,0,0)",
-        "block_heading_color_light": "rgba(0,0,0,0)",
-        "block_text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
+        "block_heading_color_light": "#313e4d",
+        "block_text_color_light": "#313e4d",
+        "line_border_light": "#313e4d",
+        "icon_color_light": "#53585e",
         "icon_highlight_background_dark": "rgba(0,0,0,0)",
         "block_heading_color_dark": "rgba(0,0,0,0)",
         "block_text_color_dark": "rgba(0,0,0,0)",
         "line_border_dark": "rgba(0,0,0,0)",
         "icon_color_dark": "rgba(0,0,0,0)",
         "show_section_divider": false,
-        "full_width": false,
+        "full_width": true,
         "padding_full_width": false,
         "adapt_corners_desktop": true,
         "rounded_corner_section": false,
@@ -539,11 +389,11 @@
           "type": "heading",
           "settings": {
             "subheading": "Über Uns Block - Kompakter Text, Bild Ernie Loosen, CTA Link zur Über uns Seite",
-            "heading": "Über Uns Block - Kompakter Text, Bild Ernie Loosen, CTA Link zur Über uns Seite",
+            "heading": "Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von Ernst F. Loosen geführt.",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Über Uns Block - Kompakter Text, Bild Ernie Loosen, CTA Link zur Über uns Seite</p>",
+            "text": "<p>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen<a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -585,24 +435,26 @@
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
-        "show_hero": false,
-        "desktop_height": "550px",
+        "show_hero": true,
+        "image": "shopify://shop_images/2021-09_HoR_Loosen-04058.webp",
+        "image_second": "shopify://shop_images/2023-09_HoR_DrLoosen-08536_1.jpg",
+        "desktop_height": "450px",
         "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "normal",
+        "desktop_image_width": "medium",
+        "image_layout": "stacked",
         "adapt_radius": true,
         "image_corner_radius": 0,
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
         "enable_video_autoplay": false,
-        "content_layout": "overlap",
-        "spacing_image": false,
+        "content_layout": "no-overlap",
+        "spacing_image": true,
         "text_position": "center",
         "text_alignment": "start",
         "background_color_light": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "dashed",
+        "line_border": "none",
         "icon_position": "col",
         "icon_size": 45,
         "alignment": "center",
@@ -616,7 +468,7 @@
         "text_color_dark": "rgba(0,0,0,0)",
         "line_border_dark": "rgba(0,0,0,0)",
         "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
+        "image_alignment": "right",
         "full_width": false,
         "padding_full_width": false,
         "top_padding": 0,
