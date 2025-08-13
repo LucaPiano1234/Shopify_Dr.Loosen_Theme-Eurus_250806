@@ -315,8 +315,8 @@
           "type": "link_list",
           "settings": {
             "open_by_default": false,
-            "heading_menu": "Menu",
-            "menu": "",
+            "heading_menu": "VDP.KLASSIFIKATION",
+            "menu": "footer",
             "show_social_icons": false
           }
         },
@@ -325,7 +325,7 @@
           "settings": {
             "open_by_default": false,
             "heading_menu": "Menu",
-            "menu": "",
+            "menu": "footer-menu-kategorien",
             "show_social_icons": false
           }
         },
