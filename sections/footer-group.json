@@ -151,7 +151,7 @@
       ],
       "name": "t:sections.media-gallery.name",
       "settings": {
-        "heading": "Media gallery",
+        "heading": "",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -292,10 +292,11 @@
           "type": "text",
           "settings": {
             "open_by_default": false,
-            "heading_text": "Custom text",
-            "subtext": "<p>Enter custom message or instruction.</p>",
+            "heading_text": "",
+            "subtext": "<p><a href=\"https://goo.gl/maps/XtK3QQqEtVM9nrMz8\">WEINGUT DR. LOOSEN</a><br/><a href=\"https://goo.gl/maps/XtK3QQqEtVM9nrMz8\">ST. JOHANNISHOF</a><br/><a href=\"https://goo.gl/maps/XtK3QQqEtVM9nrMz8\">D-54470 BERNKASTEL/MOSEL</a></p><p> T: +49 (0) 6531-3426   F: +49 (0) 6531-4248<br/><br/>E: <a href=\"mailto:info@drloosen.de\" target=\"_blank\">INFO@DRLOOSEN.DE</a></p>",
             "show_social_icons": false,
             "icon_layout": "horizontal",
+            "image": "shopify://shop_images/20250729_WG_Dr.Loosen_Logo_Weiss_Rot_1_83a777ca-efab-4c20-ad8f-ad7e7c84792c.png",
             "image_width": 100,
             "link_image_footer": "",
             "open_new_window": false
