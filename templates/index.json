@@ -1670,64 +1670,51 @@
         "testimonial_RNbdhq": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "show_author_image": true,
-            "author": "Add a caption",
+            "title": "Jakob W.",
+            "text": "<p>Die Weinbereitung war super informativ und freundlich gestaltet. Wir haben uns sehr wohl gefühlt und eine umfassend auf uns zugeschnittene Weinverkostung genießen dürfen. Sehr empfehlenswert!</p>",
+            "show_author_image": false,
+            "author": "",
             "author_note": "",
             "product": ""
           }
         },
-        "testimonial_EW34nf": {
+        "testimonial_F6Wkwd": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "show_author_image": true,
-            "author": "Add a caption",
+            "title": "Walte N.",
+            "text": "<p>Leidenschaft erleben, Tradition erfahren und guten Wein genießen. Das Weingut Dr. Loosen - eine Referenz an der Mosel.</p>",
+            "show_author_image": false,
+            "author": "",
             "author_note": "",
             "product": ""
           }
         },
-        "testimonial_4hQ7GW": {
+        "testimonial_G7QMGN": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "show_author_image": true,
-            "author": "Add a caption",
+            "title": "Jannik B.",
+            "text": "<p>Wir waren Anfang Juli mit unserer Freundesgruppe bei Dr. Loosen.<br/>Schönes Weingut mit exzellenten Weinen! Die Weinprobe war mehr als ausführlich und Antonia hat uns perfekt durch die Weine geführt. Ich würde jedes Mal wieder hier hin kommen!<br/>Ganz klar ein Besuch wert!</p>",
+            "show_author_image": false,
+            "author": "",
             "author_note": "",
             "product": ""
           }
         },
-        "testimonial_RgEp3i": {
+        "testimonial_RrXyfU": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "show_author_image": true,
-            "author": "Add a caption",
-            "author_note": "",
-            "product": ""
-          }
-        },
-        "testimonial_GcDCFp": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "show_author_image": true,
-            "author": "Add a caption",
+            "title": "Sascha B.",
+            "text": "<p>Tolle Weine (man entdeckt immer wieder neue spannende Weine & Projekte),  Super-Gastgeber und eine tolle Location.  Immer ein Besuch wert!</p>",
+            "show_author_image": false,
+            "author": "",
             "author_note": "",
             "product": ""
           }
@@ -1735,10 +1722,9 @@
       },
       "block_order": [
         "testimonial_RNbdhq",
-        "testimonial_EW34nf",
-        "testimonial_4hQ7GW",
-        "testimonial_RgEp3i",
-        "testimonial_GcDCFp"
+        "testimonial_F6Wkwd",
+        "testimonial_G7QMGN",
+        "testimonial_RrXyfU"
       ],
       "name": "t:sections.testimonials-with-card.name",
       "settings": {
