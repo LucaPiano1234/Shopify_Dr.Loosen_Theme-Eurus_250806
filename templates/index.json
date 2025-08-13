@@ -577,12 +577,32 @@
     "flow_cHX3gh": {
       "type": "flow",
       "blocks": {
+        "media_pkLziH": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
         "collection_7UB4Ag": {
           "type": "collection",
           "settings": {
             "collection": "bernkasteller-lay",
             "subheading": "",
             "heading": "Bernkasteller Lay",
+            "image_heading": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
             "description": "<p>Use this section to show a list of product or collection features, guide your customers through a process or share customers' reviews and case studies.</p>",
@@ -699,6 +719,7 @@
         }
       },
       "block_order": [
+        "media_pkLziH",
         "collection_7UB4Ag",
         "collection_VPFBqU",
         "collection_RKYxDG",
@@ -711,7 +732,7 @@
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "Unsere Lagen",
-        "highlight_type": "underline",
+        "highlight_type": "font_highlight",
         "heading_size": 100,
         "heading_tag": "h2",
         "heading_alignment": "center",
