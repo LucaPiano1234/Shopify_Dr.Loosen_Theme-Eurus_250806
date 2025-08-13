@@ -645,6 +645,9 @@
         "media_6CyrN6",
         "media_TcWnbW"
       ],
+      "custom_css": [
+        ".x-container-flow-media {width: 80%; height: auto; align-content: center;}"
+      ],
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "Unsere Lagen",
