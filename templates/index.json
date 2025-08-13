@@ -625,9 +625,9 @@
         "collection_PWVjMU": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "erdener-treppchen",
             "subheading": "",
-            "heading": "Collection Heading",
+            "heading": "Erdener-Treppchen",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
             "description": "",
@@ -640,9 +640,9 @@
         "collection_gxhALL": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "graacher-domprobst",
             "subheading": "",
-            "heading": "Collection Heading",
+            "heading": "Graacher-Domprobst",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
             "description": "",
@@ -655,9 +655,9 @@
         "collection_3GCcqT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "graacher-himmerlreich",
             "subheading": "",
-            "heading": "Collection Heading",
+            "heading": "Graacher-Himmerlreich",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
             "description": "",
@@ -670,9 +670,9 @@
         "collection_fNirxe": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "wehlener-sonnenuhr",
             "subheading": "",
-            "heading": "Collection Heading",
+            "heading": "Wehlener-Sonnenuhr",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
             "description": "",
@@ -685,9 +685,9 @@
         "collection_YkXttR": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "urziger-wurzgarten",
             "subheading": "",
-            "heading": "Collection Heading",
+            "heading": "Ürziger Würzgarten",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
             "description": "",
