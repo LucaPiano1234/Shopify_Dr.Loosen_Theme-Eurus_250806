@@ -367,7 +367,7 @@
         "line_border_dark": "rgba(0,0,0,0)",
         "icon_color_dark": "rgba(0,0,0,0)",
         "show_section_divider": false,
-        "full_width": true,
+        "full_width": false,
         "padding_full_width": false,
         "adapt_corners_desktop": true,
         "rounded_corner_section": false,
@@ -476,6 +476,102 @@
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
         "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
+      }
+    },
+    "image_with_text_xqcgeY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gLgerH": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Philosophie",
+            "heading": "[\"Ein großer Wein entsteht im Kopf.\"]",
+            "highlight_type": "font_highlight",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität. Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p>Diesen Prinzipien fühlen wir uns auf unseren beiden Weingütern Dr. Loosen an der Mosel und Villa Wolf in der Pfalz verpflichtet. Wir wollen Weine erzeugen, die zum Genuss verführen, die konzentriert und komplex sind und auf unverwechselbare Weise ihre Herkunft wiederspiegeln.</p><p>Wenn ich einen Wein aus unserer Ersten Großen Lage Wehlener Sonnenuhr trinke, dann möchte ich den blauen Schiefer riechen, der die Trauben genährt hat und die Frucht schmecken, die mit diesem einzigartigen Terroir verbunden ist. Ich möchte den besonderen Charakter eines Jahrgangs erleben. Das ist das Besondere, was Wein von jedem anderen Getränk unterscheidet.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "#313e4d",
+            "text_light": "#53585e",
+            "color_heading_highlight_light": "#53585e",
+            "heading_dark": "#000000",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_fAWVM8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gLgerH",
+        "button_fAWVM8"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": true,
+        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-09972.webp",
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "medium",
+        "image_layout": "stacked",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "no-overlap",
+        "spacing_image": true,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#ffffff",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "none",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "right",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 0,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 28,
         "bottom_padding_mobile": 0
       }
     },
@@ -732,44 +828,11 @@
     "collage_D4GGTK": {
       "type": "collage",
       "blocks": {
-        "image_T4EY8F": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2023-09_HoR_DrLoosen-08722_1.jpg",
-            "overlay_opacity": 0,
-            "image_link": "",
-            "open_new_window": false,
-            "image_padding": false,
-            "number_of_columns": 3,
-            "number_of_row": 2,
-            "title": "",
-            "highlight_type": "underline",
-            "title_size": 80,
-            "text": "",
-            "text_size": 100,
-            "button_label": "",
-            "button_link": "",
-            "show_button_style": "primary",
-            "open_new_window_button": false,
-            "text_align": "center",
-            "content_position": "center",
-            "title_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
-          }
-        },
         "collection_7cBBab": {
           "type": "collection",
           "settings": {
             "collection": "gg-reserve",
-            "number_of_columns": 2,
+            "number_of_columns": 1,
             "number_of_row": 1
           }
         },
@@ -807,7 +870,6 @@
         }
       },
       "block_order": [
-        "image_T4EY8F",
         "collection_7cBBab",
         "collection_4h4zK6",
         "collection_nkqQYL",
@@ -835,7 +897,7 @@
         "show_rating": false,
         "show_highlighted_features": true,
         "show_highlighted_attributes": true,
-        "max_columns": 6,
+        "max_columns": 5,
         "spacing": 20,
         "full_width": true,
         "show_section_divider": true,
@@ -855,7 +917,7 @@
         "collection_pG6JL6": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "bestseller",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -1278,117 +1340,6 @@
         "padding_bottom_mobile": 0
       }
     },
-    "product_attribute_table_FLAaYe": {
-      "type": "product-attribute-table",
-      "blocks": {
-        "product_dJBEi7": {
-          "type": "product",
-          "settings": {
-            "product": ""
-          }
-        },
-        "product_8A9Tmb": {
-          "type": "product",
-          "settings": {
-            "product": ""
-          }
-        },
-        "product_iNEGKV": {
-          "type": "product",
-          "settings": {
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "product_dJBEi7",
-        "product_8A9Tmb",
-        "product_iNEGKV"
-      ],
-      "name": "t:sections.product-table.name",
-      "settings": {
-        "criteria_option": "",
-        "list_option_show": "",
-        "heading": "[Product attribute] table",
-        "highlight_type": "font_highlight",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "subheading": "",
-        "conclusion": "<p>Summarize the key points, outcomes, or next steps to wrap up this section.</p>",
-        "button_label": "",
-        "button_link": "",
-        "open_new_window_button": false,
-        "background_color_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "hightlight_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "cell_light": "rgba(0,0,0,0)",
-        "button_light": "rgba(0,0,0,0)",
-        "button_text_light": "rgba(0,0,0,0)",
-        "button_hover_light": "rgba(0,0,0,0)",
-        "button_text_hover_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "hightlight_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "cell_dark": "rgba(0,0,0,0)",
-        "button_dark": "rgba(0,0,0,0)",
-        "button_text_dark": "rgba(0,0,0,0)",
-        "button_hover_dark": "rgba(0,0,0,0)",
-        "button_text_hover_dark": "rgba(0,0,0,0)",
-        "content_layout_desktop": "horizontal",
-        "full_width": false,
-        "show_section_divider": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "content_layout_mobile": "horizontal",
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28
-      }
-    },
-    "6c240d5b-c5b1-4370-96f5-adff063eb83e": {
-      "type": "image-comparison",
-      "settings": {
-        "heading": "",
-        "highlight_type": "underline",
-        "heading_base_size": 100,
-        "heading_tag": "h2",
-        "layout_comparison": "horizontal",
-        "desktop_height": "750px",
-        "mobile_height": "400px",
-        "adapt_radius": false,
-        "image_corner_radius": 0,
-        "label_edges_type": "rounded_corners",
-        "heading_before_image": "Before",
-        "heading_base_size_before_image": 100,
-        "heading_before_image_position": "bottom",
-        "heading_after_image": "After",
-        "heading_base_size_after_image": 100,
-        "heading_after_image_position": "bottom",
-        "default_scroll_position": 50,
-        "text_position": "start",
-        "text_alignment": "start",
-        "heading_color": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
-        "text_background_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "text_background_dark": "rgba(0,0,0,0)",
-        "image_alignment": "md:flex-row",
-        "full_width": true,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "flex-col",
-        "full_width_mobile": true,
-        "show_section_divider_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
-      }
-    },
     "video_looping_ijQzex": {
       "type": "video-looping",
       "blocks": {
@@ -1617,174 +1568,6 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 48,
         "padding_bottom_mobile": 28
-      }
-    },
-    "flow_ijDEpw": {
-      "type": "flow",
-      "blocks": {
-        "media_kGBdpV": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": true,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "Subheading",
-            "heading": "Media heading",
-            "image_style_heading": "rounded",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "<p>Tell your brand's story through images</p>",
-            "button_text": "Button text",
-            "button_link": "",
-            "open_new_window_button": true,
-            "show_button_style": "primary"
-          }
-        },
-        "media_zVwxma": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": true,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "Subheading",
-            "heading": "Media heading",
-            "image_style_heading": "rounded",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "<p>Tell your brand's story through images</p>",
-            "button_text": "Button text",
-            "button_link": "",
-            "open_new_window_button": true,
-            "show_button_style": "primary"
-          }
-        },
-        "media_aGjgLr": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": true,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "Subheading",
-            "heading": "Media heading",
-            "image_style_heading": "rounded",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "<p>Tell your brand's story through images</p>",
-            "button_text": "Button text",
-            "button_link": "",
-            "open_new_window_button": true,
-            "show_button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "media_kGBdpV",
-        "media_zVwxma",
-        "media_aGjgLr"
-      ],
-      "settings": {
-        "heading": "[Flow] Heading",
-        "highlight_type": "font_highlight",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "content_position": "middle",
-        "content_alignment": "left",
-        "select_motion": "hover",
-        "open_first_tab": true,
-        "adapt_radius": true,
-        "image_corner_radius": 20,
-        "auto_play": false,
-        "change_steps_speed": 8,
-        "pause_hover": true,
-        "background_color": "rgba(0,0,0,0)",
-        "heading_color": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "image_position": "first",
-        "full_width": false,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "desktop_height": "750px",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "image_position_mobile": "second",
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "mobile_height": "400px",
-        "padding_top_mobile": 48,
-        "padding_bottom_mobile": 48
-      }
-    },
-    "highlight_text_with_image_nUBnKX": {
-      "type": "highlight-text-with-image",
-      "blocks": {
-        "image_q7xqgV": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "open_new_window": false,
-            "image_style": "rounded",
-            "image_ratio": "none",
-            "image_width": 86,
-            "image_width_mobile": 70
-          }
-        },
-        "image_YnX4f6": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "open_new_window": false,
-            "image_style": "rounded",
-            "image_ratio": "none",
-            "image_width": 86,
-            "image_width_mobile": 70
-          }
-        },
-        "image_EydDzk": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "open_new_window": false,
-            "image_style": "rounded",
-            "image_ratio": "aspect-4/3",
-            "image_width": 86,
-            "image_width_mobile": 70
-          }
-        }
-      },
-      "block_order": [
-        "image_q7xqgV",
-        "image_YnX4f6",
-        "image_EydDzk"
-      ],
-      "settings": {
-        "section_height": "fit_content",
-        "anim_speed": "3000",
-        "equal_lines": false,
-        "section_text": "Highlight products, [img1] a collection, or [img2] images alongside a brand message [img3]",
-        "heading_size": 180,
-        "heading_tag": "h2",
-        "subheading": "",
-        "text_alignment": "center",
-        "image_ratio": "aspect-square",
-        "button_text": "",
-        "button_link": "",
-        "open_new_window_button": false,
-        "show_button_style": "secondary",
-        "text_light": "rgba(0,0,0,0)",
-        "background_color_light": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "show_section_divider": false,
-        "make_full_page_width": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "show_section_divider_mobile": true,
-        "padding_top_mobile": 64,
-        "padding_bottom_mobile": 64
       }
     },
     "testimonials_with_card_ErTtk4": {
@@ -2143,17 +1926,14 @@
     "multicolumn_rxMYDJ",
     "product_highlight_PDTNQP",
     "image_with_text_BKHFTg",
+    "image_with_text_xqcgeY",
     "flow_cHX3gh",
     "image_comparison_XjyzP7",
     "collage_D4GGTK",
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
     "promotion_banner_ijXatP",
     "media_gallery_B3NkJH",
-    "product_attribute_table_FLAaYe",
-    "6c240d5b-c5b1-4370-96f5-adff063eb83e",
     "video_looping_ijQzex",
-    "flow_ijDEpw",
-    "highlight_text_with_image_nUBnKX",
     "testimonials_with_card_ErTtk4",
     "social_feeds_39n9Ne"
   ]
