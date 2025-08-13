@@ -303,7 +303,7 @@
           "settings": {
             "open_by_default": false,
             "heading_menu": "Menu",
-            "menu": "",
+            "menu": "main-menu",
             "show_social_icons": false
           }
         },
