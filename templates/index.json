@@ -442,7 +442,7 @@
         "show_highlighted_features": true,
         "show_highlighted_attributes": true,
         "show_quickview": true,
-        "product_background": "#313e4d",
+        "product_background": "#ffffff",
         "product_background_dark": "rgba(0,0,0,0)",
         "line_border": "line",
         "icon_position": "col",
