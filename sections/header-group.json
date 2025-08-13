@@ -147,7 +147,7 @@
         "full_width": true,
         "logo_position": "above-center",
         "mobile_header_layout": "left-right",
-        "sticky_header_type": "reduce-logo-size",
+        "sticky_header_type": "on-scroll-up",
         "logo": "shopify://shop_images/20250729_WG_Dr.Loosen_Logo_Weiss_Rot_1_83a777ca-efab-4c20-ad8f-ad7e7c84792c.png",
         "logo_width": 120,
         "logo_width_mobile": 90,
