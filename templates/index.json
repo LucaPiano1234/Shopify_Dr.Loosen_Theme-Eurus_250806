@@ -444,7 +444,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen<a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
+            "text": "<p>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen <a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen.</p><p>Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -791,6 +791,7 @@
       "settings": {
         "show_hero": true,
         "image": "shopify://shop_images/2020-05_HoR_DrLoosen-09972.webp",
+        "image_second": "shopify://shop_images/2021-09_HoR_Loosen-03837_1.jpg",
         "desktop_height": "550px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
@@ -801,7 +802,7 @@
         "video_url": "",
         "video_alt_text": "",
         "enable_video_autoplay": false,
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "spacing_image": true,
         "text_position": "center",
         "text_alignment": "start",
@@ -821,13 +822,13 @@
         "text_color_dark": "rgba(0,0,0,0)",
         "line_border_dark": "rgba(0,0,0,0)",
         "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "right",
+        "image_alignment": "left",
         "full_width": false,
         "padding_full_width": false,
         "top_padding": 0,
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
-        "full_width_mobile": false,
+        "full_width_mobile": true,
         "top_padding_mobile": 28,
         "bottom_padding_mobile": 24
       }
@@ -1164,6 +1165,7 @@
       "name": "t:sections.promotion-banner.name",
       "settings": {
         "heading": "Promotion Banner",
+        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01541_1.jpg",
         "image_link": "",
         "open_new_window": false,
         "image_overlay_opacity": 30,
@@ -1188,10 +1190,10 @@
         "padding_bottom_mobile": 0
       }
     },
-    "video_looping_ijQzex": {
+    "video_looping_BY7qQM": {
       "type": "video-looping",
       "blocks": {
-        "shoppable_video_RBjj77": {
+        "shoppable_video_eJPP9d": {
           "type": "shoppable_video",
           "settings": {
             "show_sound_control": false,
@@ -1228,7 +1230,7 @@
             "hotspot_mobile_vertical_5": 20
           }
         },
-        "shoppable_video_XxrzM7": {
+        "shoppable_video_xMKEmg": {
           "type": "shoppable_video",
           "settings": {
             "show_sound_control": false,
@@ -1265,7 +1267,7 @@
             "hotspot_mobile_vertical_5": 20
           }
         },
-        "shoppable_video_Cazcjd": {
+        "shoppable_video_Xfm4CP": {
           "type": "shoppable_video",
           "settings": {
             "show_sound_control": false,
@@ -1302,7 +1304,7 @@
             "hotspot_mobile_vertical_5": 20
           }
         },
-        "shoppable_video_Armr8L": {
+        "shoppable_video_BnmyWj": {
           "type": "shoppable_video",
           "settings": {
             "show_sound_control": false,
@@ -1341,10 +1343,10 @@
         }
       },
       "block_order": [
-        "shoppable_video_RBjj77",
-        "shoppable_video_XxrzM7",
-        "shoppable_video_Cazcjd",
-        "shoppable_video_Armr8L"
+        "shoppable_video_eJPP9d",
+        "shoppable_video_xMKEmg",
+        "shoppable_video_Xfm4CP",
+        "shoppable_video_BnmyWj"
       ],
       "name": "Video looping",
       "settings": {
@@ -1484,7 +1486,7 @@
     "collage_D4GGTK",
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
     "promotion_banner_ijXatP",
-    "video_looping_ijQzex",
+    "video_looping_BY7qQM",
     "testimonials_with_card_ErTtk4"
   ]
 }
