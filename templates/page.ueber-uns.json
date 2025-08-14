@@ -339,7 +339,7 @@
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
-        "adapt_radius": false,
+        "adapt_radius": true,
         "image_corner_radius": 0,
         "show_sound_control": false,
         "video_url": "",
