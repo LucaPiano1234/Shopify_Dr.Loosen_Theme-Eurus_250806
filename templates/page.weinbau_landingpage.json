@@ -199,8 +199,8 @@
         "heading_g6cRQb": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
