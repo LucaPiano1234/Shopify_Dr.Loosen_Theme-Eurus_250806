@@ -382,6 +382,7 @@
         "media_TcbDmB": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/DrLoosen_Praelat_Treppchen_30x20cm_300dpi_DrLoosen_1.jpg",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -400,6 +401,7 @@
         "media_mPPVxX": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01580_1.jpg",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -418,6 +420,7 @@
         "media_yCiN4K": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00440_1.jpg",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
