@@ -84,59 +84,10 @@
             "color_product_card_background": "rgba(0,0,0,0)",
             "color_product_card_text": "rgba(0,0,0,0)"
           }
-        },
-        "slide_T4tN7A": {
-          "type": "slide",
-          "settings": {
-            "image_link": "",
-            "open_new_window_image": false,
-            "overlay_opacity": 0,
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": false,
-            "video_alt_text": "",
-            "enable_bakground": false,
-            "subheading": "",
-            "subheading_size": 100,
-            "heading": "Slide title",
-            "highlight_type": "underline",
-            "heading_size": 170,
-            "heading_tag": "h2",
-            "text": "<p>Tell your brand's story through images</p>",
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "open_new_window_button": false,
-            "show_button_style_1": "primary",
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "open_new_window_button_2": false,
-            "show_button_style_2": "primary",
-            "content_alignment": "middle-center",
-            "custom_horizontal": 50,
-            "custom_vertical": 50,
-            "alignment": "center",
-            "text_product": "Check out our products:",
-            "list_products": [],
-            "show_rating": false,
-            "open_new_window_product": false,
-            "content_background_color": "rgba(0,0,0,0)",
-            "color_text": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_product_card_background": "rgba(0,0,0,0)",
-            "color_product_card_text": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "slide_PQEW7a",
-        "slide_T4tN7A"
+        "slide_PQEW7a"
       ],
       "name": "t:sections.slideshow.name",
       "settings": {
@@ -287,10 +238,11 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
+        "image": "shopify://shop_images/2023-09_HoR_DrLoosen-07774_1.jpg",
         "desktop_height": "550px",
         "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "normal",
+        "desktop_image_width": "medium",
+        "image_layout": "stacked",
         "adapt_radius": true,
         "image_corner_radius": 0,
         "show_sound_control": false,
@@ -430,6 +382,7 @@
           "type": "media",
           "settings": {
             "show_sound_control": false,
+            "video_url": "",
             "video_alt_text": "",
             "enable_video_autoplay": false,
             "subheading": "",
@@ -447,6 +400,7 @@
           "type": "media",
           "settings": {
             "show_sound_control": false,
+            "video_url": "",
             "video_alt_text": "",
             "enable_video_autoplay": false,
             "subheading": "",
@@ -464,6 +418,7 @@
           "type": "media",
           "settings": {
             "show_sound_control": false,
+            "video_url": "",
             "video_alt_text": "",
             "enable_video_autoplay": false,
             "subheading": "",
