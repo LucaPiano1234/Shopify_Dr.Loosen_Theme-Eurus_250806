@@ -180,7 +180,7 @@
         "text_6dtUqn": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von</strong><a href=\"https://drloosen.com/ueber-uns/Weinbau\">Ernst F. Loosen </a><strong>geführt. Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen</strong><a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a><strong>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. Seit 1993 ist das Weingut Mitglied im</strong><a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a><strong>.</strong></p>",
+            "text": "<p>Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von Ernst F. Loosen geführt. Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen<a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -205,21 +205,12 @@
             "secondary_button_text": "rgba(0,0,0,0)",
             "colors_text_link": "rgba(0,0,0,0)"
           }
-        },
-        "caption_gr7dhj": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "uppercase",
-            "text_size": 100
-          }
         }
       },
       "block_order": [
         "heading_HwMneC",
         "text_6dtUqn",
-        "button_XTFGg6",
-        "caption_gr7dhj"
+        "button_XTFGg6"
       ],
       "name": "t:sections.rich-text.name",
       "settings": {
@@ -268,7 +259,7 @@
         "button_MgArwQ": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "GG Paket entdecken",
             "button_link": "",
             "open_new_window": false,
             "show_button_style": "primary",
@@ -363,7 +354,7 @@
         "button_mDNmpQ": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Mehr zum Weinbau",
             "button_link": "",
             "open_new_window": false,
             "show_button_style": "primary",
@@ -650,34 +641,10 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_T8dWWN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_NATNHy",
-        "button_T8dWWN"
+        "heading_NATNHy"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
