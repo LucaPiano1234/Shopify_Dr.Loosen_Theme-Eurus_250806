@@ -586,6 +586,7 @@
         "column_fJ3UjJ",
         "column_cNwmwd"
       ],
+      "disabled": true,
       "name": "t:sections.text-column-image.name",
       "settings": {
         "title": "Qualitätsfaktoren",
@@ -633,12 +634,12 @@
         "heading_NATNHy": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "ZERTIFIZIERUNG",
+            "heading": "ZERTIFIZIERUNG",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<h5><a href=\"https://www.drloosen.com/ueber-uns/philosophie/\">Philosophie</a></h5><h5><a href=\"https://www.drloosen.com/ueber-uns/qualitaetsfaktoren/\">Qualitätsfaktoren</a></h5><h5><a href=\"https://www.drloosen.com/ueber-uns/weinbau/\">Weinbau</a></h5>",
+            "text": "<p>„Spitzenqualität beim Wein verdankt sich einem sehr komplexen Prozess, der alle Bereiche umfasst: von einer nachhaltigen und verantwortungsvollen Arbeit im Weinberg, über viel Fingerspitzengefühl für die Abläufe im Keller bis hin zu sicheren Arbeitsplätzen für unsere Mitarbeiter, einer guten Zusammenarbeit mit unseren Lieferanten und natürlich einer hohen Kundenzufriedenheit. <br/><br/>In diesem Sinne bekennen wir uns auch dazu, unsere Service- und Prozessqualität auf hohem Niveau zu etablieren und da, wo möglich, und sinnvoll kontinuierlich zu verbessern.<br/><br/>In einem integrierten Qualitätsmanagement erfüllen wir die Kernforderungen der ISO 9001 ebenso wie ein Lebensmittelsicherheitsmanagement, dass sich an den Forderungen der ISO 22000, der ISO 14001 zum Umweltmanagement bzw. dem 45001 zu Arbeitsschutz orientiert.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -681,9 +682,10 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "desktop_height": "550px",
+        "image": "shopify://shop_images/Ecostep_logo.png",
+        "desktop_height": "natural",
         "mobile_height": "400px",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
         "image_corner_radius": 0,
