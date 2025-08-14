@@ -609,7 +609,7 @@
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/Ecostep_logo.png",
-        "desktop_height": "natural",
+        "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
@@ -619,7 +619,7 @@
         "video_url": "",
         "video_alt_text": "",
         "enable_video_autoplay": false,
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "spacing_image": false,
         "text_position": "center",
         "text_alignment": "start",
