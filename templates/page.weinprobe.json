@@ -141,7 +141,7 @@
         "button_XTFGg6": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Zur Verkostungsanfrage",
             "button_link": "",
             "open_new_window_button": false,
             "show_button_style_1": "primary",
