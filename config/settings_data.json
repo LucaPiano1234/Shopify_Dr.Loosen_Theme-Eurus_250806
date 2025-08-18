@@ -189,11 +189,6 @@
     "products_hover_to_reveal_second_image": true,
     "content_for_index": [],
     "blocks": {
-      "10746902591489815047": {
-        "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
-        "disabled": false,
-        "settings": {}
-      },
       "13768625480086291342": {
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
@@ -210,6 +205,11 @@
         "settings": {
           "hide_label": true
         }
+      },
+      "10746902591489815047": {
+        "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
