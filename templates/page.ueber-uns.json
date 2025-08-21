@@ -475,7 +475,7 @@
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "mobile_height": "400px",
-        "padding_top_mobile": 28,
+        "padding_top_mobile": 68,
         "padding_bottom_mobile": 28
       }
     },
@@ -623,7 +623,7 @@
         "spacing_image": false,
         "text_position": "center",
         "text_alignment": "start",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#ffffff",
         "background_color_dark": "rgba(0,0,0,0)",
         "line_border": "dashed",
         "icon_position": "col",
