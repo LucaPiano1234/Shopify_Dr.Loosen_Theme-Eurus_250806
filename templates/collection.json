@@ -479,7 +479,7 @@
         "desktop_height": "natural",
         "mobile_height": "400px",
         "desktop_image_width": "large",
-        "image_layout": "normal",
+        "image_layout": "stacked",
         "adapt_radius": true,
         "image_corner_radius": 0,
         "show_sound_control": false,
