@@ -279,34 +279,10 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_mDNmpQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Mehr zum Weinbau",
-            "button_link": "shopify://pages/weinbau",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_extqht",
-        "button_mDNmpQ"
+        "heading_extqht"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
@@ -353,103 +329,32 @@
         "bottom_padding_mobile": 0
       }
     },
-    "text_column_with_image_nYrgLi": {
-      "type": "text-column-with-image",
+    "175577628406739bd7": {
+      "type": "apps",
       "blocks": {
-        "column_jhtKrF": {
-          "type": "column",
+        "forms_inline_CGtDDp": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "image_link": "",
-            "open_new_window_image": false,
-            "sub_title": "",
-            "title": "Column",
-            "highlight_type": "underline",
-            "heading_size": 100,
-            "text": "<p>Die nach Süden ausgerichteten Steillagen und ihre Nähe zur Mosel erzeugen ein perfektes Mikroklima für unseren Riesling. Der Südhang garantiert Sonnenlicht von morgens bis abends; der Steilhang lässt den Boden durch wenig Schattenwurf ideal erwärmen. Zusätzlich reflektiert die Mosel tagsüber die Sonnenstrahlen in den Weinberg, während sie nachts die gespeicherte Wärme abgibt und so für ein ausgeglichenes Mikroklima sorgt. Eine lange Vegetationsperiode erlaubt es den Trauben, langsam zu reifen und dabei ihre erfrischende Säure zu bewahren.</p>",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary"
-          }
-        },
-        "column_fJ3UjJ": {
-          "type": "column",
-          "settings": {
-            "image_link": "",
-            "open_new_window_image": false,
-            "sub_title": "",
-            "title": "Schieferboden",
-            "highlight_type": "underline",
-            "heading_size": 100,
-            "text": "<p>Der steinige Schieferboden, der an der Oberfläche des Weinbergs zu sehen ist, reflektiert während des Tages das Sonnenlicht zu den Trauben und speichert gleichzeitig einen Großteil der Wärme. Diese wird langsam an die unteren Bodenschichten abgegeben, wodurch auch in den kühleren Nächten ein sehr ausgeglichener Wärmehaushalt für die Rebstöcke erzeugt wird. Der Schiefer ist sehr kaliumhaltig und somit eine reichhaltige, natürliche Mineralienquelle. Er verleiht dem Moselriesling seinen unverwechselbaren mineralischen und lebendigen Charakter.</p>",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary"
-          }
-        },
-        "column_cNwmwd": {
-          "type": "column",
-          "settings": {
-            "image_link": "",
-            "open_new_window_image": false,
-            "sub_title": "",
-            "title": "Alte wurzelechte Rebstöcke",
-            "highlight_type": "underline",
-            "heading_size": 100,
-            "text": "<p>Aufgrund der sehr steinhaltigen und skelettreichen Böden ist ein großer Teil der Mosel noch reblausfrei. Alle sich im Eigentum von Dr. Loosen befindlichen Weinbergsparzellen sind noch mit wurzelechten Reben bepflanzt. Teilweise sind diese Rebstöcke bis zu 100 Jahre alt.</p>",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary"
+            "form_id": "619735",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
           }
         }
       },
       "block_order": [
-        "column_jhtKrF",
-        "column_fJ3UjJ",
-        "column_cNwmwd"
+        "forms_inline_CGtDDp"
       ],
-      "disabled": true,
-      "name": "t:sections.text-column-image.name",
       "settings": {
-        "title": "Qualitätsfaktoren",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "secondary_background": "column",
-        "image_ratio": "75%",
-        "adapt_corners": true,
-        "rounded_corner_image": false,
-        "column_content_alignment": "center",
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "heading_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "enable_desktop_slider": false,
-        "swiper_on_mobile": false,
-        "enable_arrow_mobile": false,
-        "auto_play": false,
-        "change_bar_every": 5,
-        "image_position_desktop": "top",
-        "column_layout_desktop": "lg:w-1/3",
-        "spacing_desktop": 7,
-        "full_width": false,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "image_position_mobile": "top",
-        "column_layout_mobile": "w-full",
-        "spacing_mobile": 16,
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 20,
-        "padding_bottom_mobile": 20
+        "include_margins": true
       }
     }
   },
@@ -459,6 +364,6 @@
     "rich_text_RaY8Qw",
     "image_with_text_feQhxP",
     "image_with_text_yHGk6D",
-    "text_column_with_image_nYrgLi"
+    "175577628406739bd7"
   ]
 }
