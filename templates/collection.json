@@ -427,12 +427,12 @@
         "heading_cxdmCz": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "Weingut Dr. Loosen",
+            "heading": "200 Jahre Familiengeschichte",
             "highlight_type": "underline",
-            "heading_base_size": 100,
+            "heading_base_size": 80,
             "heading_tag": "h2",
-            "text": "<p>Die Trauben für unsere Weine kommen ausschließlich aus unseren gutseigenen Lagen der Mittelmosel. Sie werden von Hand gelesen und selektiert. Village und Premier Cru Lagen verarbeiten wir zu VDP.Guts- und VDP.Ortsweinen. Die Grand Cru Lagen werden separat ausgebaut und – je nach jahrgangsspezifischen Bedingungen – zu großen trockenen Lagen-Rieslingen und den klassischen Prädikaten bis hin zur  Trockenbeerenauslese verarbeitet.</p>",
+            "text": "<p>Die Trauben für unsere Weine kommen ausschließlich aus unseren gutseigenen Lagen der Mittelmosel. <strong>Sie werden von Hand gelesen und selektiert. </strong></p><p>Village und Premier Cru Lagen verarbeiten wir zu VDP.Guts- und VDP.Ortsweinen. Die Grand Cru Lagen werden separat ausgebaut und – je nach jahrgangsspezifischen Bedingungen – zu großen trockenen Lagen-Rieslingen und den klassischen Prädikaten bis hin zur  Trockenbeerenauslese verarbeitet.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,10 +447,10 @@
         "button_MKfpem": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "VDP. Weine entdecken",
+            "button_link": "shopify://collections",
             "open_new_window": false,
-            "show_button_style": "primary",
+            "show_button_style": "text-link",
             "button_light": "rgba(0,0,0,0)",
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
@@ -475,7 +475,8 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "desktop_height": "550px",
+        "image": "shopify://shop_images/csm_2016_Klassifikationspyramide_alle_Stufen_tuerkis_by_VDP_ab56c2ad12_1280x1280_7c0c4479-cd18-43ee-96d1-5273dc13d88f.png",
+        "desktop_height": "natural",
         "mobile_height": "400px",
         "desktop_image_width": "large",
         "image_layout": "normal",
