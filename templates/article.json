@@ -16,7 +16,7 @@
           "type": "featured_image",
           "settings": {
             "desktop_height": "auto",
-            "full_width": true,
+            "full_width": false,
             "mobile_height": "250px",
             "full_width_mobile": true
           }
