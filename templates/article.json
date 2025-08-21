@@ -75,7 +75,7 @@
         "bottom_padding": 0,
         "page_width": 1400,
         "enable_table_of_contents": true,
-        "table_of_contents_title": "Table of Contents",
+        "table_of_contents_title": "Inhaltsverzeichnisses",
         "table_position": "left",
         "open_tab": true,
         "sticky_table_of_contents": false,
