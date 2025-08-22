@@ -169,32 +169,9 @@
             "heading_tag": "h2",
             "text": "<p>Hurry up! Get the best deal at best price</p>",
             "text_size": 100,
-            "coupon_code": "#SALECODE",
+            "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
             "coupon_color_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "countdown_timer_KVaLz7": {
-          "type": "countdown_timer",
-          "settings": {
-            "countdown_type": "standard",
-            "countdown_interval": 7,
-            "interval_unit": "day",
-            "timezone": "-4",
-            "end_year": 2023,
-            "end_month": "1",
-            "end_day": "1",
-            "end_hour": "0",
-            "end_minute": "0",
-            "text_position": "below",
-            "timer_style": "square",
-            "border_style": "line_vertical",
-            "overlay_opacity": 100,
-            "timer_color_countdown": "rgba(0,0,0,0)",
-            "text_color_countdown": "rgba(0,0,0,0)",
-            "bg_color_countdown": "rgba(0,0,0,0)",
-            "spacing_col": 40,
-            "spacing_col_mobile": 8
           }
         },
         "buttons_HWUyYR": {
@@ -216,10 +193,8 @@
       },
       "block_order": [
         "image_banner_JMnR76",
-        "countdown_timer_KVaLz7",
         "buttons_HWUyYR"
       ],
-      "disabled": true,
       "name": "t:sections.flash-sale.name",
       "settings": {
         "image_overlay_opacity": 0,
@@ -233,7 +208,7 @@
         "rounded_corner_image": true,
         "spacing_col": 40,
         "spacing_row": 32,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 28,
         "content_alignment_mobile": "center",
         "full_width_mobile": false,
@@ -242,10 +217,10 @@
         "spacing_row_mobile": 20,
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 20,
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "#313e4d",
+        "heading_light": "#ffffff",
+        "color_heading_highlight_light": "#e1e3e1",
+        "text_light": "#e1e3e1",
         "line_border_light": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
         "heading_dark": "rgba(0,0,0,0)",
@@ -580,128 +555,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "collage_bQj3RW": {
-      "type": "collage",
-      "blocks": {
-        "image_KP9Hba": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity": 0,
-            "image_link": "",
-            "open_new_window": false,
-            "image_padding": false,
-            "number_of_columns": 2,
-            "number_of_row": 2,
-            "title": "",
-            "highlight_type": "underline",
-            "title_size": 80,
-            "text": "",
-            "text_size": 100,
-            "button_label": "",
-            "button_link": "",
-            "show_button_style": "primary",
-            "open_new_window_button": false,
-            "text_align": "center",
-            "content_position": "center",
-            "title_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
-          }
-        },
-        "product_3C6QaF": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "show_quickview": true,
-            "info_alignment": "center",
-            "desktop_size": "large",
-            "number_of_columns": 1,
-            "number_of_row": 1
-          }
-        },
-        "product_tEPbGi": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "show_quickview": true,
-            "info_alignment": "center",
-            "desktop_size": "large",
-            "number_of_columns": 1,
-            "number_of_row": 1
-          }
-        },
-        "product_NYzpTM": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "show_quickview": true,
-            "info_alignment": "center",
-            "desktop_size": "large",
-            "number_of_columns": 1,
-            "number_of_row": 1
-          }
-        },
-        "product_VjTcDA": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "show_quickview": true,
-            "info_alignment": "center",
-            "desktop_size": "large",
-            "number_of_columns": 1,
-            "number_of_row": 1
-          }
-        }
-      },
-      "block_order": [
-        "image_KP9Hba",
-        "product_3C6QaF",
-        "product_tEPbGi",
-        "product_NYzpTM",
-        "product_VjTcDA"
-      ],
-      "name": "t:sections.collage.name",
-      "settings": {
-        "heading": "[Exclusively] for you.",
-        "highlight_type": "font_highlight",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "subheading": "",
-        "text": "<p>Four travel-sized remedies for jet lag, tension, dry skin, and summer stress. </p>",
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "heading_highlight_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "heading_highlight_color_dark": "rgba(0,0,0,0)",
-        "show_vendor": false,
-        "show_rating": false,
-        "show_highlighted_features": true,
-        "show_highlighted_attributes": true,
-        "max_columns": 4,
-        "spacing": 20,
-        "full_width": true,
-        "show_section_divider": true,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "min_columns_mobile": "2",
-        "spacing_mobile": 16,
-        "full_width_mobile": false,
-        "show_section_divider_mobile": true,
-        "padding_top_mobile": 48,
-        "padding_bottom_mobile": 48
-      }
-    },
     "multicolumn_M3Rbqp": {
       "type": "multicolumn",
       "blocks": {
@@ -796,6 +649,101 @@
         "padding_top_mobile": 24,
         "padding_bottom_mobile": 24
       }
+    },
+    "image_with_text_bfjRN6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gVy3dt": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Weingut Dr. Loosen",
+            "heading": "Pionier der wiederentdeckten deutschen Riesling-Kultur",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von Ernst F. Loosen geführt. <strong>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte.</strong></p><p>Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen <a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, <strong>komplexe Weine von Welt-Niveau herzustellen.</strong> Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. </p><p>Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_LRp9Hn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gVy3dt",
+        "button_LRp9Hn"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": false,
+        "image": "shopify://shop_images/2023-09_HoR_DrLoosen-07109_1.jpg",
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "right",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 44,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
+      }
     }
   },
   "order": [
@@ -806,7 +754,7 @@
     "rich_text_kWfTmF",
     "image_with_text_yMdDNR",
     "collection_list_qLaYxH",
-    "collage_bQj3RW",
-    "multicolumn_M3Rbqp"
+    "multicolumn_M3Rbqp",
+    "image_with_text_bfjRN6"
   ]
 }
