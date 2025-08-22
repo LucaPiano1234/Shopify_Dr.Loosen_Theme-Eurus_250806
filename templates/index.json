@@ -462,8 +462,8 @@
         "button_g7VpKH": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Mehr über uns",
+            "button_link": "shopify://pages/uber-uns",
             "open_new_window": false,
             "show_button_style": "text-link",
             "button_light": "rgba(0,0,0,0)",
