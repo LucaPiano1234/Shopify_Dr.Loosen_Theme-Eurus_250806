@@ -533,6 +533,103 @@
         "bottom_padding_mobile": 0
       }
     },
+    "image_with_text_xqcgeY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gLgerH": {
+          "type": "heading",
+          "settings": {
+            "subheading": "",
+            "heading": "\"Ein großer Wein entsteht im Kopf.\"",
+            "highlight_type": "font_highlight",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität. Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p>Diesen Prinzipien fühlen wir uns auf unseren beiden Weingütern Dr. Loosen an der Mosel und Villa Wolf in der Pfalz verpflichtet. Wir wollen Weine erzeugen, die zum Genuss verführen, die konzentriert und komplex sind und auf unverwechselbare Weise ihre Herkunft wiederspiegeln.</p><p>Wenn ich einen Wein aus unserer Ersten Großen Lage Wehlener Sonnenuhr trinke, dann möchte ich den blauen Schiefer riechen, der die Trauben genährt hat und die Frucht schmecken, die mit diesem einzigartigen Terroir verbunden ist. Ich möchte den besonderen Charakter eines Jahrgangs erleben. Das ist das Besondere, was Wein von jedem anderen Getränk unterscheidet.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.<br/><br/>Ernst Loosen</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "#313e4d",
+            "text_light": "#53585e",
+            "color_heading_highlight_light": "#53585e",
+            "heading_dark": "#000000",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_fAWVM8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Alle Weine",
+            "button_link": "shopify://collections/alle-weine",
+            "open_new_window": false,
+            "show_button_style": "text-link",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gLgerH",
+        "button_fAWVM8"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": true,
+        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-09972.webp",
+        "image_second": "shopify://shop_images/2021-09_HoR_Loosen-03837_1.jpg",
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "medium",
+        "image_layout": "stacked",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": true,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#ffffff",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "none",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 0,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": true,
+        "top_padding_mobile": 28,
+        "bottom_padding_mobile": 24
+      }
+    },
     "flow_cHX3gh": {
       "type": "flow",
       "blocks": {
@@ -699,7 +796,6 @@
         "media_6CyrN6",
         "media_TcWnbW"
       ],
-      "disabled": true,
       "custom_css": [
         ".x-container-flow-media {width: 80%; height: auto; align-content: center;}"
       ],
@@ -738,103 +834,6 @@
         "mobile_height": "400px",
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
-      }
-    },
-    "image_with_text_xqcgeY": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_gLgerH": {
-          "type": "heading",
-          "settings": {
-            "subheading": "",
-            "heading": "\"Ein großer Wein entsteht im Kopf.\"",
-            "highlight_type": "font_highlight",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität. Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p>Diesen Prinzipien fühlen wir uns auf unseren beiden Weingütern Dr. Loosen an der Mosel und Villa Wolf in der Pfalz verpflichtet. Wir wollen Weine erzeugen, die zum Genuss verführen, die konzentriert und komplex sind und auf unverwechselbare Weise ihre Herkunft wiederspiegeln.</p><p>Wenn ich einen Wein aus unserer Ersten Großen Lage Wehlener Sonnenuhr trinke, dann möchte ich den blauen Schiefer riechen, der die Trauben genährt hat und die Frucht schmecken, die mit diesem einzigartigen Terroir verbunden ist. Ich möchte den besonderen Charakter eines Jahrgangs erleben. Das ist das Besondere, was Wein von jedem anderen Getränk unterscheidet.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.<br/><br/>Ernst Loosen</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "#313e4d",
-            "text_light": "#53585e",
-            "color_heading_highlight_light": "#53585e",
-            "heading_dark": "#000000",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "button_fAWVM8": {
-          "type": "button",
-          "settings": {
-            "button_label": "Alle Weine",
-            "button_link": "shopify://collections/alle-weine",
-            "open_new_window": false,
-            "show_button_style": "text-link",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gLgerH",
-        "button_fAWVM8"
-      ],
-      "name": "t:sections.image-with-text.name",
-      "settings": {
-        "show_hero": true,
-        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-09972.webp",
-        "image_second": "shopify://shop_images/2021-09_HoR_Loosen-03837_1.jpg",
-        "desktop_height": "550px",
-        "mobile_height": "400px",
-        "desktop_image_width": "medium",
-        "image_layout": "stacked",
-        "adapt_radius": true,
-        "image_corner_radius": 0,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "overlap",
-        "spacing_image": true,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "#ffffff",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "none",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": true,
-        "top_padding_mobile": 28,
-        "bottom_padding_mobile": 24
       }
     },
     "promotion_banner_ijXatP": {
@@ -1440,8 +1439,8 @@
     "rich_text_KK6zbr",
     "product_highlight_PDTNQP",
     "image_with_text_BKHFTg",
-    "flow_cHX3gh",
     "image_with_text_xqcgeY",
+    "flow_cHX3gh",
     "promotion_banner_ijXatP",
     "collage_D4GGTK",
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
