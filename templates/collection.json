@@ -519,7 +519,7 @@
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
-        "heading": "Unsre",
+        "heading": "Kollektionen",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -752,7 +752,7 @@
           "type": "heading",
           "settings": {
             "subheading": "Weingut Dr. Loosen",
-            "heading": "Pionier der wiederentdeckten deutschen Riesling-Kultur",
+            "heading": "UNSERE LAGEN",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
@@ -800,7 +800,7 @@
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
-        "desktop_height": "550px",
+        "desktop_height": "natural",
         "mobile_height": "400px",
         "desktop_image_width": "large",
         "image_layout": "normal",
