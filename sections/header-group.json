@@ -20,7 +20,7 @@
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "text": "Hurry up! 30% OFF Sale Ends Soon {count_down}",
+            "text": "Weingut Dr. Loosen⎥Erlesene Rieslinge aus der Mittelmosel",
             "text_size": 80,
             "link": "",
             "open_new_window": false,
@@ -45,47 +45,15 @@
             "end_minute": "0"
           }
         },
-        "announcement_Y3F3cU": {
+        "announcement_TP7FYj": {
           "type": "announcement",
           "settings": {
-            "icon": "none",
+            "icon": "telephone",
             "another_icon": "",
             "custom_icon": "",
-            "text": "Hurry up! 30% OFF Sale Ends Soon {count_down}",
+            "text": "+49 (0) 6531-3426",
             "text_size": 80,
-            "link": "",
-            "open_new_window": false,
-            "button_label_or_code": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "button_style": "primary",
-            "textlink_color_light": "rgba(0,0,0,0)",
-            "button_color": "rgba(0,0,0,0)",
-            "button_text_color": "rgba(0,0,0,0)",
-            "textlink_color_dark": "rgba(0,0,0,0)",
-            "button_color_dark": "rgba(0,0,0,0)",
-            "button_text_color_dark": "rgba(0,0,0,0)",
-            "countdown_type": "standard",
-            "countdown_interval": 7,
-            "interval_unit": "day",
-            "timezone": "-4",
-            "end_year": 2023,
-            "end_month": "1",
-            "end_day": "1",
-            "end_hour": "1",
-            "end_minute": "0"
-          }
-        },
-        "announcement_iVTKpX": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "Hurry up! 30% OFF Sale Ends Soon {count_down}",
-            "text_size": 80,
-            "link": "",
+            "link": "tel:+4965313426",
             "open_new_window": false,
             "button_label_or_code": "",
             "button_link": "",
@@ -111,16 +79,15 @@
       },
       "block_order": [
         "announcement_GewciB",
-        "announcement_Y3F3cU",
-        "announcement_iVTKpX"
+        "announcement_TP7FYj"
       ],
       "settings": {
         "enable": true,
         "show_only_on_homepage": false,
         "enable_sticky_bar": false,
         "show_social_icons": true,
-        "backgound_color": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
+        "backgound_color": "#313e4d",
+        "text_color": "#f3f6ef",
         "textlink_color_light": "rgba(0,0,0,0)",
         "backgound_color_dark": "rgba(0,0,0,0)",
         "text_color_dark": "rgba(0,0,0,0)",
