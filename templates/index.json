@@ -239,7 +239,7 @@
         "column_LEfVGd": {
           "type": "column",
           "settings": {
-            "icon": "truck",
+            "icon": "sun",
             "another_icon": "",
             "custom_icon": "",
             "title": "Ursprünglicher Ausbau",
@@ -253,29 +253,30 @@
         "column_ipkiCp": {
           "type": "column",
           "settings": {
-            "icon": "truck",
+            "icon": "another_icon",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/VDP_Logo_mit_Kuerzel_Schwarz.png",
             "custom_icon": "",
-            "title": "VDP",
+            "title": "VDP Weingut",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Seit 1993</p>"
           }
         },
         "column_ipMknc": {
           "type": "column",
           "settings": {
-            "icon": "truck",
+            "icon": "earth",
             "another_icon": "",
             "custom_icon": "",
-            "title": "Weltbekannte Schiefersteillagen der Mittelmosel",
+            "title": "Weltbekannte Schiefersteillagen",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Weltbekannte Schiefersteillagen der Mittelmosel</p>"
+            "text": "<p>in der Mittelmosel</p>"
           }
         }
       },
