@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_heading": true,
         "heading_size": 170,
@@ -35,7 +36,7 @@
     },
     "flow_3xpCEp": {
       "type": "flow",
-     "blocks": {
+      "blocks": {
         "media_pkLziH": {
           "type": "media",
           "settings": {
