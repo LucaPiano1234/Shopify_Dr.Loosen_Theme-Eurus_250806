@@ -269,8 +269,9 @@
         "column_ipMknc": {
           "type": "column",
           "settings": {
-            "icon": "earth",
+            "icon": "another_icon",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/erde.png",
             "custom_icon": "",
             "title": "Weltbekannte Schiefersteillagen",
             "highlight_type": "underline",
