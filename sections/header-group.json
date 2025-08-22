@@ -45,6 +45,37 @@
             "end_minute": "0"
           }
         },
+        "announcement_kUpxWe": {
+          "type": "announcement",
+          "settings": {
+            "icon": "message-text",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "E-Mail:",
+            "text_size": 80,
+            "link": "mailto:info@drloosen.de",
+            "open_new_window": false,
+            "button_label_or_code": "info@drloosen.de",
+            "button_link": "",
+            "open_new_window_button": false,
+            "button_style": "primary",
+            "textlink_color_light": "rgba(0,0,0,0)",
+            "button_color": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)",
+            "textlink_color_dark": "rgba(0,0,0,0)",
+            "button_color_dark": "rgba(0,0,0,0)",
+            "button_text_color_dark": "rgba(0,0,0,0)",
+            "countdown_type": "standard",
+            "countdown_interval": 7,
+            "interval_unit": "day",
+            "timezone": "-4",
+            "end_year": 2023,
+            "end_month": "1",
+            "end_day": "1",
+            "end_hour": "1",
+            "end_minute": "0"
+          }
+        },
         "announcement_TP7FYj": {
           "type": "announcement",
           "settings": {
@@ -79,6 +110,7 @@
       },
       "block_order": [
         "announcement_GewciB",
+        "announcement_kUpxWe",
         "announcement_TP7FYj"
       ],
       "settings": {
