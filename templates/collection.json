@@ -621,7 +621,7 @@
         "enable_arrow_mobile": false,
         "auto_play": true,
         "change_bar_every": 5,
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#ffffff",
         "heading_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
