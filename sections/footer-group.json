@@ -191,73 +191,62 @@
         "padding_bottom_mobile": 28
       }
     },
-    "product_tabs_armRpX": {
-      "type": "product-tabs",
+    "newsletter_p3bG4h": {
+      "type": "newsletter",
       "blocks": {
-        "tab_UUjBJY": {
-          "type": "tab",
+        "heading_eAYcfk": {
+          "type": "heading",
           "settings": {
-            "heading": "",
-            "page_tab": "",
-            "width_content": 100,
-            "subheading": "Example subheading",
-            "headingcontent": "Image with text",
+            "heading": "Erlesene Riesling-Geschichten aus der Mosel",
             "highlight_type": "underline",
-            "heading_base_size": 100,
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window": false,
-            "text_alignment": "center",
-            "text_position": "center",
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "desktop_height": "550px",
-            "image_alignment": "left",
-            "mobile_height": "400px",
-            "image_alignment_mobile": "left"
+            "heading_size": 100,
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": 100
+          }
+        },
+        "paragraph_mPAmyb": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Erhalten Sie exklusive Einblicke von Ernie Loosen in unsere Schiefersteillagen und 10% Willkommensrabatt auf Ihre erste Bestellung.</p>"
           }
         }
       },
       "block_order": [
-        "tab_UUjBJY"
+        "heading_eAYcfk",
+        "paragraph_mPAmyb"
       ],
-      "name": "t:sections.tabs.name",
+      "name": "t:sections.newsletter.name",
       "settings": {
-        "heading": "",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "tabs_desktop_alignment": "center",
-        "tabs_mobile_layout": "dropdown",
-        "review_tab_title": "Reviews",
-        "show_reviews_count": true,
-        "full_width": false,
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "full_width_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28,
-        "background_color_light": "rgba(0,0,0,0)",
+        "overlay_opacity": 0,
+        "form_width": "large",
+        "content_layout": "vertical",
+        "background_color_light": "",
         "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
         "button_light": "rgba(0,0,0,0)",
         "button_text_light": "rgba(0,0,0,0)",
         "button_hover_light": "rgba(0,0,0,0)",
         "button_text_hover_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "rgba(0,0,0,0)",
+        "background_color_dark": "",
         "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)",
         "button_dark": "rgba(0,0,0,0)",
         "button_text_dark": "rgba(0,0,0,0)",
         "button_hover_dark": "rgba(0,0,0,0)",
-        "button_text_hover_dark": "rgba(0,0,0,0)"
+        "button_text_hover_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "desktop_height": "450px",
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "mobile_height": "300px",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
       }
     },
     "1754563378eab3b526": {
@@ -371,7 +360,7 @@
   },
   "order": [
     "media_gallery_XyTX3X",
-    "product_tabs_armRpX",
+    "newsletter_p3bG4h",
     "1754563378eab3b526",
     "footer"
   ]
