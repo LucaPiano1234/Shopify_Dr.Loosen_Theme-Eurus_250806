@@ -860,7 +860,7 @@
         "buttons_EyUERK": {
           "type": "buttons",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Alle Lagen entdecken",
             "button_link": "",
             "open_new_window_button": false,
             "show_button_style_1": "primary",
