@@ -910,50 +910,6 @@
         "padding_bottom_mobile": 0
       }
     },
-    "image_comparison_XjyzP7": {
-      "type": "image-comparison",
-      "disabled": true,
-      "name": "t:sections.image-comparison.name",
-      "settings": {
-        "heading": "Image comparison",
-        "highlight_type": "underline",
-        "heading_base_size": 100,
-        "heading_tag": "h2",
-        "layout_comparison": "horizontal",
-        "desktop_height": "550px",
-        "mobile_height": "400px",
-        "adapt_radius": true,
-        "image_corner_radius": 0,
-        "label_edges_type": "square",
-        "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
-        "heading_before_image": "",
-        "heading_base_size_before_image": 100,
-        "heading_before_image_position": "center",
-        "heading_after_image": "",
-        "heading_base_size_after_image": 100,
-        "heading_after_image_position": "center",
-        "default_scroll_position": 50,
-        "text_position": "center",
-        "text_alignment": "start",
-        "heading_color": "#000000",
-        "background_color": "#ffffff",
-        "text_background_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "#000000",
-        "background_color_dark": "#ffffff",
-        "text_background_dark": "rgba(0,0,0,0)",
-        "image_alignment": "md:flex-row",
-        "full_width": false,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "flex-col",
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
-      }
-    },
     "collage_D4GGTK": {
       "type": "collage",
       "blocks": {
@@ -1147,7 +1103,7 @@
         "collection_DqgeTW"
       ],
       "settings": {
-        "title": "Featured [collections]",
+        "title": "Erste Schritte in Dr. Loosen Riesling-Welt",
         "highlight_type": "font_highlight",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -1487,7 +1443,6 @@
     "flow_cHX3gh",
     "image_with_text_xqcgeY",
     "promotion_banner_ijXatP",
-    "image_comparison_XjyzP7",
     "collage_D4GGTK",
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
     "video_looping_BY7qQM",
