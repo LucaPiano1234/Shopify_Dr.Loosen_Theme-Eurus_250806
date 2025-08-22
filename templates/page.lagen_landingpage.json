@@ -35,66 +35,176 @@
     },
     "flow_3xpCEp": {
       "type": "flow",
-      "blocks": {
-        "product_Gxbw4P": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "subheading": "",
-            "heading": "Step 1: Skin Care",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "<p>Use this section to show a list of product or collection features, guide your customers through a process or share customers' reviews and case studies.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
-        "collection_dmXffB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "heading": "Step 2: Hair Care",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "<p>Use this section to show a list of product or collection features, guide your customers through a process or share customers' reviews and case studies.</p>",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
-        "media_R3FCjg": {
+     "blocks": {
+        "media_pkLziH": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay.webp",
             "show_sound_control": false,
+            "video_url": "",
             "video_alt_text": "",
             "enable_video_autoplay": false,
             "subheading": "",
-            "heading": "Step 3: Make Up",
+            "heading": "Bernkasteller Lay",
+            "image_style_heading": "rounded",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "https://weingut-dr-loosen.myshopify.com/collections/bernkasteller-lay",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_CttYbc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Bernkasteller Johannisbrünnchen",
             "image_style_heading": "square",
             "image_ratio_heading": "aspect-16/9",
-            "description": "<p>Use this section to show a list of product or collection features, guide your customers through a process or share customers' reviews and case studies.</p>",
-            "button_text": "View more",
-            "button_link": "",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/bernkasteller-johannisbrunnchen",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_ac9Mmc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Erdener Prälat",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/erdener-pralat",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_iYtybg": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Erdener-Treppchen",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/erdener-treppchen",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_WgDEVV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Graacher-Domprobst",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/graacher-domprobst",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_xcPLDE": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Graacher-Himmerlreich",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/graacher-himmerlreich",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_6CyrN6": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Wehlener-Sonnenuhr",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/wehlener-sonnenuhr",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_TcWnbW": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__UeRZIGER_WUeRZGARTEN.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Ürziger Würzgarten",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/urziger-wurzgarten",
             "open_new_window_button": false,
             "show_button_style": "primary"
           }
         }
       },
       "block_order": [
-        "product_Gxbw4P",
-        "collection_dmXffB",
-        "media_R3FCjg"
+        "media_pkLziH",
+        "media_CttYbc",
+        "media_ac9Mmc",
+        "media_iYtybg",
+        "media_WgDEVV",
+        "media_xcPLDE",
+        "media_6CyrN6",
+        "media_TcWnbW"
+      ],
+      "custom_css": [
+        ".x-container-flow-media {width: 80%; height: auto; align-content: center;}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
-        "heading": "Flow",
+        "heading": "Unsere Lagen",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -102,7 +212,7 @@
         "content_position": "middle",
         "content_alignment": "left",
         "select_motion": "hover",
-        "open_first_tab": true,
+        "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
         "auto_play": false,
@@ -118,7 +228,7 @@
         "full_width": false,
         "padding_full_width": false,
         "show_section_divider": false,
-        "desktop_height": "650px",
+        "desktop_height": "natural",
         "padding_top": 28,
         "padding_bottom": 28,
         "image_position_mobile": "second",
