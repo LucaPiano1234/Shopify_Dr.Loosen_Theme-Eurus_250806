@@ -676,10 +676,10 @@
         "button_LRp9Hn": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "VDP Weine entdecken",
+            "button_link": "shopify://collections/alle-weine",
             "open_new_window": false,
-            "show_button_style": "primary",
+            "show_button_style": "text-link",
             "button_light": "rgba(0,0,0,0)",
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
