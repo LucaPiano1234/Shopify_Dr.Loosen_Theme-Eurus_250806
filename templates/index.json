@@ -861,20 +861,20 @@
           "type": "buttons",
           "settings": {
             "button_label": "Alle Lagen entdecken",
-            "button_link": "",
+            "button_link": "shopify://pages/unsere-lagen",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
             "show_button_style_2": "primary",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
+            "color_button": "#ffffff",
+            "color_text_button": "#ffffff",
+            "color_button_hover": "#ffffff",
+            "color_text_button_hover": "#ffffff",
+            "color_button_secondary": "#ffffff",
+            "secondary_button_text": "#ffffff",
+            "colors_text_link": "#ffffff"
           }
         }
       },
