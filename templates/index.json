@@ -955,7 +955,7 @@
         "show_section_divider": false,
         "padding_top": 100,
         "padding_bottom": 100,
-        "min_columns_mobile": "2",
+        "min_columns_mobile": "1",
         "spacing_mobile": 16,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
@@ -1446,7 +1446,7 @@
       ],
       "name": "t:sections.testimonials-with-card.name",
       "settings": {
-        "heading": "[Testimonial] with cards",
+        "heading": "Was unsere Kunden sagen",
         "highlight_type": "font_highlight",
         "subheading": "",
         "heading_alignment": "left",
