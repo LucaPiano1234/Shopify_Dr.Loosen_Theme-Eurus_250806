@@ -267,7 +267,7 @@
         "color_heading_highlight_dark": "rgba(0,0,0,0)",
         "line_border_dark": "rgba(0,0,0,0)",
         "color_icon_dark": "rgba(0,0,0,0)",
-        "column_layout_desktop": "lg:w-1/4",
+        "column_layout_desktop": "lg:w-1/3",
         "section_height_desktop": "md:py-7",
         "spacing_desktop": 40,
         "full_width": false,
