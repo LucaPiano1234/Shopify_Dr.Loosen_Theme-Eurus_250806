@@ -77,7 +77,7 @@
     "colors_dark_image_treatment_text": "#ffffff",
     "type_body_font": "serif",
     "text_base_size": 110,
-    "type_header_font": "dm_sans_n5",
+    "type_header_font": "serif",
     "heading_base_size": 110,
     "heading_text_tranform": "none",
     "heading_highlight_font": "playfair_display_i4",
