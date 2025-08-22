@@ -443,6 +443,7 @@
         "media_mPPVxX",
         "media_yCiN4K"
       ],
+      "custom_css": [],
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "QUALITÄTSFAKTOREN",
@@ -470,7 +471,7 @@
         "padding_full_width": false,
         "show_section_divider": false,
         "desktop_height": "650px",
-        "padding_top": 28,
+        "padding_top": 100,
         "padding_bottom": 28,
         "image_position_mobile": "second",
         "full_width_mobile": false,
@@ -643,7 +644,7 @@
         "image_alignment": "left",
         "full_width": false,
         "padding_full_width": false,
-        "top_padding": 0,
+        "top_padding": 100,
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
