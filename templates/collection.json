@@ -256,51 +256,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "blocks": {
-        "promotion_block_wCYQn6": {
-          "type": "promotion_block",
-          "settings": {
-            "subheading": "",
-            "heading": "Body care",
-            "highlight_type": "underline",
-            "title_size": 80,
-            "content": "<p>Meet our founder and find out why Pai was made for sensitive skin.</p>",
-            "text_size": 100,
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": false,
-            "video_alt_text": "",
-            "image_overlay_opacity": 20,
-            "position": 6,
-            "button_label": "Shop now",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "alignment": "left",
-            "content_position": "end",
-            "background_color_light": "rgba(0,0,0,0)",
-            "text_color_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_color_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "number_of_columns": 2,
-            "number_of_row": 1,
-            "number_of_columns_mobile": "2",
-            "number_of_row_mobile": "2"
-          }
-        }
-      },
-      "block_order": [
-        "promotion_block_wCYQn6"
-      ],
       "settings": {
         "enable_filtering": true,
         "sticky_filtering": true,
@@ -517,18 +472,87 @@
         "bottom_padding_mobile": 0
       }
     },
-    "related_collections_WxWAqB": {
-      "type": "related-collections",
-      "disabled": true,
-      "name": "t:sections.related_collections.name",
+    "collection_list_qLaYxH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_YtVTiW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-weine"
+          }
+        },
+        "featured_collection_nE7FNj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "weissweine"
+          }
+        },
+        "featured_collection_CV3fEr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rose"
+          }
+        },
+        "featured_collection_YdP6cy": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "rotweine"
+          }
+        },
+        "featured_collection_ByfFeN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "edelsusse-raritaten"
+          }
+        },
+        "featured_collection_xPLBBt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sekte"
+          }
+        },
+        "featured_collection_iKdUnG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "entalkoholisiert"
+          }
+        },
+        "featured_collection_TiqecJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "probierpakete"
+          }
+        },
+        "featured_collection_f9Pz7R": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spezialitaten"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_YtVTiW",
+        "featured_collection_nE7FNj",
+        "featured_collection_CV3fEr",
+        "featured_collection_YdP6cy",
+        "featured_collection_ByfFeN",
+        "featured_collection_xPLBBt",
+        "featured_collection_iKdUnG",
+        "featured_collection_TiqecJ",
+        "featured_collection_f9Pz7R"
+      ],
+      "name": "t:sections.collection-list.name",
       "settings": {
-        "heading": "[Related] Collections.",
-        "highlight_type": "font_highlight",
+        "heading": "Collection list",
+        "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
         "heading_alignment": "center",
+        "show_view_all": false,
         "background_color_light": "",
         "background_color_dark": "",
+        "collection_metafield": "",
         "image_ratio": "square",
         "title_size": 80,
         "show_text_overlay": false,
@@ -540,21 +564,20 @@
         "title_color_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)",
         "show_item_count": true,
-        "max_collections": 4,
         "columns_desktop": 4,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "enable_desktop_slider": false,
         "swiper_on_mobile": true,
         "enable_arrow_mobile": false,
-        "spacing": 30,
-        "show_section_divider": true,
+        "spacing": 4,
+        "show_section_divider": false,
         "full_width": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
+        "padding_top": 28,
+        "padding_bottom": 28,
         "spacing_mobile": 4,
-        "show_section_divider_mobile": true,
-        "padding_top_mobile": 48,
-        "padding_bottom_mobile": 48
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
       }
     },
     "collage_bQj3RW": {
@@ -773,111 +796,6 @@
         "padding_top_mobile": 24,
         "padding_bottom_mobile": 24
       }
-    },
-    "featured_collection_z9r7qr": {
-      "type": "featured-collection",
-      "blocks": {
-        "collection_zaYYJA": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "show_description": false,
-            "description": "",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "show_vendor": false,
-            "show_rating": false,
-            "show_highlighted_features": true,
-            "show_highlighted_attributes": true,
-            "show_quickview": true,
-            "show_promotion": false,
-            "promotion_position": "left",
-            "card_link": "",
-            "open_new_window": false,
-            "heading": "Featured collection",
-            "highlight_type": "underline",
-            "heading_size": 70,
-            "content": "<p>10% OFF</p>",
-            "text_size": 100,
-            "content_alignment": "center",
-            "content_position": "bottom",
-            "button_label": "See more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary",
-            "enable_text_overlay": false,
-            "overlay_opacity": 0,
-            "image_ratio": "100",
-            "background_color": "rgba(0,0,0,0)",
-            "color_text": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": false,
-            "video_alt_text": "",
-            "product_card": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_zaYYJA"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Subcribe & save 10%",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "subheading": "EXPLORE OUR BESTSELLERS",
-        "text": "",
-        "show_view_all": false,
-        "view_all_position": "top",
-        "view_all_button_style": "text-link",
-        "title_size": 120,
-        "title_style": "none",
-        "title_position": "under",
-        "tab_button_style": "label",
-        "color_background": "rgba(0,0,0,0)",
-        "color_text": "rgba(0,0,0,0)",
-        "color_background_secondary": "rgba(0,0,0,0)",
-        "color_text_secondary": "rgba(0,0,0,0)",
-        "color_background_hover": "rgba(0,0,0,0)",
-        "color_text_hover": "rgba(0,0,0,0)",
-        "color_background_dark": "rgba(0,0,0,0)",
-        "color_text_dark": "rgba(0,0,0,0)",
-        "color_background_secondary_dark": "rgba(0,0,0,0)",
-        "color_text_secondary_dark": "rgba(0,0,0,0)",
-        "color_background_hover_dark": "rgba(0,0,0,0)",
-        "color_text_hover_dark": "rgba(0,0,0,0)",
-        "enable_desktop_slider": false,
-        "slider_style": "horizontal",
-        "swiper_on_mobile": false,
-        "enable_arrow_mobile": false,
-        "auto_play": false,
-        "change_slides_speed": 5,
-        "columns_desktop": 4,
-        "rows_desktop": 1,
-        "spacing": 28,
-        "full_width": false,
-        "show_section_divider": false,
-        "padding_top": 20,
-        "padding_bottom": 60,
-        "columns_mobile": "2",
-        "spacing_mobile": 16,
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 48,
-        "padding_bottom_mobile": 0
-      }
     }
   },
   "order": [
@@ -887,9 +805,8 @@
     "product-grid",
     "rich_text_kWfTmF",
     "image_with_text_yMdDNR",
-    "related_collections_WxWAqB",
+    "collection_list_qLaYxH",
     "collage_bQj3RW",
-    "multicolumn_M3Rbqp",
-    "featured_collection_z9r7qr"
+    "multicolumn_M3Rbqp"
   ]
 }
