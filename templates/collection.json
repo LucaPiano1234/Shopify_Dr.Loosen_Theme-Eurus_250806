@@ -519,7 +519,7 @@
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
-        "heading": "Collection list",
+        "heading": "Unsre",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -539,7 +539,7 @@
         "title_color_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)",
         "show_item_count": true,
-        "columns_desktop": 4,
+        "columns_desktop": 8,
         "columns_mobile": "2",
         "enable_desktop_slider": false,
         "swiper_on_mobile": true,
