@@ -249,7 +249,7 @@
         "border_column": "none",
         "column_content_alignment": "center",
         "icon_position": "above",
-        "icon_size": 53,
+        "icon_size": 58,
         "enable_desktop_slider": true,
         "swiper_on_mobile": true,
         "enable_arrow_mobile": false,
