@@ -241,6 +241,7 @@
           "settings": {
             "icon": "sun",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/traube.png",
             "custom_icon": "",
             "title": "Ursprünglicher Ausbau",
             "highlight_type": "underline",
@@ -255,7 +256,7 @@
           "settings": {
             "icon": "another_icon",
             "another_icon": "",
-            "custom_image": "shopify://shop_images/VDP_Logo_mit_Kuerzel_Schwarz.png",
+            "custom_image": "shopify://shop_images/Untitled_design_1.png",
             "custom_icon": "",
             "title": "VDP Weingut",
             "highlight_type": "underline",
@@ -294,7 +295,7 @@
         "border_column": "none",
         "column_content_alignment": "center",
         "icon_position": "above",
-        "icon_size": 40,
+        "icon_size": 53,
         "enable_desktop_slider": true,
         "swiper_on_mobile": true,
         "enable_arrow_mobile": false,
