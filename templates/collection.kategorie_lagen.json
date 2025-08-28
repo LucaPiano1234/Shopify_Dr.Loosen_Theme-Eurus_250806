@@ -238,6 +238,7 @@
         "image_banner_JMnR76",
         "buttons_HWUyYR"
       ],
+      "disabled": true,
       "name": "t:sections.flash-sale.name",
       "settings": {
         "image_overlay_opacity": 0,
@@ -370,6 +371,7 @@
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": true,
             "video_alt_text": "",
             "enable_content_overlay": true,
