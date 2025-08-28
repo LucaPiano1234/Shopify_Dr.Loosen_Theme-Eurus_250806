@@ -317,7 +317,7 @@
         "height_desktop": 300,
         "keep_ratio_on_different_width": false,
         "show_section_divider": false,
-        "full_width": false,
+        "full_width": true,
         "padding_full_width": false,
         "edge_style": "adapt",
         "padding_top": 28,
