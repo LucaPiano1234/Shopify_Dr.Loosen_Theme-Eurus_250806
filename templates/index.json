@@ -1007,7 +1007,7 @@
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "mobile_height": "400px",
-        "padding_top_mobile": 28,
+        "padding_top_mobile": 52,
         "padding_bottom_mobile": 28
       }
     },
