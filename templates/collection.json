@@ -142,64 +142,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "blocks": {
-        "breadcrumbs": {
-          "type": "breadcrumbs",
-          "settings": {
-            "show_breadcrumbs_border": false,
-            "full_width_breadcrumb": true,
-            "desktop_content_alignment": "text-center",
-            "mobile_content_alignment": "text-center",
-            "background_color_light": "rgba(0,0,0,0)",
-            "text_color_light": "rgba(0,0,0,0)",
-            "textlink_color_light": "rgba(0,0,0,0)",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_color_dark": "rgba(0,0,0,0)",
-            "textlink_color_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "description_CbYmnn": {
-          "type": "description",
-          "settings": {
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "full_width": false,
-            "desktop_content_alignment": "text-left",
-            "mobile_content_alignment": "text-left",
-            "background_color_light": "rgba(0,0,0,0)",
-            "text_color_light": "rgba(0,0,0,0)",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_color_dark": "rgba(0,0,0,0)",
-            "padding_top": 28,
-            "padding_bottom": 28
-          }
-        }
-      },
-      "block_order": [
-        "breadcrumbs",
-        "description_CbYmnn"
-      ],
-      "settings": {
-        "show_collection_image": false,
-        "image_overlay_opacity": 20,
-        "show_collection_name": true,
-        "title_position": "text-center",
-        "size_title": 120,
-        "heading_tag": "h1",
-        "full_width_title": true,
-        "desktop_height": "450px",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 4,
-        "mobile_height": "250px",
-        "full_width_mobile": true,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 0
-      }
-    },
     "media_gallery_tXFe4r": {
       "type": "media-gallery",
       "blocks": {
@@ -332,6 +274,64 @@
         "edge_style_mobile": "adapt",
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "blocks": {
+        "breadcrumbs": {
+          "type": "breadcrumbs",
+          "settings": {
+            "show_breadcrumbs_border": false,
+            "full_width_breadcrumb": true,
+            "desktop_content_alignment": "text-center",
+            "mobile_content_alignment": "text-center",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_color_light": "rgba(0,0,0,0)",
+            "textlink_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_color_dark": "rgba(0,0,0,0)",
+            "textlink_color_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "description_CbYmnn": {
+          "type": "description",
+          "settings": {
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "full_width": false,
+            "desktop_content_alignment": "text-left",
+            "mobile_content_alignment": "text-left",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_color_dark": "rgba(0,0,0,0)",
+            "padding_top": 28,
+            "padding_bottom": 28
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumbs",
+        "description_CbYmnn"
+      ],
+      "settings": {
+        "show_collection_image": false,
+        "image_overlay_opacity": 20,
+        "show_collection_name": true,
+        "title_position": "text-center",
+        "size_title": 120,
+        "heading_tag": "h1",
+        "full_width_title": true,
+        "desktop_height": "450px",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 4,
+        "mobile_height": "250px",
+        "full_width_mobile": true,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0
       }
     },
     "flash_sale_aY7a9D": {
@@ -1023,8 +1023,8 @@
   "order": [
     "image_with_text_Fk6U4x",
     "rich_text_XCXep4",
-    "banner",
     "media_gallery_tXFe4r",
+    "banner",
     "flash_sale_aY7a9D",
     "product-grid",
     "rich_text_kWfTmF",
