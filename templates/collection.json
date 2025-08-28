@@ -40,6 +40,7 @@
       "settings": {
         "show_hero": false,
         "image": "{{ collection.image }}",
+        "image_second": "shopify://shop_images/2023-09_HoR_DrLoosen-07937_1.jpg",
         "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "large",
@@ -211,7 +212,6 @@
         "breadcrumbs",
         "description_CbYmnn"
       ],
-      "disabled": true,
       "settings": {
         "show_collection_image": true,
         "image_overlay_opacity": 20,
