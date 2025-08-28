@@ -183,7 +183,7 @@
         "description_CbYmnn"
       ],
       "settings": {
-        "show_collection_image": true,
+        "show_collection_image": false,
         "image_overlay_opacity": 20,
         "show_collection_name": true,
         "title_position": "text-center",
