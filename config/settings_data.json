@@ -1016,7 +1016,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".logo-name {display: block; margin-left: auto; margin-right: auto; text-align: center;}"
+      "@media (min-width: 1024px) {.logo-name {display: block; margin-left: 150px; margin-right: auto; text-align: center; }}"
     ]
   }
 }
