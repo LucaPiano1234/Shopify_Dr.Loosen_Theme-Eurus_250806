@@ -296,7 +296,7 @@
         "heading_U9QwPN": {
           "type": "heading",
           "settings": {
-            "heading": "ERLESENE RIESLINGE AUS DENSTEILLAGEN DER MITTEL-MOSEL.",
+            "heading": "ERLESENE RIESLINGE AUS DEN STEILLAGEN DER MITTEL-MOSEL.",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -335,6 +335,101 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_KJfggr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QMp7tJ": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Das Schiefer-Paket",
+            "heading": "Terroir pur erleben",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>\"Jeder Schiefer erzählt seine Geschichte\"</p><p>sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p><p><strong>79€ - Versandkostenfrei</strong></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "#ffffff",
+            "text_light": "#f3f6ef",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_fp8bUR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jetzt entdecken",
+            "button_link": "shopify://products/test-edelsuss-kopie",
+            "open_new_window": false,
+            "show_button_style": "text-link",
+            "button_light": "#ffffff",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QMp7tJ",
+        "button_fp8bUR"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": false,
+        "image": "shopify://shop_images/TESTPaket.png",
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#313e4d",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "#ffffff",
+        "text_color_light": "#ffffff",
+        "line_border_light": "#ffffff",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "#ffffff",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 0,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
       }
     },
     "product_highlight_PDTNQP": {
@@ -385,6 +480,7 @@
         "columns_FDUrHV",
         "columns_LE7Rxd"
       ],
+      "disabled": true,
       "name": "t:sections.product-highlight.name",
       "settings": {
         "heading": "",
@@ -396,7 +492,6 @@
         "text": "",
         "background_color_light": "#ffffff",
         "background_color_dark": "rgba(0,0,0,0)",
-        "video": "shopify://files/videos/Test Video Platzhalter DR. Loosen.mp4",
         "show_sound_control": false,
         "block_layout": "aspect-[3/4]",
         "video_url": "",
@@ -1443,6 +1538,7 @@
     "4c9e1af5-c4c0-48cf-b771-49029eedd24f",
     "multicolumn_rxMYDJ",
     "rich_text_KK6zbr",
+    "image_with_text_KJfggr",
     "product_highlight_PDTNQP",
     "image_with_text_BKHFTg",
     "image_with_text_xqcgeY",
