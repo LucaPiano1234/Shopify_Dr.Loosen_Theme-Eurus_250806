@@ -1013,5 +1013,10 @@
       "checkout_error_color": "#970000",
       "content_for_index": []
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".logo-name {display: block; margin-left: auto; margin-right: auto; text-align: center;}"
+    ]
   }
 }
