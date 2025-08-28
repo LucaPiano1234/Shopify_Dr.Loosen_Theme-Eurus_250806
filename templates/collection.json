@@ -47,6 +47,7 @@
         "adapt_radius": true,
         "image_corner_radius": 0,
         "show_sound_control": false,
+        "video_url": "",
         "video_alt_text": "",
         "enable_video_autoplay": false,
         "content_layout": "overlap",
@@ -210,6 +211,7 @@
         "breadcrumbs",
         "description_CbYmnn"
       ],
+      "disabled": true,
       "settings": {
         "show_collection_image": true,
         "image_overlay_opacity": 20,
