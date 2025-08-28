@@ -61,38 +61,44 @@
             "color_product_card_text": "rgba(0,0,0,0)"
           }
         },
-        "slide_text_LqRTiw": {
-          "type": "slide_text",
+        "slide_GJyfyj": {
+          "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01426_1.jpg",
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01335_1.jpg",
             "image_link": "",
-            "open_new_window_image": true,
+            "open_new_window_image": false,
+            "overlay_opacity": 30,
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": false,
+            "video_alt_text": "",
+            "enable_bakground": false,
             "subheading": "",
             "subheading_size": 100,
-            "heading": "Das Beste unserer Mittelmosel-Terroirs",
-            "highlight_type": "font_highlight",
-            "heading_size": 100,
+            "heading": "DAS BESTE UNSERER MITTELMOSEL-TERROIRS",
+            "highlight_type": "underline",
+            "heading_size": 120,
             "heading_tag": "h2",
             "text": "<p>Dr. Loosens Große Gewächse-Paket </p>",
             "button_label_1": "Jetzt bestellen",
-            "button_link_1": "",
+            "button_link_1": "shopify://products/test-edelsuss-kopie",
             "open_new_window_button": false,
-            "show_button_style_1": "text-link",
+            "show_button_style_1": "primary",
             "button_label_2": "",
             "button_link_2": "",
-            "open_new_window_button_2": true,
+            "open_new_window_button_2": false,
             "show_button_style_2": "primary",
             "content_alignment": "middle-center",
+            "custom_horizontal": 50,
+            "custom_vertical": 50,
             "alignment": "center",
             "text_product": "Check out our products:",
             "list_products": [],
             "show_rating": false,
             "open_new_window_product": false,
-            "desktop_layout": "left",
-            "mobile_layout": "top",
-            "content_background_color": "#53585e",
-            "color_text": "#ffffff",
-            "color_button": "#313e4d",
+            "content_background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
             "color_text_button": "rgba(0,0,0,0)",
             "color_button_hover": "rgba(0,0,0,0)",
             "color_text_button_hover": "rgba(0,0,0,0)",
@@ -122,7 +128,7 @@
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Uralte wurzelechte Rebstöcke, 48 Monate Geduld - die absolute Spitze der Dr. Loosen Qualitätspyramide</p>",
+            "text": "<p>Uralte wurzelechte Rebstöcke, 48 Monate Geduld! </p><p>Die absolute Spitze der Dr. Loosen Qualitätspyramide</p>",
             "button_label_1": "Réserve paket entdecken",
             "button_link_1": "",
             "open_new_window_button": false,
@@ -156,7 +162,7 @@
       },
       "block_order": [
         "template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2",
-        "slide_text_LqRTiw",
+        "slide_GJyfyj",
         "slide_C4yh4H"
       ],
       "custom_css": [],
@@ -630,6 +636,79 @@
         "bottom_padding_mobile": 24
       }
     },
+    "promotion_banner_ijXatP": {
+      "type": "promotion-banner",
+      "blocks": {
+        "image_banner_HYLK68": {
+          "type": "image_banner",
+          "settings": {
+            "heading": "Unsere Lagen - Das Herz großer Rieslinge",
+            "highlight_type": "underline",
+            "heading_size": 140,
+            "heading_tag": "h2",
+            "subheading": "",
+            "subheading_size": 100,
+            "text": "Blauschiefer, Rotschiefer, Vulkangestein - unsere Lagen sind das Fundament für Rieslinge von Weltklasse. Jede Lage prägt den Charakter unserer Weine einzigartig.",
+            "text_size": 100,
+            "content_box_type": "square",
+            "add_frame": false,
+            "color_content_box_light": "rgba(0,0,0,0)",
+            "color_content_box_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "buttons_EyUERK": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Alle Lagen entdecken",
+            "button_link": "shopify://pages/unsere-lagen",
+            "open_new_window_button": false,
+            "show_button_style_1": "text-link",
+            "button_label_2": "",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "color_button": "#ffffff",
+            "color_text_button": "#ffffff",
+            "color_button_hover": "#ffffff",
+            "color_text_button_hover": "#ffffff",
+            "color_button_secondary": "#ffffff",
+            "secondary_button_text": "#ffffff",
+            "colors_text_link": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image_banner_HYLK68",
+        "buttons_EyUERK"
+      ],
+      "name": "t:sections.promotion-banner.name",
+      "settings": {
+        "heading": "Promotion Banner",
+        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01541_1.jpg",
+        "image_link": "",
+        "open_new_window": false,
+        "image_overlay_opacity": 40,
+        "content_position": "center",
+        "content_horizontal": 50,
+        "content_vertical": 50,
+        "position_content_mobile": "center",
+        "content_alignment": "center",
+        "show_hero": false,
+        "full_width": true,
+        "padding_full_width": false,
+        "adapt_corners_desktop": false,
+        "rounded_corner_image": false,
+        "desktop_height": "450px",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "full_width_mobile": true,
+        "adapt_corners_mobile": false,
+        "rounded_corner_image_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0
+      }
+    },
     "flow_cHX3gh": {
       "type": "flow",
       "blocks": {
@@ -796,13 +875,12 @@
         "media_6CyrN6",
         "media_TcWnbW"
       ],
-      "disabled": true,
       "custom_css": [
         ".x-container-flow-media {width: 80%; height: auto; align-content: center;}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
-        "heading": "Unsere Lagen",
+        "heading": "",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -835,79 +913,6 @@
         "mobile_height": "400px",
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
-      }
-    },
-    "promotion_banner_ijXatP": {
-      "type": "promotion-banner",
-      "blocks": {
-        "image_banner_HYLK68": {
-          "type": "image_banner",
-          "settings": {
-            "heading": "Unsere Lagen - Das Herz großer Rieslinge",
-            "highlight_type": "underline",
-            "heading_size": 140,
-            "heading_tag": "h2",
-            "subheading": "",
-            "subheading_size": 100,
-            "text": "Blauschiefer, Rotschiefer, Vulkangestein - unsere Lagen sind das Fundament für Rieslinge von Weltklasse. Jede Lage prägt den Charakter unserer Weine einzigartig.",
-            "text_size": 100,
-            "content_box_type": "square",
-            "add_frame": false,
-            "color_content_box_light": "rgba(0,0,0,0)",
-            "color_content_box_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "buttons_EyUERK": {
-          "type": "buttons",
-          "settings": {
-            "button_label": "Alle Lagen entdecken",
-            "button_link": "shopify://pages/unsere-lagen",
-            "open_new_window_button": false,
-            "show_button_style_1": "text-link",
-            "button_label_2": "",
-            "button_link_2": "",
-            "open_new_window_button_2": false,
-            "show_button_style_2": "primary",
-            "color_button": "#ffffff",
-            "color_text_button": "#ffffff",
-            "color_button_hover": "#ffffff",
-            "color_text_button_hover": "#ffffff",
-            "color_button_secondary": "#ffffff",
-            "secondary_button_text": "#ffffff",
-            "colors_text_link": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "image_banner_HYLK68",
-        "buttons_EyUERK"
-      ],
-      "name": "t:sections.promotion-banner.name",
-      "settings": {
-        "heading": "Promotion Banner",
-        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01541_1.jpg",
-        "image_link": "",
-        "open_new_window": false,
-        "image_overlay_opacity": 40,
-        "content_position": "center",
-        "content_horizontal": 50,
-        "content_vertical": 50,
-        "position_content_mobile": "center",
-        "content_alignment": "center",
-        "show_hero": false,
-        "full_width": true,
-        "padding_full_width": false,
-        "adapt_corners_desktop": false,
-        "rounded_corner_image": false,
-        "desktop_height": "450px",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "full_width_mobile": true,
-        "adapt_corners_mobile": false,
-        "rounded_corner_image_mobile": false,
-        "mobile_height": "400px",
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 0
       }
     },
     "collage_D4GGTK": {
@@ -1441,8 +1446,8 @@
     "product_highlight_PDTNQP",
     "image_with_text_BKHFTg",
     "image_with_text_xqcgeY",
-    "flow_cHX3gh",
     "promotion_banner_ijXatP",
+    "flow_cHX3gh",
     "collage_D4GGTK",
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
     "video_looping_BY7qQM",
