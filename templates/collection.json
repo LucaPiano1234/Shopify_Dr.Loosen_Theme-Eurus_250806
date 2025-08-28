@@ -40,7 +40,7 @@
       "settings": {
         "show_hero": false,
         "image": "{{ collection.image }}",
-        "desktop_height": "550px",
+        "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "large",
         "image_layout": "normal",
