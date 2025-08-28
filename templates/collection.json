@@ -36,6 +36,7 @@
       "block_order": [
         "heading_nMV3Ch"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
@@ -181,7 +182,6 @@
         "breadcrumbs",
         "description_CbYmnn"
       ],
-      "disabled": true,
       "settings": {
         "show_collection_image": false,
         "image_overlay_opacity": 20,
@@ -411,6 +411,7 @@
         "media_Cy67w6",
         "media_4frR7t"
       ],
+      "disabled": true,
       "name": "t:sections.media-gallery.name",
       "settings": {
         "heading": "",
