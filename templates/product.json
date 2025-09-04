@@ -224,8 +224,8 @@
             "heading": "Nährwertsangeben",
             "enable_background": false,
             "metafield_key_list": "",
-            "nutrition_details": "<p>Brennwert: {{ product.metafields.custom.brennwert.value }}<br/>Kohlenhydrate: {{ product.metafields.custom.kohlenhydrate.value }}<br/>davon Zucker: {{ product.metafields.custom.davon_zucker.value }}</p><p>Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz.<br/><br/>Zutatenliste: </p>",
-            "extra_detail": "This kind of \"ingredient bar\" focuses on highlighting the benefits of the active ingredients in a way that's familiar to consumers",
+            "nutrition_details": "<p>Brennwert: {{ product.metafields.custom.brennwert.value }}<br/>Kohlenhydrate: {{ product.metafields.custom.kohlenhydrate.value }}<br/>davon Zucker: {{ product.metafields.custom.davon_zucker.value }}</p>",
+            "extra_detail": "Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz. Zutatenliste: {{ product.metafields.custom.zutaten.value }}",
             "content_background_color": "rgba(0,0,0,0)",
             "content_background_color_dark": "rgba(0,0,0,0)",
             "loading_bar_color": "rgba(0,0,0,0)"
