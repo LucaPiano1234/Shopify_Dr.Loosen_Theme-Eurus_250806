@@ -786,6 +786,34 @@
             "block_title_4": "",
             "block_link_4": ""
           }
+        },
+        "contact_menu_Y4YBXE": {
+          "type": "contact_menu",
+          "settings": {
+            "heading": "KONTAKT",
+            "menu_item_link": "shopify://pages/contact",
+            "open_new_window": false,
+            "sort_order": "options__4",
+            "store_address": "Weingut Dr. Loosen, St. Johannishof D-54470 Bernkastel/Mosel",
+            "contact_heading": "",
+            "infomation": "",
+            "show_contact_information": true,
+            "heading_information": "",
+            "subheading": "",
+            "phone_nummber": "+49 (0) 6531-3426",
+            "email_address": "info@drloosen.de",
+            "contact_text": "",
+            "enable_social_icon": false,
+            "label": "",
+            "label_position": "above",
+            "label_color": "#ce021e",
+            "label_text_color_light": "#ffffff",
+            "label_color_dark": "#ce021e",
+            "label_text_color_dark": "#ffffff",
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": ""
+          }
         }
       },
       "block_order": [
@@ -794,7 +822,8 @@
         "simple_menu_PNGCmi",
         "simple_menu_NkLiU8",
         "simple_menu_7XLMww",
-        "simple_menu_RxVrLE"
+        "simple_menu_RxVrLE",
+        "contact_menu_Y4YBXE"
       ],
       "settings": {
         "menu": "main-menu",
