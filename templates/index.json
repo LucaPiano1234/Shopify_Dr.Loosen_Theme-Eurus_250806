@@ -811,7 +811,7 @@
         "media_pkLziH": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -819,7 +819,7 @@
             "subheading": "",
             "heading": "Bernkasteller Lay",
             "image_style_heading": "rounded",
-            "image_ratio_heading": "aspect-square",
+            "image_ratio_heading": "aspect-4/3",
             "description": "",
             "button_text": "Lage entdecken",
             "button_link": "https://weingut-dr-loosen.myshopify.com/collections/bernkasteller-lay",
@@ -830,7 +830,7 @@
         "media_CttYbc": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -849,7 +849,7 @@
         "media_ac9Mmc": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -868,7 +868,7 @@
         "media_iYtybg": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN_ceab565d-c0de-4a36-902b-4b4b5627f965.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -887,7 +887,7 @@
         "media_WgDEVV": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -906,7 +906,7 @@
         "media_xcPLDE": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -925,7 +925,7 @@
         "media_6CyrN6": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -944,7 +944,7 @@
         "media_TcWnbW": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__UeRZIGER_WUeRZGARTEN.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__Uerziger_Wuerzgarten_f117ea07-7e99-4bfd-8e3f-1dcf19f66e90.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -971,9 +971,7 @@
         "media_6CyrN6",
         "media_TcWnbW"
       ],
-      "custom_css": [
-        ".x-container-flow-media {width: 80%; height: auto; align-content: center;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "",
