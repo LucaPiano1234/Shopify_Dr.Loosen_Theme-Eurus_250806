@@ -603,6 +603,97 @@
         "padding_bottom_mobile": 28
       }
     },
+    "testimonials_with_card_Yx6ANH": {
+      "type": "testimonials-with-card",
+      "blocks": {
+        "testimonial_zNjQ9G": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Jakob W.",
+            "text": "<p>Die Weinbereitung war super informativ und freundlich gestaltet. Wir haben uns sehr wohl gefühlt und eine umfassend auf uns zugeschnittene Weinverkostung genießen dürfen. Sehr empfehlenswert!</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_Jr6r6x": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Walte N.",
+            "text": "<p>Leidenschaft erleben, Tradition erfahren und guten Wein genießen. Das Weingut Dr. Loosen - eine Referenz an der Mosel.</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_WFWYP4": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Jannik B.",
+            "text": "<p>Wir waren Anfang Juli mit unserer Freundesgruppe bei Dr. Loosen.<br/>Schönes Weingut mit exzellenten Weinen! Die Weinprobe war mehr als ausführlich und Antonia hat uns perfekt durch die Weine geführt. Ich würde jedes Mal wieder hier hin kommen!<br/>Ganz klar ein Besuch wert!</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_UdjkBF": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Sascha B.",
+            "text": "<p>Tolle Weine (man entdeckt immer wieder neue spannende Weine & Projekte),  Super-Gastgeber und eine tolle Location.  Immer ein Besuch wert!</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_zNjQ9G",
+        "testimonial_Jr6r6x",
+        "testimonial_WFWYP4",
+        "testimonial_UdjkBF"
+      ],
+      "name": "t:sections.testimonials-with-card.name",
+      "settings": {
+        "heading": "Was unsere Kunden sagen",
+        "highlight_type": "font_highlight",
+        "subheading": "",
+        "heading_alignment": "left",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "auto_play": true,
+        "change_slides_speed": 5,
+        "image_ratio": "round",
+        "background_color_light": "rgba(0,0,0,0)",
+        "item_background_color_light": "rgba(0,0,0,0)",
+        "item_border_color_light": "rgba(0,0,0,0)",
+        "heading_and_title_light": "rgba(0,0,0,0)",
+        "item_text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "item_border_color_dark": "rgba(0,0,0,0)",
+        "item_background_color_dark": "rgba(0,0,0,0)",
+        "heading_and_title_dark": "rgba(0,0,0,0)",
+        "item_text_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "top_padding": 100,
+        "bottom_padding": 100,
+        "show_section_divider_mobile": false,
+        "top_padding_mobile": 48,
+        "bottom_padding_mobile": 48
+      }
+    },
     "recently_viewed_fNawxV": {
       "type": "recently-viewed",
       "name": "t:sections.recently-viewed-products.name",
@@ -840,102 +931,6 @@
         "padding_bottom_mobile": 0
       }
     },
-    "image_with_text_b7nRzF": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_mt6Yfn": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Weingut Dr. Loosen",
-            "heading": "VDP Wingut seit 1993",
-            "highlight_type": "underline",
-            "heading_base_size": 80,
-            "heading_tag": "h2",
-            "text": "<p>Die Trauben für unsere Weine kommen ausschließlich aus unseren gutseigenen Lagen der Mittelmosel. <strong>Sie werden von Hand gelesen und selektiert. </strong></p><p>Village und Premier Cru Lagen verarbeiten wir zu VDP.Guts- und VDP.Ortsweinen. </p><p>Die Grand Cru Lagen werden separat ausgebaut und – je nach jahrgangsspezifischen Bedingungen – zu großen trockenen Lagen-Rieslingen und den klassischen Prädikaten bis hin zur  Trockenbeerenauslese verarbeitet.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "button_9FPJKU": {
-          "type": "button",
-          "settings": {
-            "button_label": "VDP. Weine entdecken",
-            "button_link": "shopify://collections",
-            "open_new_window": false,
-            "show_button_style": "text-link",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "heading_mt6Yfn",
-        "button_9FPJKU"
-      ],
-      "name": "t:sections.image-with-text.name",
-      "settings": {
-        "show_hero": false,
-        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01426_1.jpg",
-        "desktop_height": "natural",
-        "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "stacked",
-        "adapt_radius": true,
-        "image_corner_radius": 0,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "overlap",
-        "spacing_image": false,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
-      }
-    },
     "collection_list_xhhDpg": {
       "type": "collection-list",
       "blocks": {
@@ -1037,11 +1032,107 @@
         "show_section_divider": false,
         "full_width": false,
         "padding_top": 72,
-        "padding_bottom": 28,
+        "padding_bottom": 80,
         "spacing_mobile": 4,
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_b7nRzF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mt6Yfn": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Weingut Dr. Loosen",
+            "heading": "VDP Wingut seit 1993",
+            "highlight_type": "underline",
+            "heading_base_size": 80,
+            "heading_tag": "h2",
+            "text": "<p>Die Trauben für unsere Weine kommen ausschließlich aus unseren gutseigenen Lagen der Mittelmosel. <strong>Sie werden von Hand gelesen und selektiert. </strong></p><p>Village und Premier Cru Lagen verarbeiten wir zu VDP.Guts- und VDP.Ortsweinen. </p><p>Die Grand Cru Lagen werden separat ausgebaut und – je nach jahrgangsspezifischen Bedingungen – zu großen trockenen Lagen-Rieslingen und den klassischen Prädikaten bis hin zur  Trockenbeerenauslese verarbeitet.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_9FPJKU": {
+          "type": "button",
+          "settings": {
+            "button_label": "VDP. Weine entdecken",
+            "button_link": "shopify://collections",
+            "open_new_window": false,
+            "show_button_style": "text-link",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mt6Yfn",
+        "button_9FPJKU"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": false,
+        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01426_1.jpg",
+        "desktop_height": "natural",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "stacked",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 0,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
       }
     },
     "related_blog_posts_wMDWtw": {
@@ -1098,12 +1189,13 @@
     "main",
     "image_with_text_RBtGLj",
     "multicolumn_YgrRte",
+    "testimonials_with_card_Yx6ANH",
     "recently_viewed_fNawxV",
     "product-recommendations",
     "image_with_text_CR6Kqj",
     "promotion_banner_k7jzqd",
-    "image_with_text_b7nRzF",
     "collection_list_xhhDpg",
+    "image_with_text_b7nRzF",
     "related_blog_posts_wMDWtw"
   ]
 }
