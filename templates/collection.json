@@ -602,7 +602,7 @@
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
-        "heading": "Kollektionen",
+        "heading": "Unsere Kollektionen",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
