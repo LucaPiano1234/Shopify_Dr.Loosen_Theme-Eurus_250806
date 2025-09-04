@@ -15,13 +15,13 @@
         "text": {
           "type": "image_banner",
           "settings": {
-            "heading": "Contact us",
+            "heading": "Kontakt",
             "highlight_type": "underline",
             "heading_size": 170,
             "heading_tag": "h2",
-            "subheading": "",
+            "subheading": "Weingut Dr.Loosen",
             "subheading_size": 100,
-            "text": "Questions? Comments? Let your customers get in touch with you by filling out the email form below. Reassure them that someone will get back to them within a certain timeframe",
+            "text": "",
             "text_size": 130,
             "content_box_type": "square",
             "add_frame": false,
