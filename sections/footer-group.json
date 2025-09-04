@@ -299,7 +299,7 @@
           "settings": {
             "open_by_default": false,
             "heading_menu": "Menu",
-            "menu": "main-menu",
+            "menu": "footer-men-shop",
             "show_social_icons": false
           }
         },
@@ -339,7 +339,7 @@
         "link_list_MMf6Cq"
       ],
       "custom_css": [
-        "h1, h2, h3, h4, h5, blockquote, li, .h2._textHeading_2aowh_35 {font-family: \"Serif\" !important;}"
+        "h1,h2,h3,h4,h5,blockquote,li,.h2._textHeading_2aowh_35 {font-family: \"Serif\" !important;}"
       ],
       "settings": {
         "columns_desktop": 5,
