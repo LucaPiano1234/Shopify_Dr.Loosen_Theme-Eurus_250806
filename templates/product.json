@@ -724,8 +724,8 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": true,
-        "image": "shopify://shop_images/2021-09_HoR_Loosen-04058.webp",
-        "image_second": "shopify://shop_images/2023-09_HoR_DrLoosen-08536_1.jpg",
+        "image": "shopify://shop_images/2021-09_HoR_Loosen-04262_1.jpg",
+        "image_second": "shopify://shop_images/2023-09_HoR_DrLoosen-07895_1.jpg",
         "desktop_height": "550px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
