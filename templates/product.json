@@ -221,7 +221,7 @@
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Nährwertsangeben",
+            "heading": "Nährwertangaben",
             "enable_background": false,
             "metafield_key_list": "",
             "nutrition_details": "<p>Brennwert: {{ product.metafields.custom.brennwert.value }}<br/>Kohlenhydrate: {{ product.metafields.custom.kohlenhydrate.value }}<br/>davon Zucker: {{ product.metafields.custom.davon_zucker.value }}</p>",
