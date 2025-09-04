@@ -755,15 +755,16 @@
         "column_xRt3RE": {
           "type": "column",
           "settings": {
-            "icon": "dna",
+            "icon": "another_icon",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1.svg",
             "custom_icon": "",
-            "title": "Non-allergen",
+            "title": "VDP Weingut",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>The SHA accreditation is an instant way to recognise a product meets the highest standards of skin safety.</p>"
+            "text": "<p>Seit 1993</p>"
           }
         },
         "column_nzcaWE": {
@@ -771,13 +772,14 @@
           "settings": {
             "icon": "star",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2.svg",
             "custom_icon": "",
-            "title": "Confidence by trust",
+            "title": "Weltbekannte Schiefersteillagen",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Businesses must prioritize ethical practices and customer-centric strategies to ensure long-term success.</p>"
+            "text": "<p>in der Mittelmosel</p>"
           }
         }
       },
@@ -792,7 +794,7 @@
         "heading_size": 100,
         "heading_tag": "h2",
         "secondary_background": "section",
-        "border_column": "full_border",
+        "border_column": "line_vertical",
         "column_content_alignment": "center",
         "icon_position": "above",
         "icon_size": 45,
