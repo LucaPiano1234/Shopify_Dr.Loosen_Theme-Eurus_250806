@@ -420,7 +420,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "",
+            "text": "{{ product.metafields.custom.bodenart_beschreibung | metafield_tag }}",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
