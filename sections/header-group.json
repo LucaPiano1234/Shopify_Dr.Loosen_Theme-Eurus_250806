@@ -825,6 +825,9 @@
         "simple_menu_RxVrLE",
         "contact_menu_Y4YBXE"
       ],
+      "custom_css": [
+        ".text-\\[rgba\\(var\\(--colors-text\\)\\)\\] {color: #50565e;}"
+      ],
       "settings": {
         "menu": "main-menu",
         "enable_hamburger_menu": false,
