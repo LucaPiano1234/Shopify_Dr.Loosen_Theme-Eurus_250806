@@ -12,6 +12,15 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_Y6hYx9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.weingut.value }}</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
         "product_name_xkPbAa": {
           "type": "product_name",
           "settings": {
@@ -62,8 +71,8 @@
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
-            "heading": "Wie schmekt er",
-            "tab_content": "{{ product.description }}"
+            "heading": "Ernie Loosen sagt:",
+            "tab_content": "<p>{{ product.description }}</p>"
           }
         },
         "icon_text_XR9LtD": {
@@ -306,6 +315,7 @@
         }
       },
       "block_order": [
+        "text_Y6hYx9",
         "product_name_xkPbAa",
         "badges_fCnAXm",
         "rating_AeRdFJ",
