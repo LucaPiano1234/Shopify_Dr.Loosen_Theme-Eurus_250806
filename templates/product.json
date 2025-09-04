@@ -66,48 +66,6 @@
             "tab_content": "{{ product.description }}"
           }
         },
-        "icon_text_XR9LtD": {
-          "type": "icon_text",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 30,
-            "text": "<p>Versandkostenfrei ab 100 €</p>",
-            "background_color_light": "#313e4d",
-            "text_light": "#ffffff",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "icon_text_hrUJwP": {
-          "type": "icon_text",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 30,
-            "text": "<p>Versandkostenfrei ab 100 €</p>",
-            "background_color_light": "#313e4d",
-            "text_light": "#ffffff",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "icon_text_T3f9Yh": {
-          "type": "icon_text",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 30,
-            "text": "<p>Versandkostenfrei ab 100 €</p>",
-            "background_color_light": "#313e4d",
-            "text_light": "#ffffff",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -327,9 +285,6 @@
         "inventory_status_LrbyC8",
         "variant_picker",
         "collapsible_tab_MgjKqH",
-        "icon_text_XR9LtD",
-        "icon_text_hrUJwP",
-        "icon_text_T3f9Yh",
         "quantity_selector",
         "buy_buttons",
         "trust_badge_9W97Rp",
