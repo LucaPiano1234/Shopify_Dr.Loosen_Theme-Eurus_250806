@@ -827,7 +827,7 @@
       ],
       "custom_css": [
         ".text-\\[rgba\\(var\\(--colors-text\\)\\)\\] {color: #50565e;}",
-        ".font_menu-normal {font-family: \"Serif\";}"
+        ".font_menu-normal {font-family: \"Serif\"! Important;}"
       ],
       "settings": {
         "menu": "main-menu",
