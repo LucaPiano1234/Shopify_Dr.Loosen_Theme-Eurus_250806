@@ -797,7 +797,7 @@
         "border_column": "line_vertical",
         "column_content_alignment": "center",
         "icon_position": "above",
-        "icon_size": 45,
+        "icon_size": 58,
         "enable_desktop_slider": false,
         "swiper_on_mobile": true,
         "enable_arrow_mobile": false,
