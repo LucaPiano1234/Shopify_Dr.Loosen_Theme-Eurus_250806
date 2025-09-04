@@ -167,27 +167,6 @@
             "coupon_color_dark": "rgba(0,0,0,0)"
           }
         },
-        "frequently_bought_pGGTM8": {
-          "type": "frequently_bought",
-          "settings": {
-            "icon": "earth",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "Mehr aus unseren Top-Lagen",
-            "show_background": false,
-            "show_border": true,
-            "list_products": [
-              "test-sekt",
-              "test-weisswein"
-            ],
-            "show_vendor": false,
-            "show_rating": false,
-            "show_highlighted_features": false,
-            "variant_type": "button",
-            "border_color_light": "rgba(0,0,0,0)",
-            "border_color_dark": "rgba(0,0,0,0)"
-          }
-        },
         "collapsible_tab_MgjKqH": {
           "type": "collapsible_tab",
           "settings": {
@@ -197,7 +176,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Wie schmekt er",
-            "tab_content": "{{ product.description }}<p></p>"
+            "tab_content": "{{ product.description }}"
           }
         },
         "collapsible_tab_jdUdyp": {
@@ -242,37 +221,6 @@
             "loading_bar_color": "rgba(0,0,0,0)"
           }
         },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "open_by_default": false,
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "use_secondary_background": false,
-            "heading": "Returns + Exchanges",
-            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "open_by_default": false,
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "use_secondary_background": false,
-            "heading": "Giving Back",
-            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "social-sharing": {
-          "type": "social_sharing",
-          "disabled": true,
-          "settings": {}
-        },
         "complementary_XCwmDV": {
           "type": "complementary",
           "settings": {
@@ -301,17 +249,68 @@
             "link_to_atc_btn": false
           }
         },
-        "product_sibling_9zde9d": {
-          "type": "product_sibling",
-          "disabled": true,
+        "feature_icon_FgPtCy": {
+          "type": "feature_icon",
           "settings": {
-            "link_option": "load",
-            "option_name": "Color",
-            "collection_handle_metafield": "custom.sibling_collection_handle",
-            "option_value_metafield": "custom.sibling_color",
-            "variant_type": "button",
-            "enable_color_swatch": true,
-            "swatch_size": "medium"
+            "applied_collections": [
+              "rotweine"
+            ],
+            "heading_size": 110,
+            "icon_size": 30,
+            "border_column": "column",
+            "content_alignment": "center",
+            "background_color_light": "rgba(0,0,0,0)",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "line_border_light": "rgba(0,0,0,0)",
+            "color_icon_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "line_border_dark": "rgba(0,0,0,0)",
+            "color_icon_dark": "rgba(0,0,0,0)",
+            "icon_1": "truck",
+            "another_icon_1": "",
+            "custom_icon_1": "",
+            "title_1": "Column",
+            "text_1": "<p>Add details on availability, style, or even provide a review.</p>",
+            "link_1": "",
+            "open_new_window_1": false,
+            "icon_2": "truck",
+            "another_icon_2": "",
+            "custom_icon_2": "",
+            "title_2": "Column",
+            "text_2": "<p>Add details on availability, style, or even provide a review.</p>",
+            "link_2": "",
+            "open_new_window_2": false,
+            "icon_3": "truck",
+            "another_icon_3": "",
+            "custom_icon_3": "",
+            "title_3": "Column",
+            "text_3": "<p>Add details on availability, style, or even provide a review.</p>",
+            "link_3": "",
+            "open_new_window_3": false,
+            "icon_4": "truck",
+            "another_icon_4": "",
+            "custom_icon_4": "",
+            "title_4": "Column",
+            "text_4": "<p>Add details on availability, style, or even provide a review.</p>",
+            "link_4": "",
+            "open_new_window_4": false,
+            "icon_5": "truck",
+            "another_icon_5": "",
+            "custom_icon_5": "",
+            "title_5": "Column",
+            "text_5": "<p>Add details on availability, style, or even provide a review.</p>",
+            "link_5": "",
+            "open_new_window_5": false,
+            "icon_6": "truck",
+            "another_icon_6": "",
+            "custom_icon_6": "",
+            "title_6": "Column",
+            "text_6": "<p>Add details on availability, style, or even provide a review.</p>",
+            "link_6": "",
+            "open_new_window_6": false
           }
         }
       },
@@ -328,17 +327,13 @@
         "buy_buttons",
         "trust_badge_9W97Rp",
         "coupon_code_d4T8zk",
-        "frequently_bought_pGGTM8",
         "collapsible_tab_MgjKqH",
         "collapsible_tab_jdUdyp",
         "collapsible_tab_WTEAVV",
         "nutrition_fact_tEqfWX",
-        "collapsible-row-1",
-        "collapsible-row-0",
-        "social-sharing",
         "complementary_XCwmDV",
         "sticky-atc",
-        "product_sibling_9zde9d"
+        "feature_icon_FgPtCy"
       ],
       "settings": {
         "enable_sticky_image": true,
