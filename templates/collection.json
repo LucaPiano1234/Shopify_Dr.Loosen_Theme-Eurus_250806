@@ -740,15 +740,16 @@
         "column_kfHTVk": {
           "type": "column",
           "settings": {
-            "icon": "flower",
+            "icon": "free-delivery",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons.svg",
             "custom_icon": "",
-            "title": "Safe to use",
+            "title": "Ursprünglicher Ausbau",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>EWG VERIFIED™, made with 99.9%+ natural origin ingredients* including phytoglycogen.</p>"
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
           }
         },
         "column_xRt3RE": {
