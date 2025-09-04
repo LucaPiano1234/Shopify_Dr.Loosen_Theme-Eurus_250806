@@ -734,73 +734,76 @@
         "bottom_padding_mobile": 0
       }
     },
-    "multicolumn_M3Rbqp": {
+    "multicolumn_8b4mNJ": {
       "type": "multicolumn",
       "blocks": {
-        "column_kfHTVk": {
+        "column_xBq4kL": {
           "type": "column",
           "settings": {
-            "icon": "flower",
+            "icon": "sun",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_077357ea-b53f-45a6-aa03-27dc5e9156f5.svg",
             "custom_icon": "",
-            "title": "Safe to use",
+            "title": "Ursprünglicher Ausbau",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>EWG VERIFIED™, made with 99.9%+ natural origin ingredients* including phytoglycogen.</p>"
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
           }
         },
-        "column_xRt3RE": {
+        "column_Yiqn4W": {
           "type": "column",
           "settings": {
-            "icon": "dna",
+            "icon": "another_icon",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1_da770f24-e093-4ea3-83fa-87ab6464054e.svg",
             "custom_icon": "",
-            "title": "Non-allergen",
+            "title": "VDP Weingut",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>The SHA accreditation is an instant way to recognise a product meets the highest standards of skin safety.</p>"
+            "text": "<p>Seit 1993</p>"
           }
         },
-        "column_nzcaWE": {
+        "column_UaqDXJ": {
           "type": "column",
           "settings": {
-            "icon": "star",
+            "icon": "another_icon",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2_5e4072b1-373a-40ac-802d-184935e494a1.svg",
             "custom_icon": "",
-            "title": "Confidence by trust",
+            "title": "Weltbekannte Schiefersteillagen",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Businesses must prioritize ethical practices and customer-centric strategies to ensure long-term success.</p>"
+            "text": "<p>in der Mittelmosel</p>"
           }
         }
       },
       "block_order": [
-        "column_kfHTVk",
-        "column_xRt3RE",
-        "column_nzcaWE"
+        "column_xBq4kL",
+        "column_Yiqn4W",
+        "column_UaqDXJ"
       ],
       "settings": {
         "title": "",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
-        "secondary_background": "section",
-        "border_column": "full_border",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
         "column_content_alignment": "center",
         "icon_position": "above",
-        "icon_size": 45,
-        "enable_desktop_slider": false,
+        "icon_size": 58,
+        "enable_desktop_slider": true,
         "swiper_on_mobile": true,
         "enable_arrow_mobile": false,
         "auto_play": true,
         "change_bar_every": 5,
-        "background_color_light": "#ffffff",
+        "background_color_light": "rgba(0,0,0,0)",
         "heading_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -814,19 +817,19 @@
         "color_icon_dark": "rgba(0,0,0,0)",
         "column_layout_desktop": "lg:w-1/3",
         "section_height_desktop": "md:py-7",
-        "spacing_desktop": 28,
+        "spacing_desktop": 40,
         "full_width": false,
-        "padding_full_width": false,
+        "padding_full_width": true,
         "show_section_divider": false,
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 40,
+        "padding_bottom": 40,
         "column_layout_mobile": "w-full",
         "section_height_mobile": "py-5",
         "spacing_mobile": 16,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
-        "padding_top_mobile": 24,
-        "padding_bottom_mobile": 24
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28
       }
     },
     "image_with_text_bfjRN6": {
@@ -1032,7 +1035,7 @@
     "rich_text_kWfTmF",
     "collection_list_qLaYxH",
     "image_with_text_yMdDNR",
-    "multicolumn_M3Rbqp",
+    "multicolumn_8b4mNJ",
     "image_with_text_bfjRN6",
     "image_with_text_eBwWkM"
   ]
