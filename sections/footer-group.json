@@ -338,6 +338,9 @@
         "link_list_JMLJPG",
         "link_list_MMf6Cq"
       ],
+      "custom_css": [
+        "h1, h2, h3, h4, h5, blockquote, li, .h2._textHeading_2aowh_35 {font-family: \"Serif\" !important;}"
+      ],
       "settings": {
         "columns_desktop": 5,
         "show_language_selector": true,
