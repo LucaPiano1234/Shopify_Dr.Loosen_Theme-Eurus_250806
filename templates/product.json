@@ -415,12 +415,12 @@
         "heading_8nMPQf": {
           "type": "heading",
           "settings": {
-            "subheading": "OUR SUSTAINABILITY PROMISE",
-            "heading": "Your regimen in 4 minutes. Instant hydration.",
+            "subheading": "Die Lage",
+            "heading": "{{ product.metafields.custom.lage.value }}",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "{{ product.metafields.custom.bodenart_beschreibung | metafield_tag }}",
+            "text": "",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -435,7 +435,7 @@
         "button_fYQUVB": {
           "type": "button",
           "settings": {
-            "button_label": "Order now",
+            "button_label": "Mehr von dieser Spitzenlage",
             "button_link": "",
             "open_new_window": false,
             "show_button_style": "primary",
@@ -460,14 +460,14 @@
         "heading_8nMPQf",
         "button_fYQUVB"
       ],
-      "disabled": true,
       "settings": {
         "show_hero": false,
         "image": "{{ product.metafields.custom.bodenart_bild.value }}",
-        "desktop_height": "550px",
+        "image_second": "{{ product.metafields.custom.lage_bild.value }}",
+        "desktop_height": "450px",
         "mobile_height": "400px",
-        "desktop_image_width": "medium",
-        "image_layout": "normal",
+        "desktop_image_width": "large",
+        "image_layout": "stacked",
         "adapt_radius": true,
         "image_corner_radius": 10,
         "show_sound_control": false,
@@ -475,7 +475,7 @@
         "video_alt_text": "",
         "enable_video_autoplay": false,
         "content_layout": "no-overlap",
-        "spacing_image": false,
+        "spacing_image": true,
         "text_position": "center",
         "text_alignment": "start",
         "background_color_light": "rgba(0,0,0,0)",
@@ -601,97 +601,6 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 32,
         "padding_bottom_mobile": 28
-      }
-    },
-    "testimonials_with_card_Yx6ANH": {
-      "type": "testimonials-with-card",
-      "blocks": {
-        "testimonial_zNjQ9G": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Jakob W.",
-            "text": "<p>Die Weinbereitung war super informativ und freundlich gestaltet. Wir haben uns sehr wohl gefühlt und eine umfassend auf uns zugeschnittene Weinverkostung genießen dürfen. Sehr empfehlenswert!</p>",
-            "show_author_image": false,
-            "author": "",
-            "author_note": "",
-            "product": ""
-          }
-        },
-        "testimonial_Jr6r6x": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Walte N.",
-            "text": "<p>Leidenschaft erleben, Tradition erfahren und guten Wein genießen. Das Weingut Dr. Loosen - eine Referenz an der Mosel.</p>",
-            "show_author_image": false,
-            "author": "",
-            "author_note": "",
-            "product": ""
-          }
-        },
-        "testimonial_WFWYP4": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Jannik B.",
-            "text": "<p>Wir waren Anfang Juli mit unserer Freundesgruppe bei Dr. Loosen.<br/>Schönes Weingut mit exzellenten Weinen! Die Weinprobe war mehr als ausführlich und Antonia hat uns perfekt durch die Weine geführt. Ich würde jedes Mal wieder hier hin kommen!<br/>Ganz klar ein Besuch wert!</p>",
-            "show_author_image": false,
-            "author": "",
-            "author_note": "",
-            "product": ""
-          }
-        },
-        "testimonial_UdjkBF": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Sascha B.",
-            "text": "<p>Tolle Weine (man entdeckt immer wieder neue spannende Weine & Projekte),  Super-Gastgeber und eine tolle Location.  Immer ein Besuch wert!</p>",
-            "show_author_image": false,
-            "author": "",
-            "author_note": "",
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_zNjQ9G",
-        "testimonial_Jr6r6x",
-        "testimonial_WFWYP4",
-        "testimonial_UdjkBF"
-      ],
-      "name": "t:sections.testimonials-with-card.name",
-      "settings": {
-        "heading": "Was unsere Kunden sagen",
-        "highlight_type": "font_highlight",
-        "subheading": "",
-        "heading_alignment": "left",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "auto_play": true,
-        "change_slides_speed": 5,
-        "image_ratio": "round",
-        "background_color_light": "rgba(0,0,0,0)",
-        "item_background_color_light": "rgba(0,0,0,0)",
-        "item_border_color_light": "rgba(0,0,0,0)",
-        "heading_and_title_light": "rgba(0,0,0,0)",
-        "item_text_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "item_border_color_dark": "rgba(0,0,0,0)",
-        "item_background_color_dark": "rgba(0,0,0,0)",
-        "heading_and_title_dark": "rgba(0,0,0,0)",
-        "item_text_color_dark": "rgba(0,0,0,0)",
-        "show_section_divider": false,
-        "top_padding": 100,
-        "bottom_padding": 100,
-        "show_section_divider_mobile": false,
-        "top_padding_mobile": 48,
-        "bottom_padding_mobile": 48
       }
     },
     "recently_viewed_fNawxV": {
@@ -856,6 +765,97 @@
         "full_width_mobile": false,
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 0
+      }
+    },
+    "testimonials_with_card_Yx6ANH": {
+      "type": "testimonials-with-card",
+      "blocks": {
+        "testimonial_zNjQ9G": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Jakob W.",
+            "text": "<p>Die Weinbereitung war super informativ und freundlich gestaltet. Wir haben uns sehr wohl gefühlt und eine umfassend auf uns zugeschnittene Weinverkostung genießen dürfen. Sehr empfehlenswert!</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_Jr6r6x": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Walte N.",
+            "text": "<p>Leidenschaft erleben, Tradition erfahren und guten Wein genießen. Das Weingut Dr. Loosen - eine Referenz an der Mosel.</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_WFWYP4": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Jannik B.",
+            "text": "<p>Wir waren Anfang Juli mit unserer Freundesgruppe bei Dr. Loosen.<br/>Schönes Weingut mit exzellenten Weinen! Die Weinprobe war mehr als ausführlich und Antonia hat uns perfekt durch die Weine geführt. Ich würde jedes Mal wieder hier hin kommen!<br/>Ganz klar ein Besuch wert!</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_UdjkBF": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Sascha B.",
+            "text": "<p>Tolle Weine (man entdeckt immer wieder neue spannende Weine & Projekte),  Super-Gastgeber und eine tolle Location.  Immer ein Besuch wert!</p>",
+            "show_author_image": false,
+            "author": "",
+            "author_note": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_zNjQ9G",
+        "testimonial_Jr6r6x",
+        "testimonial_WFWYP4",
+        "testimonial_UdjkBF"
+      ],
+      "name": "t:sections.testimonials-with-card.name",
+      "settings": {
+        "heading": "Was unsere Kunden sagen",
+        "highlight_type": "font_highlight",
+        "subheading": "",
+        "heading_alignment": "left",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "auto_play": true,
+        "change_slides_speed": 5,
+        "image_ratio": "round",
+        "background_color_light": "rgba(0,0,0,0)",
+        "item_background_color_light": "rgba(0,0,0,0)",
+        "item_border_color_light": "rgba(0,0,0,0)",
+        "heading_and_title_light": "rgba(0,0,0,0)",
+        "item_text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "item_border_color_dark": "rgba(0,0,0,0)",
+        "item_background_color_dark": "rgba(0,0,0,0)",
+        "heading_and_title_dark": "rgba(0,0,0,0)",
+        "item_text_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "top_padding": 100,
+        "bottom_padding": 100,
+        "show_section_divider_mobile": false,
+        "top_padding_mobile": 48,
+        "bottom_padding_mobile": 48
       }
     },
     "promotion_banner_k7jzqd": {
@@ -1189,10 +1189,10 @@
     "main",
     "image_with_text_RBtGLj",
     "multicolumn_YgrRte",
-    "testimonials_with_card_Yx6ANH",
     "recently_viewed_fNawxV",
     "product-recommendations",
     "image_with_text_CR6Kqj",
+    "testimonials_with_card_Yx6ANH",
     "promotion_banner_k7jzqd",
     "collection_list_xhhDpg",
     "image_with_text_b7nRzF",
