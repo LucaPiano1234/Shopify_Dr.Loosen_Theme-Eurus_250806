@@ -200,7 +200,7 @@
           "settings": {
             "icon": "sun",
             "another_icon": "",
-            "custom_image": "shopify://shop_images/2.png",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_077357ea-b53f-45a6-aa03-27dc5e9156f5.svg",
             "custom_icon": "",
             "title": "Ursprünglicher Ausbau",
             "highlight_type": "underline",
@@ -215,7 +215,7 @@
           "settings": {
             "icon": "another_icon",
             "another_icon": "",
-            "custom_image": "shopify://shop_images/1.png",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1_da770f24-e093-4ea3-83fa-87ab6464054e.svg",
             "custom_icon": "",
             "title": "VDP Weingut",
             "highlight_type": "underline",
@@ -230,7 +230,7 @@
           "settings": {
             "icon": "another_icon",
             "another_icon": "",
-            "custom_image": "shopify://shop_images/3.png",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2_5e4072b1-373a-40ac-802d-184935e494a1.svg",
             "custom_icon": "",
             "title": "Weltbekannte Schiefersteillagen",
             "highlight_type": "underline",
@@ -252,7 +252,7 @@
         "heading_size": 100,
         "heading_tag": "h2",
         "secondary_background": "none",
-        "border_column": "none",
+        "border_column": "line_vertical",
         "column_content_alignment": "center",
         "icon_position": "above",
         "icon_size": 58,
