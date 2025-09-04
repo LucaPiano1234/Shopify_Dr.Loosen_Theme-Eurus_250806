@@ -176,7 +176,10 @@
             "text": "Mehr aus unseren Top-Lagen",
             "show_background": false,
             "show_border": true,
-            "list_products": [],
+            "list_products": [
+              "test-sekt",
+              "test-weisswein"
+            ],
             "show_vendor": false,
             "show_rating": false,
             "show_highlighted_features": false,
