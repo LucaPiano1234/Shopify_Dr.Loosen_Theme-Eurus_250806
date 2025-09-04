@@ -45,6 +45,7 @@
             "open_new_window_image": false,
             "overlay_opacity": 30,
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "enable_bakground": false,
@@ -116,13 +117,13 @@
         "padding_bottom_mobile": 20
       }
     },
-    "flow_3xpCEp": {
+    "flow_Ap7m9X": {
       "type": "flow",
       "blocks": {
-        "media_pkLziH": {
+        "media_hgkc4y": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -130,7 +131,7 @@
             "subheading": "",
             "heading": "Bernkasteller Lay",
             "image_style_heading": "rounded",
-            "image_ratio_heading": "aspect-square",
+            "image_ratio_heading": "aspect-4/3",
             "description": "",
             "button_text": "Lage entdecken",
             "button_link": "https://weingut-dr-loosen.myshopify.com/collections/bernkasteller-lay",
@@ -138,10 +139,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_CttYbc": {
+        "media_znpVRm": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -157,10 +158,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_ac9Mmc": {
+        "media_jwizPg": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -176,10 +177,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_iYtybg": {
+        "media_9birRL": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN_ceab565d-c0de-4a36-902b-4b4b5627f965.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -195,10 +196,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_WgDEVV": {
+        "media_kTrLfD": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -214,10 +215,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_xcPLDE": {
+        "media_39qR6g": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -233,10 +234,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_6CyrN6": {
+        "media_LDrNGa": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR_1.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -252,10 +253,10 @@
             "show_button_style": "primary"
           }
         },
-        "media_TcWnbW": {
+        "media_iPhyfq": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__UeRZIGER_WUeRZGARTEN.webp",
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__Uerziger_Wuerzgarten_f117ea07-7e99-4bfd-8e3f-1dcf19f66e90.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -273,17 +274,14 @@
         }
       },
       "block_order": [
-        "media_pkLziH",
-        "media_CttYbc",
-        "media_ac9Mmc",
-        "media_iYtybg",
-        "media_WgDEVV",
-        "media_xcPLDE",
-        "media_6CyrN6",
-        "media_TcWnbW"
-      ],
-      "custom_css": [
-        ".x-container-flow-media {width: 80%; height: auto; align-content: center;}"
+        "media_hgkc4y",
+        "media_znpVRm",
+        "media_jwizPg",
+        "media_9birRL",
+        "media_kTrLfD",
+        "media_39qR6g",
+        "media_LDrNGa",
+        "media_iPhyfq"
       ],
       "name": "t:sections.flow.name",
       "settings": {
@@ -294,14 +292,14 @@
         "heading_alignment": "center",
         "content_position": "middle",
         "content_alignment": "left",
-        "select_motion": "hover",
+        "select_motion": "click",
         "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
         "auto_play": false,
         "change_steps_speed": 5,
-        "pause_hover": true,
-        "background_color": "#ffffff",
+        "pause_hover": false,
+        "background_color": "rgba(0,0,0,0)",
         "heading_color": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
@@ -318,7 +316,7 @@
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "mobile_height": "400px",
-        "padding_top_mobile": 28,
+        "padding_top_mobile": 52,
         "padding_bottom_mobile": 28
       }
     }
@@ -326,6 +324,6 @@
   "order": [
     "main",
     "slideshow_fhJUnK",
-    "flow_3xpCEp"
+    "flow_Ap7m9X"
   ]
 }
