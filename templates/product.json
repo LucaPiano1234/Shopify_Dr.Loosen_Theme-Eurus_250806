@@ -47,6 +47,7 @@
         },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
           "type": "estimate_delivery",
+          "disabled": true,
           "settings": {
             "hide_when_pre_order": false,
             "box_type": "round",
@@ -161,10 +162,10 @@
         "frequently_bought_pGGTM8": {
           "type": "frequently_bought",
           "settings": {
-            "icon": "hot-sale",
+            "icon": "earth",
             "another_icon": "",
             "custom_icon": "",
-            "text": "More Deals From Puff!",
+            "text": "Mehr aus unseren Top-Lagen",
             "show_background": false,
             "show_border": true,
             "list_products": [],
@@ -184,8 +185,32 @@
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
+            "heading": "Wie schmekt er",
+            "tab_content": "{{ product.description }}<p></p>"
+          }
+        },
+        "collapsible_tab_jdUdyp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
             "heading": "Mehr dazu",
-            "tab_content": "{{ product.description }}"
+            "tab_content": "<p>Jahrgang: {{ product.metafields.custom.jahrgang.value }}</p><p>Geschmacksrichtung:\t{{ product.metafields.custom.geschmack.value }}</p><p>Terroir: {{ product.metafields.custom.bodenart.value }}</p><p>Lage: {{ product.metafields.custom.lage.value }}</p><p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}</p><p>Rebsorte/n: {{ product.metafields.custom.rebsorte.value }}</p><p>Trinktemperatur: {{ product.metafields.custom.trinktemperatur.value }}</p><p>Anbaugebiet: {{ product.metafields.custom.anbaugebiet.value }}</p><p>Ausbau: {{ product.metafields.custom.ausbau.value }}</p><p>Klassifikation: {{ product.metafields.custom.klassifikation.value }}</p><p>Flaschengröße: {{ product.metafields.custom.inhalt.value }}</p>"
+          }
+        },
+        "collapsible_tab_WTEAVV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Speiseempfehlung & Geschmacksnoten",
+            "tab_content": "<p>Passt zu:</p>{{ product.metafields.custom.passt_zu | metafield_tag }}<p>Anlass:</p>{{ product.metafields.custom.anlass | metafield_tag }}<p>Aromen:</p>{{ product.metafields.custom.aromen | metafield_tag }}"
           }
         },
         "nutrition_fact_tEqfWX": {
@@ -196,7 +221,7 @@
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Ingredient Count",
+            "heading": "Nährwertsangeben",
             "enable_background": false,
             "metafield_key_list": "",
             "nutrition_details": "<p>Hyaluronic Acid: 5% <br/>Niacinamide: 100% <br/>Aloe Vera Extract: 5%<br/>Jojoba Oil: 5%</p>",
@@ -312,6 +337,8 @@
         "coupon_code_d4T8zk",
         "frequently_bought_pGGTM8",
         "collapsible_tab_MgjKqH",
+        "collapsible_tab_jdUdyp",
+        "collapsible_tab_WTEAVV",
         "nutrition_fact_tEqfWX",
         "collapsible-row-1",
         "collapsible-row-0",
@@ -364,6 +391,104 @@
         "padding_bottom_mobile": 48
       }
     },
+    "multicolumn_YgrRte": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nBqzcC": {
+          "type": "column",
+          "settings": {
+            "icon": "sun",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_077357ea-b53f-45a6-aa03-27dc5e9156f5.svg",
+            "custom_icon": "",
+            "title": "Ursprünglicher Ausbau",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
+          }
+        },
+        "column_qrmYFm": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1_da770f24-e093-4ea3-83fa-87ab6464054e.svg",
+            "custom_icon": "",
+            "title": "VDP Weingut",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Seit 1993</p>"
+          }
+        },
+        "column_eMRFW7": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2_5e4072b1-373a-40ac-802d-184935e494a1.svg",
+            "custom_icon": "",
+            "title": "Weltbekannte Schiefersteillagen",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>in der Mittelmosel</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_nBqzcC",
+        "column_qrmYFm",
+        "column_eMRFW7"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 58,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 40,
+        "full_width": false,
+        "padding_full_width": true,
+        "show_section_divider": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -397,101 +522,6 @@
         "padding_bottom_mobile": 20
       }
     },
-    "331e6fca-2947-4a19-89c5-9396be0d666a": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_y7bRir": {
-          "type": "column",
-          "settings": {
-            "icon": "flower",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Safe to use",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>EWG VERIFIED™, made with 99.9%+ natural origin ingredients* including phytoglycogen.</p>"
-          }
-        },
-        "column_XbXwkj": {
-          "type": "column",
-          "settings": {
-            "icon": "dna",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Non-allergen",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>The SHA accreditation is an instant way to recognise a product meets the highest standards of skin safety.</p>"
-          }
-        },
-        "column_D4NA9Q": {
-          "type": "column",
-          "settings": {
-            "icon": "star",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Confidence by trust",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Businesses must prioritize ethical practices and customer-centric strategies to ensure long-term success.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "column_y7bRir",
-        "column_XbXwkj",
-        "column_D4NA9Q"
-      ],
-      "settings": {
-        "title": "",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "secondary_background": "none",
-        "border_column": "full_border",
-        "column_content_alignment": "center",
-        "icon_position": "above",
-        "icon_size": 45,
-        "enable_desktop_slider": false,
-        "swiper_on_mobile": true,
-        "enable_arrow_mobile": false,
-        "auto_play": true,
-        "change_bar_every": 5,
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "color_icon_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "heading_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "color_icon_dark": "rgba(0,0,0,0)",
-        "column_layout_desktop": "lg:w-1/3",
-        "section_height_desktop": "md:py-7",
-        "spacing_desktop": 28,
-        "full_width": false,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "column_layout_mobile": "w-full",
-        "section_height_mobile": "py-5",
-        "spacing_mobile": 16,
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 16,
-        "padding_bottom_mobile": 48
-      }
-    },
     "image_with_text_RBtGLj": {
       "type": "image-with-text",
       "blocks": {
@@ -503,7 +533,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>As the world’s leading skin health accreditation body, we want everyone to have access to the best help and advice to care for their skin & more.</p>",
+            "text": "{{ product.metafields.custom.bodenart_beschreibung | metafield_tag }}",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -545,6 +575,7 @@
       ],
       "settings": {
         "show_hero": false,
+        "image": "{{ product.metafields.custom.bodenart_bild.value }}",
         "desktop_height": "550px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
@@ -584,59 +615,6 @@
         "full_width_mobile": false,
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 20
-      }
-    },
-    "products_bundle_8bV8CB": {
-      "type": "products-bundle",
-      "settings": {
-        "heading": "Frequently [bought together.]",
-        "highlight_type": "font_highlight",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "description": "Create a bundle and save up to 30%",
-        "heading_alignment": "center",
-        "show_discount_value_label": false,
-        "label_type": "rounded",
-        "discount_value_label": "#c85809",
-        "discount_value_label_text": "#ffffff",
-        "button_atb_label": "Add to bundle",
-        "collection": "",
-        "product_to_show": 3,
-        "products": [],
-        "show_highlighted_features": false,
-        "each_product_can_added_to_bundle_once": true,
-        "minimum_items": 3,
-        "discount_type": "percentage",
-        "discount_value": "33",
-        "apply_discount_once_per_order": true,
-        "summary_position": "right",
-        "bundler_heading": "Radiance Bundle",
-        "bundler_text": "<p>Add at least 3 items to get 30% Off</p>",
-        "background_color_light": "rgba(0,0,0,0)",
-        "title_color": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "button_light": "rgba(0,0,0,0)",
-        "button_text_light": "rgba(0,0,0,0)",
-        "button_hover_light": "rgba(0,0,0,0)",
-        "button_text_hover_light": "rgba(0,0,0,0)",
-        "line_border": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "title_color_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "button_dark": "rgba(0,0,0,0)",
-        "button_text_dark": "rgba(0,0,0,0)",
-        "button_hover_dark": "rgba(0,0,0,0)",
-        "button_text_hover_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "spacing": 20,
-        "show_section_divider": false,
-        "full_width": false,
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "spacing_mobile": 16,
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 48
       }
     },
     "text_column_with_image_MUhrhK": {
@@ -713,7 +691,6 @@
         "column_be7djG",
         "column_bDmkCU"
       ],
-      "disabled": true,
       "settings": {
         "title": "KEY INGREDIENTS",
         "highlight_type": "underline",
@@ -770,7 +747,6 @@
       "block_order": [
         "text_8tJtz7"
       ],
-      "disabled": true,
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -998,6 +974,7 @@
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": true,
             "video_alt_text": "",
             "enable_content_overlay": true,
@@ -1040,6 +1017,7 @@
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": true,
             "video_alt_text": "",
             "enable_content_overlay": true,
@@ -1082,6 +1060,7 @@
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": true,
             "video_alt_text": "",
             "enable_content_overlay": true,
@@ -1358,10 +1337,9 @@
   },
   "order": [
     "main",
+    "multicolumn_YgrRte",
     "product-recommendations",
-    "331e6fca-2947-4a19-89c5-9396be0d666a",
     "image_with_text_RBtGLj",
-    "products_bundle_8bV8CB",
     "text_column_with_image_MUhrhK",
     "rich_text_erqjzG",
     "image_with_text_ehEUt4",
