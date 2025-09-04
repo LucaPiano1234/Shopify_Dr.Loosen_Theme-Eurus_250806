@@ -316,7 +316,7 @@
           "type": "link_list",
           "settings": {
             "open_by_default": false,
-            "heading_menu": "Unsere Kollektionen",
+            "heading_menu": "UNSERE KOLLEKTIONEN",
             "menu": "footer-menu-kategorien",
             "show_social_icons": false
           }
@@ -325,7 +325,7 @@
           "type": "link_list",
           "settings": {
             "open_by_default": false,
-            "heading_menu": "Sonstiges",
+            "heading_menu": "RECHTLICHES",
             "menu": "footer-menu-sonstiges",
             "show_social_icons": false
           }
