@@ -409,78 +409,6 @@
         "padding_bottom_mobile": 48
       }
     },
-    "image_with_text_RBtGLj": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_8nMPQf": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Die Lage",
-            "heading": "{{ product.metafields.custom.lage.value }}",
-            "highlight_type": "underline",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p><strong>Terroir</strong>: {{ product.metafields.custom.bodenart.value }}</p>{{ product.metafields.custom.bodenart_beschreibung | metafield_tag }}<p></p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "heading_8nMPQf"
-      ],
-      "settings": {
-        "show_hero": false,
-        "image": "{{ product.metafields.custom.bodenart_bild.value }}",
-        "image_second": "{{ product.metafields.custom.lage_bild.value }}",
-        "desktop_height": "450px",
-        "mobile_height": "400px",
-        "desktop_image_width": "medium",
-        "image_layout": "stacked",
-        "adapt_radius": true,
-        "image_corner_radius": 10,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "no-overlap",
-        "spacing_image": true,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "#ffffff",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 100,
-        "bottom_padding": 32,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 20
-      }
-    },
     "multicolumn_YgrRte": {
       "type": "multicolumn",
       "blocks": {
@@ -577,6 +505,78 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 32,
         "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_RBtGLj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8nMPQf": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Die Lage",
+            "heading": "{{ product.metafields.custom.lage.value }}",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p><strong>Terroir</strong>: {{ product.metafields.custom.bodenart.value }}</p>{{ product.metafields.custom.bodenart_beschreibung | metafield_tag }}<p></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8nMPQf"
+      ],
+      "settings": {
+        "show_hero": false,
+        "image": "{{ product.metafields.custom.bodenart_bild.value }}",
+        "image_second": "{{ product.metafields.custom.lage_bild.value }}",
+        "desktop_height": "450px",
+        "mobile_height": "400px",
+        "desktop_image_width": "medium",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 10,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "no-overlap",
+        "spacing_image": true,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#ffffff",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": true,
+        "padding_full_width": false,
+        "top_padding": 72,
+        "bottom_padding": 32,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 20
       }
     },
     "recently_viewed_fNawxV": {
