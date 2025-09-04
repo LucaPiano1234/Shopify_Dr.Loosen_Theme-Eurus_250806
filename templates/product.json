@@ -224,7 +224,7 @@
             "heading": "Nährwertsangeben",
             "enable_background": false,
             "metafield_key_list": "",
-            "nutrition_details": "<p>Hyaluronic Acid: 5% <br/>Niacinamide: 100% <br/>Aloe Vera Extract: 5%<br/>Jojoba Oil: 5%</p>",
+            "nutrition_details": "<p>Brennwert: {{ product.metafields.custom.brennwert.value }}<br/>Kohlenhydrate: {{ product.metafields.custom.kohlenhydrate.value }}<br/>davon Zucker: {{ product.metafields.custom.davon_zucker.value }}</p><p>Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz.<br/><br/>Zutatenliste: </p>",
             "extra_detail": "This kind of \"ingredient bar\" focuses on highlighting the benefits of the active ingredients in a way that's familiar to consumers",
             "content_background_color": "rgba(0,0,0,0)",
             "content_background_color_dark": "rgba(0,0,0,0)",
