@@ -72,33 +72,61 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Ernie Loosen sagt:",
-            "tab_content": "<p>{{ product.description }}</p>"
-          }
-        },
-        "icon_text_XR9LtD": {
-          "type": "icon_text",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 30,
-            "text": "<p>Versandkostenfrei ab 100 €</p>",
-            "background_color_light": "#ffffff",
-            "text_light": "#282928",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)"
+            "tab_content": "{{ product.description }}"
           }
         },
         "icon_text_GBwbKx": {
           "type": "icon_text",
           "settings": {
-            "icon": "truck",
+            "icon": "arrow-right-circle",
             "another_icon": "",
             "custom_icon": "",
             "icon_size": 30,
             "text": "<p>Versandkostenfrei ab 100 €</p>",
             "background_color_light": "#ffffff",
-            "text_light": "#282928",
+            "text_light": "#53585e",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_GDdV86": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right-circle",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p>Direkte Lieferung vom Weingut, keine Zwischenhändler</p>",
+            "background_color_light": "#ffffff",
+            "text_light": "#53585e",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_mTfXXG": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right-circle",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p>Seit über 200 Jahre im FAmilienbesitz</p>",
+            "background_color_light": "#ffffff",
+            "text_light": "#53585e",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_imBUg4": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right-circle",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p>Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur</p>",
+            "background_color_light": "#ffffff",
+            "text_light": "#53585e",
             "background_color_dark": "rgba(0,0,0,0)",
             "text_dark": "rgba(0,0,0,0)"
           }
@@ -323,8 +351,10 @@
         "inventory_status_LrbyC8",
         "variant_picker",
         "collapsible_tab_MgjKqH",
-        "icon_text_XR9LtD",
         "icon_text_GBwbKx",
+        "icon_text_GDdV86",
+        "icon_text_mTfXXG",
+        "icon_text_imBUg4",
         "quantity_selector",
         "buy_buttons",
         "trust_badge_9W97Rp",
