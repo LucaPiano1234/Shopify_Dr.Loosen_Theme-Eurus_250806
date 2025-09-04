@@ -826,7 +826,8 @@
         "contact_menu_Y4YBXE"
       ],
       "custom_css": [
-        ".text-\\[rgba\\(var\\(--colors-text\\)\\)\\] {color: #50565e; font-family: \"Serif\";}"
+        ".text-\\[rgba\\(var\\(--colors-text\\)\\)\\] {color: #50565e;}",
+        ".font_menu-normal {font-family: \"Serif\";}"
       ],
       "settings": {
         "menu": "main-menu",
