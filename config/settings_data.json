@@ -146,6 +146,7 @@
     "colors_dark_speech": "#686648",
     "advanced_show_breadcrumbs": true,
     "breadcrumbs_separator": ">",
+    "favicon": "shopify://shop_images/20250729_WG_Dr.Loosen_Logo_Weiss_Rot_1_83a777ca-efab-4c20-ad8f-ad7e7c84792c.png",
     "cart_page_layout": "side",
     "cart_type": "drawer",
     "cart_icon": "icon-hand-bag",
