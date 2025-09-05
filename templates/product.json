@@ -619,8 +619,8 @@
         "heading_mt6Yfn": {
           "type": "heading",
           "settings": {
-            "subheading": "{{ product.metafields.custom.klassifikation.value }}",
-            "heading": "VDP Wingut seit 1993",
+            "subheading": "VDP Wingut seit 1993",
+            "heading": "{{ product.metafields.custom.klassifikation.value }}",
             "highlight_type": "underline",
             "heading_base_size": 80,
             "heading_tag": "h2",
