@@ -1113,6 +1113,7 @@
     },
     "related_blog_posts_wMDWtw": {
       "type": "related-blog-posts",
+      "disabled": true,
       "name": "t:sections.featured-blog.related_blog",
       "settings": {
         "heading": "Aus der Welt von Dr. Loosen",
