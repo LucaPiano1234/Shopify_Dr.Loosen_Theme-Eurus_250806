@@ -426,7 +426,7 @@
         "line_border_dark": "rgba(0,0,0,0)",
         "icon_color_dark": "rgba(0,0,0,0)",
         "image_alignment": "left",
-        "full_width": true,
+        "full_width": false,
         "padding_full_width": false,
         "top_padding": 32,
         "bottom_padding": 44,
