@@ -221,7 +221,7 @@
         "overlay_opacity": 0,
         "form_width": "large",
         "content_layout": "vertical",
-        "background_color_light": "",
+        "background_color_light": "#ffffff",
         "heading_light": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
