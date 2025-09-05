@@ -234,6 +234,7 @@
         "media_nJRWrw": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01310_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -249,7 +250,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
@@ -276,6 +277,7 @@
         "media_6QbC6W": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01168_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -291,7 +293,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
@@ -318,6 +320,7 @@
         "media_WTnPn8": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00588_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -333,7 +336,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
@@ -360,6 +363,7 @@
         "media_CMbFHC": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01252_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -375,7 +379,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
@@ -402,6 +406,7 @@
         "media_97VGkR": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01525_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -417,7 +422,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
@@ -444,6 +449,7 @@
         "media_rRfGgT": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00571_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -459,7 +465,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
@@ -486,6 +492,7 @@
         "media_Vg8CXw": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01522_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -501,7 +508,7 @@
             "custom_icon": "",
             "icon_size": 45,
             "sub_title": "",
-            "title": "Media heading",
+            "title": "",
             "highlight_type": "underline",
             "title_size": 100,
             "text": "",
