@@ -444,7 +444,7 @@
         "media_yCiN4K"
       ],
       "custom_css": [
-        "blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {margin: 0; font-family: \"Serif\";}"
+        "blockquote,dl,dd,h1,h2,h3,h4,h5,h6,hr,figure,p,pre {margin: 0; font-family: \"Serif\";}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
@@ -456,7 +456,7 @@
         "content_position": "middle",
         "content_alignment": "left",
         "select_motion": "hover",
-        "open_first_tab": true,
+        "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
         "auto_play": false,
