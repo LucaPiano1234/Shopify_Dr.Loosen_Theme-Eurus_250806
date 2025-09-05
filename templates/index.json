@@ -1031,14 +1031,6 @@
             "number_of_row": 1
           }
         },
-        "collection_nkqQYL": {
-          "type": "collection",
-          "settings": {
-            "collection": "vdp-erste-lage",
-            "number_of_columns": 1,
-            "number_of_row": 1
-          }
-        },
         "collection_CcamNB": {
           "type": "collection",
           "settings": {
@@ -1059,7 +1051,6 @@
       "block_order": [
         "collection_7cBBab",
         "collection_4h4zK6",
-        "collection_nkqQYL",
         "collection_CcamNB",
         "collection_rn9yji"
       ],
@@ -1084,7 +1075,7 @@
         "show_rating": false,
         "show_highlighted_features": true,
         "show_highlighted_attributes": true,
-        "max_columns": 5,
+        "max_columns": 4,
         "spacing": 20,
         "full_width": true,
         "show_section_divider": false,
