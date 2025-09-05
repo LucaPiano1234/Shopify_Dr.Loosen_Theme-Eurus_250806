@@ -51,7 +51,7 @@
             "enable_bakground": false,
             "subheading": "",
             "subheading_size": 100,
-            "heading": "Übernachtung im Rieslingsparadis",
+            "heading": "Übernachtung im Rieslingparadies",
             "highlight_type": "underline",
             "heading_size": 130,
             "heading_tag": "h2",
@@ -123,7 +123,7 @@
         "heading_HwMneC": {
           "type": "heading",
           "settings": {
-            "heading": "BESUCHEN SIE UNS IM WEINGUT UND ERLEBEN WEIN HAUTNAH",
+            "heading": "ÜBERNACHTEN SIE BEI UNS IN DEN EXKLUSIVEN ZIMMERN IN UNSEREM NEUEN GÄSTEHAUS.",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -132,7 +132,7 @@
         "text_6dtUqn": {
           "type": "text",
           "settings": {
-            "text": "<p>Wir heißen Sie herzlich willkommen in unserer Vinothek direkt an der Mosel bei Bernkastel.<br/>Erleben Sie unsere Weine und die Dr. Loosen-Philosophie dahinter auf Ihre ganz persönliche<br/>Art und Weise.</p><p></p>",
+            "text": "<p>Neben unseren Weinproben bieten wir Ihnen seit Neuestem auch die passende Unterkunft. In einem der sieben Zimmer unseres Gästehauses, angrenzend an das Weingut und in unmittelbarer Nähe zur Mosel, können Sie den Tag in aller Ruhe ausklingen lassen.</p><p>Auch die große Terrasse lädt zum Verweilen und Genuss des ein oder anderen Weines ein. In den hochwertig ausgestatteten Zimmern, die die Namen unserer Großen Lagen tragen, können Sie den tollen Aus- und Weitblick in die Weinberge und zur Mosel hin ebenso genießen wie beim Frühstück.</p><p><strong>Einzelzimmer inkl. Frühstück 120,- €</strong></p><p><strong>Doppelzimmer inkl. Frühstück 140,- €</strong></p><p><strong>Die Buchung ist ab einem Aufenthalt von zwei Übernachtungen möglich.</strong></p><p>Bei Interesse an einem Aufenthalt oder weiteren Informationen nutzen Sie bitte unser Kontaktformular.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -141,10 +141,10 @@
         "button_XTFGg6": {
           "type": "button",
           "settings": {
-            "button_label": "Zur Verkostungsanfrage",
+            "button_label": "Zum Kontaktformular",
             "button_link": "",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
