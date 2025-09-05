@@ -142,9 +142,9 @@
           "type": "button",
           "settings": {
             "button_label": "Zur Verkostungsanfrage",
-            "button_link": "",
+            "button_link": "#form-container-ref",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
