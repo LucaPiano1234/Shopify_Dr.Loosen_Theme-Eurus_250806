@@ -113,6 +113,9 @@
         "announcement_kUpxWe",
         "announcement_TP7FYj"
       ],
+      "custom_css": [
+        "@media (min-width: 1024px) {.lg\\:pr-5 {padding-right: 1.25rem; padding-left: 2.5rem; }}"
+      ],
       "settings": {
         "enable": true,
         "show_only_on_homepage": false,
