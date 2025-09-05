@@ -304,8 +304,9 @@
         },
         "text_YWzLPW": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von <a href=\"https://drloosen.com/ueber-uns/Weinbau\">Ernst F. Loosen </a>geführt. Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen <a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel </a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur.</p><p>Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
+            "text": "<p>Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von Ernst F. Loosen geführt. </p><p><strong>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte.</strong> Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen Grossen Lagen der Mittel-Mosel – hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. </p><p><strong>Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur.</strong></p><p>Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -549,7 +550,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen <a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen.</p><p>Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur. Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
+            "text": "<p><strong>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. </strong>Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen <a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen.</p><p><strong>Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur.</strong> Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
