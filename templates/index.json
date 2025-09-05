@@ -295,6 +295,7 @@
       "blocks": {
         "heading_U9QwPN": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ERLESENE RIESLINGE AUS DEN STEILLAGEN DER MITTEL-MOSEL.",
             "highlight_type": "underline",
@@ -317,6 +318,7 @@
         "heading_U9QwPN",
         "text_YWzLPW"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.name",
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
