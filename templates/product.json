@@ -667,7 +667,7 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01426_1.jpg",
+        "image": "{{ product.metafields.custom.kategorie_bild.value }}",
         "desktop_height": "550px",
         "mobile_height": "400px",
         "desktop_image_width": "large",
