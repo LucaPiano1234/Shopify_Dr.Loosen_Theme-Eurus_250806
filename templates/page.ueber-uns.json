@@ -443,7 +443,9 @@
         "media_mPPVxX",
         "media_yCiN4K"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "blockquote,dl,dd,h1,h2,h3,h4,h5,h6,hr,figure,p,pre {margin: 0; font-family: \"Serif\";}"
+      ],
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "QUALITÄTSFAKTOREN",
@@ -454,7 +456,7 @@
         "content_position": "middle",
         "content_alignment": "left",
         "select_motion": "hover",
-        "open_first_tab": true,
+        "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
         "auto_play": false,
@@ -610,8 +612,8 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/Ecostep_logo.png",
-        "desktop_height": "650px",
+        "image": "shopify://shop_images/WG_Loosen_EcoStep.png",
+        "desktop_height": "450px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",

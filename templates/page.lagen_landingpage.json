@@ -319,11 +319,245 @@
         "padding_top_mobile": 52,
         "padding_bottom_mobile": 28
       }
+    },
+    "featured_product_Fzrifc": {
+      "type": "featured-product",
+      "blocks": {
+        "text_kjA3Y6": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Das GG-Paket <br/></h2><h2>Das Beste unserer Mittelmosel-Terroirs</h2>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "price_TWgH3p": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "text_size_price": 70
+          }
+        },
+        "badges_JJWem3": {
+          "type": "badges",
+          "settings": {
+            "position_adapt": false
+          }
+        },
+        "description_eqdept": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_by_default": false,
+            "make_content_center": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Description",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "variant_picker_wPbmd8": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_variant_option": true,
+            "enable_color_swatches": false,
+            "swatch_size": "small"
+          }
+        },
+        "quantity_selector_3LFGGG": {
+          "type": "quantity_selector",
+          "settings": {
+            "style": "adapt"
+          }
+        },
+        "buy_buttons_L94bf4": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_button_style": "secondary",
+            "show_dynamic_checkout": true,
+            "show_add_to_cart": true,
+            "show_atc_quantity": false,
+            "show_price": false,
+            "hide_sale_price": true,
+            "pickup_availability": true,
+            "hide_when_pre_order": false,
+            "preorder_button_label": "Pre-order",
+            "box_type": "adapt",
+            "preorder_message": "<p>This product will be available for sale in 2 weeks, but you can pre-order now to receive 10% discount!</p>",
+            "preorder_show_dynamic_button": false,
+            "show_background": false,
+            "background_color_light": "rgba(0,0,0,0)",
+            "message_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "message_color_dark": "rgba(0,0,0,0)",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "text_kjA3Y6",
+        "price_TWgH3p",
+        "badges_JJWem3",
+        "description_eqdept",
+        "variant_picker_wPbmd8",
+        "quantity_selector_3LFGGG",
+        "buy_buttons_L94bf4"
+      ],
+      "name": "t:sections.featured-product.name",
+      "settings": {
+        "product": "test-edelsuss-kopie",
+        "show_product_name": false,
+        "title_size": 80,
+        "heading_tag": "h2",
+        "show_vendor": false,
+        "make_content_center": false,
+        "desktop_layout": "left",
+        "image_ratio": "square",
+        "show_arrow_button": true,
+        "show_thumbnails": false,
+        "thumbnail_position": "horizontal",
+        "transition_style": "fade",
+        "enable_image_zoom": true,
+        "zoom_effect": "enlarge",
+        "enable_video_autoplay": false,
+        "enable_video_loop": false,
+        "show_first_image_avaiable": true,
+        "show_media_with_variant_selected": false,
+        "option_to_classify_variant_media": "",
+        "full_width": false,
+        "spacing_col": "default",
+        "show_section_divider": false,
+        "padding_top": 56,
+        "padding_bottom": 56,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 56,
+        "padding_bottom_mobile": 56,
+        "background_color_light": "#ffffff",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)"
+      }
+    },
+    "image_with_text_7jPzbf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tL8Nfz": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Das GG-Paket",
+            "heading": "Das Beste unserer Mittelmosel-Terroirs",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p><strong>XX€ - Versandkostenfrei</strong></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "#313e4d",
+            "text_light": "#313e4d",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_9qzwtQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jetzt entdecken",
+            "button_link": "shopify://products/test-edelsuss-kopie",
+            "open_new_window": false,
+            "show_button_style": "text-link",
+            "button_light": "#ffffff",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "#313e4d",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tL8Nfz",
+        "button_9qzwtQ"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": false,
+        "image": "shopify://shop_images/2023-09_HoR_DrLoosen-08724_1.jpg",
+        "desktop_height": "650px",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#f3f6ef",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "#313e4d",
+        "text_color_light": "#313e4d",
+        "line_border_light": "#313e4d",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "#313e4d",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": true,
+        "padding_full_width": false,
+        "top_padding": 32,
+        "bottom_padding": 44,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
+      }
     }
   },
   "order": [
     "main",
     "slideshow_fhJUnK",
-    "flow_Ap7m9X"
+    "flow_Ap7m9X",
+    "featured_product_Fzrifc",
+    "image_with_text_7jPzbf"
   ]
 }
