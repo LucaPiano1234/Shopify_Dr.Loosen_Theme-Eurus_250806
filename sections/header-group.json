@@ -580,7 +580,7 @@
           "settings": {
             "heading": "AKTUELLES & PRESSESTIMMEN",
             "menu": "",
-            "menu_item_link": "shopify://pages/aktuelles",
+            "menu_item_link": "shopify://blogs/news",
             "open_new_window": false,
             "see_more_link": "",
             "see_more_open_new_window": false,
