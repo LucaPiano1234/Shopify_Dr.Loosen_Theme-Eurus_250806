@@ -326,7 +326,7 @@
           "settings": {
             "open_by_default": false,
             "heading_menu": "RECHTLICHES",
-            "menu": "",
+            "menu": "footer-rechtstexte",
             "show_social_icons": false
           }
         }
