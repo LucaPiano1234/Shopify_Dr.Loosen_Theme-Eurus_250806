@@ -1116,13 +1116,15 @@
       "block_order": [
         "heading_Vfbe4h"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-color: #ffffff; }}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide.png",
         "desktop_height": "450px",
-        "mobile_height": "250px",
+        "mobile_height": "300px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
@@ -1158,8 +1160,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 48,
+        "bottom_padding_mobile": 52
       }
     },
     "e32885d8-0a8f-4c4f-8801-377d01cb7656": {
