@@ -793,7 +793,7 @@
         "show_hero": false,
         "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide_da07c555-91cf-4699-8ee3-b03bc1ca8186.png",
         "desktop_height": "450px",
-        "mobile_height": "400px",
+        "mobile_height": "250px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
@@ -829,8 +829,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 52,
+        "bottom_padding_mobile": 48
       }
     },
     "image_with_text_FaVmha": {
