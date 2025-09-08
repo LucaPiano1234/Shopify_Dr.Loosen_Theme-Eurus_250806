@@ -112,7 +112,7 @@
         "adapt_corners_mobile": true,
         "rounded_corner_image_mobile": false,
         "show_content_below_image": false,
-        "mobile_height": "500",
+        "mobile_height": "250",
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 20
       }
