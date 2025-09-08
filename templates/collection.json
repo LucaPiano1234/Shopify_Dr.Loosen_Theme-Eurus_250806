@@ -789,7 +789,7 @@
         "button_MKfpem"
       ],
       "custom_css": [
-        ".min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-color: #ffffff;}"
+        "@media only screen and (max-width: 600px) {.min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-color: #ffffff; }}"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
