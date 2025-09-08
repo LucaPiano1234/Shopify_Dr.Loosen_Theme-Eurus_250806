@@ -788,6 +788,9 @@
         "heading_cxdmCz",
         "button_MKfpem"
       ],
+      "custom_css": [
+        ".min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-color: #ffffff;}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
