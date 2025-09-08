@@ -795,7 +795,7 @@
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide_da07c555-91cf-4699-8ee3-b03bc1ca8186.png",
-        "desktop_height": "450px",
+        "desktop_height": "550px",
         "mobile_height": "300px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
