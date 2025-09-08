@@ -789,7 +789,7 @@
         "button_MKfpem"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 600px) {.min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-color: #ffffff; }}"
+        "@media only screen and (max-width: 600px) {.min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-width: 60px; border-bottom-color: #ffffff; }}"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
@@ -832,7 +832,7 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 84,
+        "top_padding_mobile": 52,
         "bottom_padding_mobile": 48
       }
     },
