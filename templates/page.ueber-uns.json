@@ -614,7 +614,7 @@
         "show_hero": false,
         "image": "shopify://shop_images/WG_Loosen_EcoStep.png",
         "desktop_height": "450px",
-        "mobile_height": "400px",
+        "mobile_height": "250px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
