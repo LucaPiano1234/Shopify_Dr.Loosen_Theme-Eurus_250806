@@ -1386,7 +1386,7 @@
             "highlight_type": "underline",
             "heading_base_size": 90,
             "heading_tag": "h2",
-            "text": "<p>Seit 1993 ist das Weingut Dr. Loosen Mitglied im VDP (Verband Deutscher Prädikatsweingüter). Mit der VDP.Klassifikation verpflichtet sich das Weingut zu strengsten Qualitätsstandards, die Herkunft und Terroir in den Mittelpunkt stellen.<br/><br/>Die vierstufige Qualitätspyramide des VDP ordnet die Weine nach ihrem Ursprung:</p><p><strong>VDP.GROSSE LAGE®</strong> – die Spitzenlagen, die große, terroirgeprägte Weine hervorbringen.<br/><br/>Mit seinen wurzelechten, alten Riesling-Reben in weltberühmten Steillagen der Mittel-Mosel zeigt Dr. Loosen eindrucksvoll, wie sich diese Philosophie in unverwechselbare Weine von internationalem Rang übersetzt.</p><p><strong>VDP.ERSTE LAGE®</strong> – erstklassige Weinberge mit eigenständigem Profil.</p><p>*Im Weinbaugebiet Mosel verzichtet der VDP.Regionalverband auf die Klassifikationsstufe VDP.ERSTE LAGE.</p><p><br/><strong>VDP.ORTSWEIN</strong> – Weine aus charaktervollen Lagen einer Gemeinde.<br/><br/><strong>VDP.GUTSWEIN </strong>– die Visitenkarte des Weinguts.</p>",
+            "text": "<p>Seit 1993 ist das Weingut Dr. Loosen Mitglied im VDP (Verband Deutscher Prädikatsweingüter). Mit der VDP.Klassifikation verpflichtet sich das Weingut zu strengsten Qualitätsstandards, die Herkunft und Terroir in den Mittelpunkt stellen.<br/><br/>Die vierstufige Qualitätspyramide des VDP ordnet die Weine nach ihrem Ursprung:</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -1869,6 +1869,7 @@
         "collection_CcamNB",
         "collection_rn9yji"
       ],
+      "disabled": true,
       "name": "t:sections.collage.name",
       "settings": {
         "heading": "",
