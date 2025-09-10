@@ -28,7 +28,7 @@
             "subheading_size": 100,
             "heading": "ERLESENE RIESLINGE AUS DEN STEILLAGEN DER MITTEL-MOSEL.",
             "highlight_type": "font_highlight",
-            "heading_size": 120,
+            "heading_size": 100,
             "heading_tag": "h1",
             "text": "",
             "button_label_1": "Lagen-Rieslinge entdecken",
@@ -77,7 +77,7 @@
             "subheading_size": 100,
             "heading": "DAS BESTE UNSERER MITTELMOSEL-TERROIRS",
             "highlight_type": "underline",
-            "heading_size": 120,
+            "heading_size": 100,
             "heading_tag": "h2",
             "text": "",
             "button_label_1": "Jetzt bestellen",
@@ -166,7 +166,7 @@
         "slide_C4yh4H"
       ],
       "custom_css": [
-        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 100px; }}"
+        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 200px; }}"
       ],
       "settings": {
         "show_hero": true,
@@ -182,7 +182,7 @@
         "padding_full_width": false,
         "adapt_corners_desktop": false,
         "rounded_corner_image": false,
-        "desktop_height": "750",
+        "desktop_height": "550",
         "padding_top": 0,
         "padding_bottom": 0,
         "full_width_mobile": true,
