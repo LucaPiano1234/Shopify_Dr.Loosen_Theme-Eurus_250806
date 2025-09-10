@@ -466,7 +466,7 @@
         "show_first_image_avaiable": true,
         "show_media_with_variant_selected": false,
         "option_to_classify_variant_media": "",
-        "full_width": true,
+        "full_width": false,
         "spacing_col": "small",
         "show_section_divider": false,
         "padding_top": 52,
