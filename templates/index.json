@@ -166,7 +166,8 @@
         "slide_C4yh4H"
       ],
       "custom_css": [
-        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 200px; }}"
+        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 200px; }}",
+        "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 1.25rem; }}"
       ],
       "settings": {
         "show_hero": true,
