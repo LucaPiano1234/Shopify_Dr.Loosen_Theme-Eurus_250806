@@ -364,10 +364,52 @@
         "text_bV38Xx": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Jeder Schiefer erzählt seine Geschichte\"</p><p>sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p><p><strong>79€ - Versandkostenfrei</strong></p>",
+            "text": "<p>\"Jeder Schiefer erzählt seine Geschichte\"</p><p>sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
+          }
+        },
+        "icon_text_c8yzn8": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p><strong>79€ - Versandkostenfrei</strong></p>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_RCUbB9": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right-circle",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p><strong>Vielschichtige Aromenvielfalt durch unterschiedliche Schieferarten.</strong></p>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_qALeUf": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "hot-sale",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p><strong>Ideal für Kenner & Entdecker</strong></p>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
           }
         },
         "description_cUnynw": {
@@ -440,6 +482,9 @@
         "price_n79xKd",
         "badges_WNTPR3",
         "text_bV38Xx",
+        "icon_text_c8yzn8",
+        "icon_text_RCUbB9",
+        "icon_text_qALeUf",
         "description_cUnynw",
         "variant_picker_iTAkNC",
         "quantity_selector_e6hgL4",
