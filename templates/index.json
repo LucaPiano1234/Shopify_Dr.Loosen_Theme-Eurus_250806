@@ -1259,7 +1259,9 @@
         "media_6CyrN6",
         "media_TcWnbW"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px;}"
+      ],
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "",
