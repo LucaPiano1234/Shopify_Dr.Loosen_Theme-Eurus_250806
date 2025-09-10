@@ -1439,8 +1439,8 @@
         "image_alignment": "left",
         "full_width": false,
         "padding_full_width": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
+        "top_padding": 40,
+        "bottom_padding": 44,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
         "top_padding_mobile": 48,
@@ -1501,7 +1501,7 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/GG_Reserve_Kategorie_Bild_Produktseite.jpg",
+        "image": "shopify://shop_images/Test_GG_Reserve_1.png",
         "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
@@ -1596,7 +1596,7 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/WG_Loosen_Test_Weisswein.png",
+        "image": "shopify://shop_images/Test_GG.png",
         "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
@@ -1691,7 +1691,7 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/WG_Loosen_Test_Weisswein.png",
+        "image": "shopify://shop_images/Test_GG_Ortswein_1.png",
         "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
