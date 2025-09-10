@@ -373,7 +373,7 @@
         "icon_text_c8yzn8": {
           "type": "icon_text",
           "settings": {
-            "icon": "truck",
+            "icon": "arrow-right",
             "another_icon": "",
             "custom_icon": "",
             "icon_size": 30,
@@ -387,7 +387,7 @@
         "icon_text_RCUbB9": {
           "type": "icon_text",
           "settings": {
-            "icon": "arrow-right-circle",
+            "icon": "arrow-right",
             "another_icon": "",
             "custom_icon": "",
             "icon_size": 30,
@@ -401,7 +401,7 @@
         "icon_text_qALeUf": {
           "type": "icon_text",
           "settings": {
-            "icon": "hot-sale",
+            "icon": "arrow-right",
             "another_icon": "",
             "custom_icon": "",
             "icon_size": 30,
