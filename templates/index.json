@@ -343,6 +343,143 @@
         "padding_bottom_mobile": 28
       }
     },
+    "featured_product_whRdrc": {
+      "type": "featured-product",
+      "blocks": {
+        "price_n79xKd": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_tax_and_shipping": false,
+            "text_size_price": 70
+          }
+        },
+        "badges_WNTPR3": {
+          "type": "badges",
+          "settings": {
+            "position_adapt": false
+          }
+        },
+        "text_bV38Xx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Jeder Schiefer erzählt seine Geschichte\"</p><p>sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p><p><strong>79€ - Versandkostenfrei</strong></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "description_cUnynw": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "show_in_tab": false,
+            "open_by_default": false,
+            "make_content_center": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Description",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "variant_picker_iTAkNC": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_variant_option": true,
+            "enable_color_swatches": false,
+            "swatch_size": "small"
+          }
+        },
+        "quantity_selector_e6hgL4": {
+          "type": "quantity_selector",
+          "settings": {
+            "style": "adapt"
+          }
+        },
+        "buy_buttons_y9keQt": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_button_style": "secondary",
+            "show_dynamic_checkout": true,
+            "show_add_to_cart": true,
+            "show_atc_quantity": false,
+            "show_price": false,
+            "hide_sale_price": true,
+            "pickup_availability": true,
+            "hide_when_pre_order": false,
+            "preorder_button_label": "Pre-order",
+            "box_type": "adapt",
+            "preorder_message": "<p>This product will be available for sale in 2 weeks, but you can pre-order now to receive 10% discount!</p>",
+            "preorder_show_dynamic_button": false,
+            "show_background": false,
+            "background_color_light": "rgba(0,0,0,0)",
+            "message_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "message_color_dark": "rgba(0,0,0,0)",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "price_n79xKd",
+        "badges_WNTPR3",
+        "text_bV38Xx",
+        "description_cUnynw",
+        "variant_picker_iTAkNC",
+        "quantity_selector_e6hgL4",
+        "buy_buttons_y9keQt"
+      ],
+      "name": "t:sections.featured-product.name",
+      "settings": {
+        "product": "test-edelsuss-kopie",
+        "show_product_name": true,
+        "title_size": 100,
+        "heading_tag": "h2",
+        "show_vendor": false,
+        "make_content_center": false,
+        "desktop_layout": "left",
+        "image_ratio": "square",
+        "show_arrow_button": true,
+        "show_thumbnails": false,
+        "thumbnail_position": "horizontal",
+        "transition_style": "fade",
+        "enable_image_zoom": true,
+        "zoom_effect": "enlarge",
+        "enable_video_autoplay": false,
+        "enable_video_loop": false,
+        "show_first_image_avaiable": true,
+        "show_media_with_variant_selected": false,
+        "option_to_classify_variant_media": "",
+        "full_width": true,
+        "spacing_col": "small",
+        "show_section_divider": false,
+        "padding_top": 52,
+        "padding_bottom": 32,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 56,
+        "padding_bottom_mobile": 56,
+        "background_color_light": "#f3f6ef",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)"
+      }
+    },
     "image_with_text_KJfggr": {
       "type": "image-with-text",
       "blocks": {
@@ -1609,6 +1746,7 @@
     "4c9e1af5-c4c0-48cf-b771-49029eedd24f",
     "multicolumn_rxMYDJ",
     "rich_text_KK6zbr",
+    "featured_product_whRdrc",
     "image_with_text_KJfggr",
     "product_highlight_PDTNQP",
     "image_with_text_BKHFTg",
