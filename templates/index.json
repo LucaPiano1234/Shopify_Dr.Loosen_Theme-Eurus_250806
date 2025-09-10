@@ -531,6 +531,7 @@
         "heading_QMp7tJ",
         "button_fp8bUR"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
