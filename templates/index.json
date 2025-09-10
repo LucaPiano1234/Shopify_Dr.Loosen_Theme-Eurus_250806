@@ -1271,7 +1271,7 @@
         "heading_alignment": "center",
         "content_position": "middle",
         "content_alignment": "left",
-        "select_motion": "click",
+        "select_motion": "hover",
         "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
