@@ -593,8 +593,8 @@
         "heading_extqht": {
           "type": "heading",
           "settings": {
-            "subheading": "Philosophie",
-            "heading": "Weinbau",
+            "subheading": "Weinbau",
+            "heading": "Rückbesinnung auf das Wesentliche",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
