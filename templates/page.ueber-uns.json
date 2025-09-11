@@ -474,7 +474,7 @@
         "heading_color_dark": "rgba(0,0,0,0)",
         "text_color_dark": "rgba(0,0,0,0)",
         "image_position": "second",
-        "full_width": true,
+        "full_width": false,
         "padding_full_width": false,
         "show_section_divider": false,
         "desktop_height": "natural",
