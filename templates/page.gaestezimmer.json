@@ -49,17 +49,17 @@
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "enable_bakground": false,
-            "subheading": "",
+            "subheading": "Gästezimmer",
             "subheading_size": 100,
             "heading": "Übernachtung im Rieslingparadies",
             "highlight_type": "underline",
             "heading_size": 130,
             "heading_tag": "h2",
             "text": "",
-            "button_label_1": "",
+            "button_label_1": "Jetzt buchen",
             "button_link_1": "",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
@@ -80,7 +80,7 @@
             "color_text_button_hover": "rgba(0,0,0,0)",
             "color_button_secondary": "rgba(0,0,0,0)",
             "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
+            "colors_text_link": "#ffffff",
             "color_heading_highlight_light": "rgba(0,0,0,0)",
             "color_product_card_background": "rgba(0,0,0,0)",
             "color_product_card_text": "rgba(0,0,0,0)"
@@ -89,6 +89,11 @@
       },
       "block_order": [
         "slide_PQEW7a"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 100px; }}",
+        "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 0.25rem; }}",
+        "@media screen and (min-width: 768px) {.sub-heading-template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2 {font-size: 1.1rem; padding-bottom: 10px; }}"
       ],
       "name": "t:sections.slideshow.name",
       "settings": {
@@ -105,7 +110,7 @@
         "padding_full_width": false,
         "adapt_corners_desktop": true,
         "rounded_corner_image": false,
-        "desktop_height": "650",
+        "desktop_height": "550",
         "padding_top": 0,
         "padding_bottom": 28,
         "full_width_mobile": true,
