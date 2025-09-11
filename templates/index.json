@@ -822,7 +822,7 @@
         "image_alignment_mobile": "left",
         "full_width_mobile": true,
         "top_padding_mobile": 48,
-        "bottom_padding_mobile": 0
+        "bottom_padding_mobile": 36
       }
     },
     "image_with_text_YqX66c": {
@@ -1406,9 +1406,9 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide.png",
+        "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide_b0467f86-2c7b-445a-a2f5-523afb60fa2d.png",
         "desktop_height": "450px",
-        "mobile_height": "300px",
+        "mobile_height": "250px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
@@ -1417,11 +1417,11 @@
         "video_url": "",
         "video_alt_text": "",
         "enable_video_autoplay": false,
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "spacing_image": false,
         "text_position": "center",
         "text_alignment": "start",
-        "background_color_light": "#f3f6ef",
+        "background_color_light": "#ffffff",
         "background_color_dark": "rgba(0,0,0,0)",
         "line_border": "dashed",
         "icon_position": "col",
