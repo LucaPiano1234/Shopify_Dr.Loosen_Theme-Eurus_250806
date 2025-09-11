@@ -144,7 +144,7 @@
             "button_label": "VDP Weine entdecken",
             "button_link": "shopify://collections/alle-weine",
             "open_new_window_button": false,
-            "show_button_style_1": "text-link",
+            "show_button_style_1": "primary",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
