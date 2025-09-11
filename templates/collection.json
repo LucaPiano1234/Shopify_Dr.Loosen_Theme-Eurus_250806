@@ -638,6 +638,121 @@
         "padding_bottom_mobile": 28
       }
     },
+    "collection_list_Wekbie": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FpUCFr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "weissweine"
+          }
+        },
+        "featured_collection_ymp8ek": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rose"
+          }
+        },
+        "featured_collection_zWyAGG": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "rotweine"
+          }
+        },
+        "featured_collection_x6L3L6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "edelsusse-raritaten"
+          }
+        },
+        "featured_collection_CjWxz7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sekte"
+          }
+        },
+        "featured_collection_9qAR3Y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "entalkoholisiert"
+          }
+        },
+        "featured_collection_PLndaq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "probierpakete"
+          }
+        },
+        "featured_collection_wCiVxK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spezialitaten"
+          }
+        },
+        "featured_collection_WKzYVW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bier"
+          }
+        },
+        "featured_collection_hXntYR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-weine"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FpUCFr",
+        "featured_collection_ymp8ek",
+        "featured_collection_zWyAGG",
+        "featured_collection_x6L3L6",
+        "featured_collection_CjWxz7",
+        "featured_collection_9qAR3Y",
+        "featured_collection_PLndaq",
+        "featured_collection_wCiVxK",
+        "featured_collection_WKzYVW",
+        "featured_collection_hXntYR"
+      ],
+      "name": "t:sections.collection-list.name",
+      "settings": {
+        "heading": "Unsere Kollektionen",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_view_all": false,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "collection_metafield": "",
+        "image_ratio": "square",
+        "title_size": 80,
+        "show_text_overlay": false,
+        "content_alignment": "center",
+        "content_position": "bottom",
+        "image_overlay_opacity": 30,
+        "title_color": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "title_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "show_item_count": true,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "enable_desktop_slider": false,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "spacing": 4,
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_top": 72,
+        "padding_bottom": 80,
+        "spacing_mobile": 4,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "multicolumn_M3Rbqp": {
       "type": "multicolumn",
       "blocks": {
@@ -1184,6 +1299,7 @@
     "media_gallery_tXFe4r",
     "rich_text_kWfTmF",
     "collection_list_qLaYxH",
+    "collection_list_Wekbie",
     "multicolumn_M3Rbqp",
     "image_with_text_yMdDNR",
     "image_with_text_FaVmha",
