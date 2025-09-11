@@ -1006,12 +1006,6 @@
     "collection_list_xhhDpg": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_hEaL8r": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "alle-weine"
-          }
-        },
         "featured_collection_7qc3Xa": {
           "type": "featured_collection",
           "settings": {
@@ -1066,10 +1060,15 @@
           "settings": {
             "collection": "bier"
           }
+        },
+        "featured_collection_hEaL8r": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-weine"
+          }
         }
       },
       "block_order": [
-        "featured_collection_hEaL8r",
         "featured_collection_7qc3Xa",
         "featured_collection_dWBGUU",
         "featured_collection_LLR7Ge",
@@ -1078,7 +1077,8 @@
         "featured_collection_L9KAry",
         "featured_collection_YeeV4j",
         "featured_collection_rw6RhG",
-        "featured_collection_HDXBdW"
+        "featured_collection_HDXBdW",
+        "featured_collection_hEaL8r"
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
