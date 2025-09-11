@@ -918,7 +918,7 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/WG_Loosen_EcoStep.png",
+        "image": "shopify://shop_images/WG_Loosen_EcoStep_2.png",
         "desktop_height": "450px",
         "mobile_height": "250px",
         "desktop_image_width": "medium",
