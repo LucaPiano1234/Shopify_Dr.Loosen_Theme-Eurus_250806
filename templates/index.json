@@ -34,7 +34,7 @@
             "button_label_1": "Lagen-Rieslinge entdecken",
             "button_link_1": "shopify://collections/all",
             "open_new_window_button": false,
-            "show_button_style_1": "secondary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "shopify://collections/alle-weine",
             "open_new_window_button_2": false,
