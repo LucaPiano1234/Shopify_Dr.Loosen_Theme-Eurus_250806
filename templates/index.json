@@ -250,6 +250,9 @@
         "column_ipkiCp",
         "column_ipMknc"
       ],
+      "custom_css": [
+        "@media (max-width: 700px) {.flex {display: flex; flex-direction: column; }}"
+      ],
       "settings": {
         "title": "",
         "highlight_type": "underline",
