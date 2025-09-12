@@ -767,7 +767,7 @@
         "content_position": "middle",
         "content_alignment": "left",
         "select_motion": "hover",
-        "open_first_tab": false,
+        "open_first_tab": true,
         "adapt_radius": true,
         "image_corner_radius": 0,
         "auto_play": false,
