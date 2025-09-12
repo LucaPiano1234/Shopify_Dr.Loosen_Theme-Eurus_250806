@@ -152,6 +152,9 @@
         "media_9bgExe",
         "media_ARza8M"
       ],
+      "custom_css": [
+        ".md\\:pt-\\[28px\\] {display: none;}"
+      ],
       "name": "t:sections.media-gallery.name",
       "settings": {
         "heading": "",
