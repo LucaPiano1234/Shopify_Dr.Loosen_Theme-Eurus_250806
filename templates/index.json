@@ -253,7 +253,109 @@
         "column_ipMknc"
       ],
       "custom_css": [
-        "@media (max-width: 700px) {.flex {display: flex; flex-direction: column; }}"
+        "@media (max-width: 700px) {.flex {display: none; flex-direction: column; }}"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 58,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 40,
+        "full_width": false,
+        "padding_full_width": true,
+        "show_section_divider": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-7",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "multicolumn_xH3T9a": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9CaYGp": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1_da770f24-e093-4ea3-83fa-87ab6464054e.svg",
+            "custom_icon": "",
+            "title": "VDP Weingut",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Seit 1993</p>"
+          }
+        },
+        "column_7RzgUc": {
+          "type": "column",
+          "settings": {
+            "icon": "sun",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_077357ea-b53f-45a6-aa03-27dc5e9156f5.svg",
+            "custom_icon": "",
+            "title": "Ursprünglicher Ausbau",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
+          }
+        },
+        "column_qTWjjx": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2_5e4072b1-373a-40ac-802d-184935e494a1.svg",
+            "custom_icon": "",
+            "title": "Weltbekannte Schiefersteillagen",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>in der Mittelmosel</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_9CaYGp",
+        "column_7RzgUc",
+        "column_qTWjjx"
+      ],
+      "custom_css": [
+        "@media (max-width: 700px) {.flex {display: flex; flex-direction: column; }}",
+        "@media (min-width: 700px) {.flex {display: none; flex-direction: column; }}"
       ],
       "settings": {
         "title": "",
@@ -536,305 +638,6 @@
         "text_dark": "rgba(0,0,0,0)"
       }
     },
-    "image_with_text_KJfggr": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_QMp7tJ": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Das Schiefer-Paket",
-            "heading": "Terroir pur erleben",
-            "highlight_type": "underline",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p>\"Jeder Schiefer erzählt seine Geschichte\"</p><p>sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p><p><strong>79€ - Versandkostenfrei</strong></p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "#313e4d",
-            "text_light": "#313e4d",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "button_fp8bUR": {
-          "type": "button",
-          "settings": {
-            "button_label": "Jetzt entdecken",
-            "button_link": "shopify://products/test-edelsuss-kopie",
-            "open_new_window": false,
-            "show_button_style": "text-link",
-            "button_light": "#ffffff",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "#313e4d",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "heading_QMp7tJ",
-        "button_fp8bUR"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.name",
-      "settings": {
-        "show_hero": false,
-        "image": "shopify://shop_images/2023-09_HoR_DrLoosen-08724_1.jpg",
-        "desktop_height": "650px",
-        "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "normal",
-        "adapt_radius": true,
-        "image_corner_radius": 0,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "overlap",
-        "spacing_image": false,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "#f3f6ef",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "#313e4d",
-        "text_color_light": "#313e4d",
-        "line_border_light": "#313e4d",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "#313e4d",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 32,
-        "bottom_padding": 44,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
-      }
-    },
-    "product_highlight_PDTNQP": {
-      "type": "product-highlight",
-      "blocks": {
-        "columns_3Rqjib": {
-          "type": "columns",
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Das Schiefer-Paket",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Terroir pur erleben</p>"
-          }
-        },
-        "columns_FDUrHV": {
-          "type": "columns",
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "\"Jeder Schiefer erzählt seine Geschichte\"",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p> sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p>"
-          }
-        },
-        "columns_LE7Rxd": {
-          "type": "columns",
-          "settings": {
-            "icon": "another_icon",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "79€ - Versandkostenfrei",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "columns_3Rqjib",
-        "columns_FDUrHV",
-        "columns_LE7Rxd"
-      ],
-      "disabled": true,
-      "name": "t:sections.product-highlight.name",
-      "settings": {
-        "heading": "",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "subheading": "",
-        "text": "",
-        "background_color_light": "#ffffff",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "show_sound_control": false,
-        "block_layout": "aspect-[3/4]",
-        "video_url": "",
-        "enable_video_autoplay": true,
-        "video_alt_text": "",
-        "product": "test-edelsuss-kopie",
-        "show_vendor": false,
-        "show_rating": false,
-        "show_highlighted_features": true,
-        "show_highlighted_attributes": true,
-        "show_quickview": true,
-        "product_background": "#ffffff",
-        "product_background_dark": "rgba(0,0,0,0)",
-        "line_border": "line",
-        "icon_position": "col",
-        "icon_size": 45,
-        "content_alignment": "center",
-        "content_position": "center",
-        "spacing": 28,
-        "icon_highlight_background": "rgba(0,0,0,0)",
-        "block_heading_color_light": "#313e4d",
-        "block_text_color_light": "#53585e",
-        "line_border_light": "#313e4d",
-        "icon_color_light": "#53585e",
-        "icon_highlight_background_dark": "rgba(0,0,0,0)",
-        "block_heading_color_dark": "rgba(0,0,0,0)",
-        "block_text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "show_section_divider": false,
-        "full_width": false,
-        "padding_full_width": false,
-        "adapt_corners_desktop": true,
-        "rounded_corner_section": false,
-        "desktop_height": "natural",
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "show_section_divider_mobile": false,
-        "full_width_mobile": false,
-        "adapt_corners_mobile": true,
-        "rounded_corner_section_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28
-      }
-    },
-    "image_with_text_BKHFTg": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_W8wteY": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Weingut Dr. Loosen",
-            "heading": "Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von   Ernst F. Loosen geführt.",
-            "highlight_type": "underline",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p><strong>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte. </strong>Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen <a href=\"https://drloosen.com/ueber-uns/UNSERE%20LAGEN\">Grossen Lagen der Mittel-Mosel</a>– hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen.</p><p><strong>Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur.</strong> Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "#313e4d",
-            "text_light": "#53585e",
-            "color_heading_highlight_light": "#53585e",
-            "heading_dark": "#000000",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "button_g7VpKH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Mehr über uns",
-            "button_link": "shopify://pages/uber-uns",
-            "open_new_window": false,
-            "show_button_style": "text-link",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "heading_W8wteY",
-        "button_g7VpKH"
-      ],
-      "name": "t:sections.image-with-text.name",
-      "settings": {
-        "show_hero": true,
-        "image": "shopify://shop_images/2021-09_HoR_Loosen-04058.webp",
-        "image_second": "shopify://shop_images/2023-09_HoR_DrLoosen-08536_1.jpg",
-        "desktop_height": "550px",
-        "mobile_height": "400px",
-        "desktop_image_width": "medium",
-        "image_layout": "stacked",
-        "adapt_radius": true,
-        "image_corner_radius": 0,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "no-overlap",
-        "spacing_image": true,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "#ffffff",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "none",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "right",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 100,
-        "bottom_padding": 80,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": true,
-        "top_padding_mobile": 48,
-        "bottom_padding_mobile": 36
-      }
-    },
     "image_with_text_YqX66c": {
       "type": "image-with-text",
       "blocks": {
@@ -1026,8 +829,8 @@
         "bottom_padding": 68,
         "image_alignment_mobile": "left",
         "full_width_mobile": true,
-        "top_padding_mobile": 28,
-        "bottom_padding_mobile": 24
+        "top_padding_mobile": 48,
+        "bottom_padding_mobile": 48
       }
     },
     "promotion_banner_ijXatP": {
@@ -2774,11 +2577,9 @@
   "order": [
     "4c9e1af5-c4c0-48cf-b771-49029eedd24f",
     "multicolumn_rxMYDJ",
+    "multicolumn_xH3T9a",
     "rich_text_KK6zbr",
     "featured_product_whRdrc",
-    "image_with_text_KJfggr",
-    "product_highlight_PDTNQP",
-    "image_with_text_BKHFTg",
     "image_with_text_YqX66c",
     "image_with_text_xqcgeY",
     "promotion_banner_ijXatP",
