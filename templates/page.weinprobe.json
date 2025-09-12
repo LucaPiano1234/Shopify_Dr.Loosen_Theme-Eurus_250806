@@ -217,6 +217,9 @@
       "block_order": [
         "heading_RGeVte"
       ],
+      "custom_css": [
+        "{text-wrap-style: pretty;}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
@@ -258,8 +261,8 @@
         "bottom_padding": 48,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 28,
+        "bottom_padding_mobile": 24
       }
     },
     "image_with_text_yHGk6D": {
@@ -269,7 +272,7 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Wir freuen uns auf ihren Besuch",
+            "heading": "Wir freuen uns auf Ihren Besuch",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
@@ -288,6 +291,9 @@
       },
       "block_order": [
         "heading_extqht"
+      ],
+      "custom_css": [
+        "{text-wrap-style: pretty;}"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
@@ -330,8 +336,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 32,
+        "bottom_padding_mobile": 12
       }
     },
     "175577628406739bd7": {

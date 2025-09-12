@@ -60,6 +60,9 @@
         "heading_mrBn6N",
         "text_C3h6Lz"
       ],
+      "custom_css": [
+        ".heading-heading_RGeVte {text-wrap-style: pretty;}"
+      ],
       "name": "t:sections.rich-text.name",
       "settings": {
         "heading_light": "rgba(0,0,0,0)",

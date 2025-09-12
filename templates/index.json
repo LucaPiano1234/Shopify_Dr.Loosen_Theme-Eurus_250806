@@ -786,6 +786,7 @@
         "heading_gLgerH",
         "button_fAWVM8"
       ],
+      "custom_css": [],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": true,
@@ -876,6 +877,9 @@
       "block_order": [
         "image_banner_HYLK68",
         "buttons_EyUERK"
+      ],
+      "custom_css": [
+        ".heading-image_banner_HYLK68 {text-wrap-style: pretty;}"
       ],
       "name": "t:sections.promotion-banner.name",
       "settings": {
