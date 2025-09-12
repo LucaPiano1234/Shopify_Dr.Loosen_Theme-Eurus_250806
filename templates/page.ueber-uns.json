@@ -245,7 +245,7 @@
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/2023-09_HoR_DrLoosen-07774_1.jpg",
-        "desktop_height": "550px",
+        "desktop_height": "natural",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "stacked",
