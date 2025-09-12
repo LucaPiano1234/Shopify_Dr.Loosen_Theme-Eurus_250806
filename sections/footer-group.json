@@ -266,8 +266,8 @@
             "form_alignment": "center",
             "padding_top": 18,
             "padding_bottom": 24,
-            "padding_right": 0,
-            "padding_left": 0
+            "padding_right": 10,
+            "padding_left": 10
           }
         }
       },
