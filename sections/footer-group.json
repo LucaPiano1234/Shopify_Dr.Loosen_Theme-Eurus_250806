@@ -301,7 +301,7 @@
           "type": "link_list",
           "settings": {
             "open_by_default": false,
-            "heading_menu": "Menu",
+            "heading_menu": "MENU",
             "menu": "footer-men-shop",
             "show_social_icons": false
           }
