@@ -453,8 +453,12 @@
         "email_form_9nnNXU",
         "sections--18371362324774__2eca4af3-5277-406b-a4de-c52946c34b5f-1680002178ae4a2c07-2"
       ],
+      "custom_css": [
+        ".popup-minimal-left {}"
+      ],
       "settings": {
         "popup_position": "bottom-right",
+        "image": "shopify://shop_images/2021-09_HoR_Loosen-04262_1.jpg",
         "content_position": "right",
         "content_alignment": "center",
         "background_color_light": "#313e4d",
