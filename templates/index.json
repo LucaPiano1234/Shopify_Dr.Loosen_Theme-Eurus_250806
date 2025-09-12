@@ -664,8 +664,8 @@
         "button_qypJtU": {
           "type": "button",
           "settings": {
-            "button_label": "Mehr über uns",
-            "button_link": "shopify://pages/uber-uns",
+            "button_label": "Unsere VDP Weine",
+            "button_link": "shopify://collections/alle-weine",
             "open_new_window": false,
             "show_button_style": "primary",
             "button_light": "rgba(0,0,0,0)",
