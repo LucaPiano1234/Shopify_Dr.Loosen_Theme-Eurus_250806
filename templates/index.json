@@ -786,7 +786,9 @@
         "heading_gLgerH",
         "button_fAWVM8"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".h2 {}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": true,
