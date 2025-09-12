@@ -1411,6 +1411,7 @@
         "heading_jptF6n",
         "button_j9LrTR"
       ],
+      "disabled": true,
       "custom_css": [
         ".button-text-link {padding-left: 0px;}"
       ],
@@ -1610,6 +1611,7 @@
         "heading_QT8pCD",
         "button_jbDcfT"
       ],
+      "disabled": true,
       "custom_css": [
         ".button-text-link {padding-left: 0px;}"
       ],
@@ -1809,6 +1811,7 @@
         "heading_MeK8HV",
         "button_JRgT8j"
       ],
+      "disabled": true,
       "custom_css": [
         ".flex {margin-bottom: 40px;}",
         ".button-text-link {padding-left: 0px;}"
@@ -2009,6 +2012,7 @@
         "heading_UTX6HE",
         "button_x6Vxjh"
       ],
+      "disabled": true,
       "custom_css": [
         ".button-text-link {padding-left: 0px;}"
       ],
