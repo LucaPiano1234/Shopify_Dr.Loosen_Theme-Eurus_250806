@@ -293,7 +293,7 @@
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01375_1.jpg",
-        "desktop_height": "750px",
+        "desktop_height": "550px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
