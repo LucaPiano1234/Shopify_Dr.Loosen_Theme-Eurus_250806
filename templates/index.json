@@ -787,7 +787,7 @@
         "button_fAWVM8"
       ],
       "custom_css": [
-        ".h2 {}"
+        ".h2 {text-wrap-style: balance;}"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
