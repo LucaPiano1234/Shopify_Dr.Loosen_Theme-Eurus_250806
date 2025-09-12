@@ -746,9 +746,9 @@
             "highlight_type": "font_highlight",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität. Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.<br/><br/>Ernst Loosen</p>",
+            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. </p><p>Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren. </p>",
             "number_of_lines_shown": "none",
-            "read_more_label": "Mehr lesen",
+            "read_more_label": "",
             "see_less_label": "Weniger lesen",
             "heading_light": "#313e4d",
             "text_light": "#53585e",
@@ -761,8 +761,8 @@
         "button_fAWVM8": {
           "type": "button",
           "settings": {
-            "button_label": "Alle Weine",
-            "button_link": "shopify://collections/alle-weine",
+            "button_label": "Mehr lesen",
+            "button_link": "shopify://pages/uber-uns",
             "open_new_window": false,
             "show_button_style": "primary",
             "button_light": "rgba(0,0,0,0)",
