@@ -296,7 +296,7 @@
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "padding_top_mobile": 32,
-        "padding_bottom_mobile": 28
+        "padding_bottom_mobile": 0
       }
     },
     "multicolumn_xH3T9a": {
