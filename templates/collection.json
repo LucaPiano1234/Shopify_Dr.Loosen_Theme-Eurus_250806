@@ -600,6 +600,7 @@
         "featured_collection_TiqecJ",
         "featured_collection_f9Pz7R"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.name",
       "settings": {
         "heading": "Unsere Kollektionen",
