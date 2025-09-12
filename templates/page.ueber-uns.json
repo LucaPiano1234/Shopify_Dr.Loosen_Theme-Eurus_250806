@@ -453,7 +453,7 @@
         "media_qTY3Wm"
       ],
       "custom_css": [
-        "@media (min-width: 1024px) {.md\\:flex {border-radius: 10px; padding-right: 30px; }}",
+        "@media (min-width: 1024px) {.md\\:flex {border-radius: 10px; padding-right: 50px; }}",
         "@media (max-width: 600px) {{display: none; }}"
       ],
       "name": "t:sections.flow.name",
