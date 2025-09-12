@@ -95,6 +95,7 @@
     "page_transition": false,
     "advanced_sections_spacing": 0,
     "page_width": 1400,
+    "position_minimal": "right",
     "scrollbar_width": "5px",
     "title_size_card": 100,
     "price_size_card": 100,
