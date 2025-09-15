@@ -637,7 +637,7 @@
       "settings": {
         "show_hero": false,
         "image": "{{ product.metafields.custom.kategorie_bild.value }}",
-        "desktop_height": "natural",
+        "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "large",
         "image_layout": "stacked",
