@@ -128,7 +128,7 @@
         "heading_HwMneC": {
           "type": "heading",
           "settings": {
-            "heading": "BESUCHEN SIE UNS IM WEINGUT UND ERLEBEN WEIN HAUTNAH",
+            "heading": "Besuchen Sie uns im Weingut und erleben Wein hautnah",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -149,7 +149,7 @@
             "button_label": "Zur Verkostungsanfrage",
             "button_link": "https://weingut-dr-loosen.myshopify.com/pages/weinproben#shopify-block-AQ1crMW9pT1NIaTBQV__forms_inline_CGtDDp",
             "open_new_window_button": false,
-            "show_button_style_1": "text-link",
+            "show_button_style_1": "primary",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
