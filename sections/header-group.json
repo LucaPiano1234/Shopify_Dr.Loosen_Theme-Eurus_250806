@@ -470,7 +470,7 @@
         "simple_menu_NkLiU8": {
           "type": "simple_menu",
           "settings": {
-            "heading": "WEINERLEBNISSE",
+            "heading": "WEINPROBE",
             "menu": "",
             "menu_item_link": "shopify://pages/weinproben",
             "open_new_window": false,
