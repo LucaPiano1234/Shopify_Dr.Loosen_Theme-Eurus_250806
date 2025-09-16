@@ -978,6 +978,9 @@
         "image_banner_L3wxEU",
         "buttons_K3KjQY"
       ],
+      "custom_css": [
+        ".heading-image_banner_L3wxEU {text-wrap-style: balance;}"
+      ],
       "name": "t:sections.promotion-banner.name",
       "settings": {
         "heading": "Promotion Banner",
