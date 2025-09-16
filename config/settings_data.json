@@ -102,7 +102,7 @@
     "card_product_background_color_light": "rgba(0,0,0,0)",
     "card_product_background_color_dark": "rgba(0,0,0,0)",
     "card_product_padding_mobile": 8,
-    "product_image_ratio": "portrait",
+    "product_image_ratio": "square",
     "product_image_type": "hover_to_reveal_second_image",
     "info_alignment_card_product": "center",
     "low_stock_threshold": 4,
