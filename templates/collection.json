@@ -206,14 +206,14 @@
         "image_banner_JMnR76": {
           "type": "image_banner",
           "settings": {
-            "heading": "Banner Kennenlernpaekt",
+            "heading": "Terroir pur erleben!",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Hurry up! Get the best deal at best price</p>",
-            "text_size": 100,
+            "text": "<p>Genießen Sie jetzt unser Schiefer-Paket</p>",
+            "text_size": 130,
             "coupon_code": "",
-            "coupon_color": "rgba(0,0,0,0)",
+            "coupon_color": "#ffffff",
             "coupon_color_dark": "rgba(0,0,0,0)"
           }
         },
@@ -221,7 +221,7 @@
           "type": "buttons",
           "settings": {
             "button_label": "Jetzt endecken",
-            "button_link": "",
+            "button_link": "shopify://products/test-edelsuss-kopie",
             "open_new_window_button": false,
             "show_button_style": "primary",
             "color_button": "rgba(0,0,0,0)",
@@ -240,7 +240,8 @@
       ],
       "name": "t:sections.flash-sale.name",
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/DrLoosen_Red_Slate_Soil_17x12cm_300dpi_DrLoosen_1.jpg",
+        "image_overlay_opacity": 30,
         "show_hero": false,
         "border_section": "dotted",
         "content_layout": "horizontal",
@@ -258,12 +259,12 @@
         "adapt_corners_mobile": true,
         "rounded_corner_image_mobile": true,
         "spacing_row_mobile": 20,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 20,
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28,
         "background_color_light": "#313e4d",
         "heading_light": "#ffffff",
         "color_heading_highlight_light": "#e1e3e1",
-        "text_light": "#e1e3e1",
+        "text_light": "#ffffff",
         "line_border_light": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
         "heading_dark": "rgba(0,0,0,0)",
