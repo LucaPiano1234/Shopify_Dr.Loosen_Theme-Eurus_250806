@@ -26,7 +26,7 @@
             "enable_bakground": false,
             "subheading": "Weingut Dr .Loosen",
             "subheading_size": 100,
-            "heading": "Erlesene Rieslinge aus den Steillagen der Mittel-Mosel",
+            "heading": "Erlesene Rieslinge aus den Steillagen der Mosel",
             "highlight_type": "font_highlight",
             "heading_size": 120,
             "heading_tag": "h1",
@@ -174,7 +174,7 @@
       ],
       "settings": {
         "show_hero": true,
-        "auto_play": true,
+        "auto_play": false,
         "change_slides_speed": 10,
         "pause_hover": true,
         "slider_visual": "image",
