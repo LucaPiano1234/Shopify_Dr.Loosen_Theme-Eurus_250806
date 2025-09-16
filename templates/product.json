@@ -464,7 +464,7 @@
         "column_eMRFW7"
       ],
       "custom_css": [
-        "@media (max-width: 700px) {.flex {display: flex; flex-direction: column; }}"
+        "@media only screen and (max-width: 700px) {.x-section {display: none; }}"
       ],
       "settings": {
         "title": "",
@@ -503,6 +503,108 @@
         "padding_bottom": 40,
         "column_layout_mobile": "w-full",
         "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "multicolumn_PQ6AFD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cmDKKJ": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1_da770f24-e093-4ea3-83fa-87ab6464054e.svg",
+            "custom_icon": "",
+            "title": "VDP Weingut",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Seit 1993</p>"
+          }
+        },
+        "column_JtT6Rr": {
+          "type": "column",
+          "settings": {
+            "icon": "sun",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_077357ea-b53f-45a6-aa03-27dc5e9156f5.svg",
+            "custom_icon": "",
+            "title": "Ursprünglicher Ausbau",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
+          }
+        },
+        "column_nefcjE": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2_5e4072b1-373a-40ac-802d-184935e494a1.svg",
+            "custom_icon": "",
+            "title": "Weltbekannte Schiefersteillagen",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>in der Mittelmosel</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_cmDKKJ",
+        "column_JtT6Rr",
+        "column_nefcjE"
+      ],
+      "custom_css": [
+        "@media (max-width: 700px) {.flex {display: flex; flex-direction: column; }}",
+        "@media (min-width: 700px) {.x-section {display: none; flex-direction: column; }}"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 58,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 40,
+        "full_width": false,
+        "padding_full_width": true,
+        "show_section_divider": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-7",
         "spacing_mobile": 16,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
@@ -1179,6 +1281,7 @@
   "order": [
     "main",
     "multicolumn_YgrRte",
+    "multicolumn_PQ6AFD",
     "image_with_text_RBtGLj",
     "image_with_text_b7nRzF",
     "product-recommendations",
