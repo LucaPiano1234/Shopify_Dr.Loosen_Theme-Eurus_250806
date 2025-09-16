@@ -941,7 +941,7 @@
         "highlight_style": "bling_bling",
         "highlight_color_light": "#a94600",
         "highlight_color_dark": "rgba(0,0,0,0)",
-        "header_show_language_selector": true,
+        "header_show_language_selector": false,
         "header_show_currency_selector": false,
         "show_section_divider": false,
         "padding_top": 24,
