@@ -1325,7 +1325,7 @@
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/Test_GG_Reserve_1.png",
-        "desktop_height": "natural",
+        "desktop_height": "650px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
