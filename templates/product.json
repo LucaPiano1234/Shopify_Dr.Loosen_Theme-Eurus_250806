@@ -941,7 +941,7 @@
           "settings": {
             "heading": "Unsere Lagen - Das Herz großer Rieslinge",
             "highlight_type": "underline",
-            "heading_size": 140,
+            "heading_size": 100,
             "heading_tag": "h2",
             "subheading": "",
             "subheading_size": 100,
@@ -997,7 +997,7 @@
         "rounded_corner_image": false,
         "desktop_height": "450px",
         "padding_top": 0,
-        "padding_bottom": 56,
+        "padding_bottom": 24,
         "full_width_mobile": true,
         "adapt_corners_mobile": false,
         "rounded_corner_image_mobile": false,
