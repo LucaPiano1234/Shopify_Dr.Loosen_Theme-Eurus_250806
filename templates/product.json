@@ -537,6 +537,7 @@
       "block_order": [
         "heading_8nMPQf"
       ],
+      "disabled": true,
       "settings": {
         "show_hero": false,
         "image": "{{ product.metafields.custom.bodenart_bild.value }}",
