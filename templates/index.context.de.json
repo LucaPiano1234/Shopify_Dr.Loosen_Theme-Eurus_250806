@@ -12,5 +12,12 @@
   "context": {
     "market": "de"
   },
-  "sections": {}
+  "sections": {
+    "4c9e1af5-c4c0-48cf-b771-49029eedd24f": {
+      "settings": {
+        "desktop_height": "550"
+      },
+      "blocks": {}
+    }
+  }
 }
