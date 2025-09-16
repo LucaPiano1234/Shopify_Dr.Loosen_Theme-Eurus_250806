@@ -915,7 +915,7 @@
         "auto_play": true,
         "change_slides_speed": 5,
         "image_ratio": "round",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#f3f6ef",
         "item_background_color_light": "rgba(0,0,0,0)",
         "item_border_color_light": "rgba(0,0,0,0)",
         "heading_and_title_light": "rgba(0,0,0,0)",
