@@ -1026,7 +1026,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@media (min-width: 1024px) {.logo-name {display: flex; justify-content: center; width: 100%; } .logo-name img {height: auto; max-width: 100%; }}"
+      "@media (min-width: 1024px) {.logo-name {display: flex; justify-content: center; width: 100%; } .logo-name img {height: auto; max-width: 100%; }}",
+      ".glc-switcher-btn--embedded {display: none;}"
     ]
   }
 }
