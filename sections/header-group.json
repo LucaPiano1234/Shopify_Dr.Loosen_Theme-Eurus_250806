@@ -917,7 +917,7 @@
         "menu": "main-menu",
         "enable_hamburger_menu": false,
         "search_on_header": false,
-        "select_motion": "hover",
+        "select_motion": "click",
         "full_width": true,
         "logo_position": "above-center",
         "mobile_header_layout": "center-left",
