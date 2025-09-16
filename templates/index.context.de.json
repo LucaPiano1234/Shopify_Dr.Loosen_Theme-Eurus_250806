@@ -22,7 +22,8 @@
         "@media screen and (min-width: 768px) {.sub-heading-slide_C4yh4H {font-size: 1.1rem; margin-bottom: 20px; }}"
       ],
       "settings": {
-        "desktop_height": "550"
+        "desktop_height": "550",
+        "auto_play": false
       },
       "blocks": {
         "template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2": {
