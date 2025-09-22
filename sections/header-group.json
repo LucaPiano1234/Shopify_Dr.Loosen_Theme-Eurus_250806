@@ -910,6 +910,7 @@
         "simple_menu_ETJrWd"
       ],
       "custom_css": [
+        ".text-\\[rgba\\(var\\(--colors-text\\)\\)\\] {color: #50565e;}",
         ".font_menu-normal {font-family: \"Serif\" !important;}"
       ],
       "settings": {
