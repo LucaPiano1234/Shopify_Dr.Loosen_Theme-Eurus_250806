@@ -689,6 +689,9 @@
         "heading_fjnEU9",
         "button_qypJtU"
       ],
+      "custom_css": [
+        ".h2 {text-wrap-style: balance;}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": true,
