@@ -1676,7 +1676,7 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Ortsweine",
+            "heading": "VDP.Ortsweine",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
@@ -1877,7 +1877,7 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Gutsweine",
+            "heading": "VDP.Gutsweine",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
