@@ -401,56 +401,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "rich_text_KK6zbr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_U9QwPN": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "ERLESENE RIESLINGE AUS DEN STEILLAGEN DER MITTEL-MOSEL.",
-            "highlight_type": "underline",
-            "heading_size": 100,
-            "heading_tag": "h2"
-          }
-        },
-        "text_YWzLPW": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Schon über 200 Jahre im Familienbesitz, wird das Weingut seit 1988 von Ernst F. Loosen geführt. </p><p><strong>Große Weine, so seine Vorstellung, sind der perfekte Ausdruck des Bodens, des Klimas und der Rebsorte.</strong> Mit dem Erbe seiner Vorfahren – wurzelechte, alte Reben in historischen Grossen Lagen der Mittel-Mosel – hat er genau das Material vorgefunden, das er braucht, um eigenständige, komplexe Weine von Welt-Niveau herzustellen. </p><p><strong>Heute gilt Dr. Loosen international als das Aushängeschild für eine wiederentdeckte deutsche Riesling-Kultur.</strong></p><p>Seit 1993 ist das Weingut Mitglied im<a href=\"https://www.vdp.de/\" title=\"Zur Seite vdp.de\"> VDP (Verband Deutscher Prädikatsweingüter)</a>.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less"
-          }
-        }
-      },
-      "block_order": [
-        "heading_U9QwPN",
-        "text_YWzLPW"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.name",
-      "settings": {
-        "heading_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_dark": "rgba(0,0,0,0)",
-        "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "content_alignment": "center",
-        "show_section_divider": false,
-        "make_full_page_width": true,
-        "padding_top": 64,
-        "padding_bottom": 28,
-        "content_alignment_mobile": "center",
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28
-      }
-    },
     "featured_product_whRdrc": {
       "type": "featured-product",
       "blocks": {
@@ -838,6 +788,53 @@
         "bottom_padding_mobile": 48
       }
     },
+    "rich_text_KK6zbr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U9QwPN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Lagen - Das Herz großer Rieslinge",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_YWzLPW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Blauschiefer, Rotschiefer, Vulkangestein - unsere Lagen sind das Fundament für Rieslinge von Weltklasse. Jede Lage prägt den Charakter unserer Weine einzigartig.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9QwPN",
+        "text_YWzLPW"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 64,
+        "padding_bottom": 28,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "promotion_banner_ijXatP": {
       "type": "promotion-banner",
       "blocks": {
@@ -883,6 +880,7 @@
         "image_banner_HYLK68",
         "buttons_EyUERK"
       ],
+      "disabled": true,
       "custom_css": [
         ".heading-image_banner_HYLK68 {text-wrap-style: balance;}",
         "@media (max-width: 600px) {{display: none; }}"
@@ -2719,10 +2717,10 @@
     "4c9e1af5-c4c0-48cf-b771-49029eedd24f",
     "multicolumn_rxMYDJ",
     "multicolumn_xH3T9a",
-    "rich_text_KK6zbr",
     "featured_product_whRdrc",
     "image_with_text_YqX66c",
     "image_with_text_xqcgeY",
+    "rich_text_KK6zbr",
     "promotion_banner_ijXatP",
     "collage_gjpDFq",
     "rich_text_TnQ7ki",
