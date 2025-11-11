@@ -181,7 +181,7 @@
         "background_color_dark": "rgba(0,0,0,0)",
         "content_alignment": "center",
         "show_section_divider": false,
-        "make_full_page_width": true,
+        "make_full_page_width": false,
         "padding_top": 56,
         "padding_bottom": 56,
         "content_alignment_mobile": "center",
