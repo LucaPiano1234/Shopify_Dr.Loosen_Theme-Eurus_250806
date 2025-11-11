@@ -410,7 +410,7 @@
         "show_section_divider": false,
         "make_full_page_width": true,
         "padding_top": 72,
-        "padding_bottom": 76,
+        "padding_bottom": 100,
         "content_alignment_mobile": "center",
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
