@@ -411,29 +411,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "rich_text_eqkLLC": {
-      "type": "rich-text",
-      "name": "t:sections.rich-text.name",
-      "settings": {
-        "heading_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "background_color_light": "rgba(0,0,0,0)",
-        "heading_dark": "rgba(0,0,0,0)",
-        "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "content_alignment": "center",
-        "show_section_divider": false,
-        "make_full_page_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "content_alignment_mobile": "center",
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28
-      }
-    },
     "rich_text_rDwM77": {
       "type": "rich-text",
       "blocks": {
@@ -450,6 +427,7 @@
       "block_order": [
         "text_7Vaj8J"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.name",
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
@@ -901,6 +879,7 @@
         },
         "media_mPPVxX": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01580_1.jpg",
             "show_sound_control": false,
@@ -920,6 +899,7 @@
         },
         "media_yCiN4K": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00440_1.jpg",
             "show_sound_control": false,
@@ -949,6 +929,216 @@
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "QUALITÄTSFAKTOREN",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "content_position": "middle",
+        "content_alignment": "left",
+        "select_motion": "hover",
+        "open_first_tab": true,
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "auto_play": false,
+        "change_steps_speed": 5,
+        "pause_hover": true,
+        "background_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "image_position": "second",
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "desktop_height": "650px",
+        "padding_top": 100,
+        "padding_bottom": 28,
+        "image_position_mobile": "second",
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 68,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "flow_KWdfbh": {
+      "type": "flow",
+      "blocks": {
+        "media_zQLkK6": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DrLoosen_Praelat_Treppchen_30x20cm_300dpi_DrLoosen_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Mikroklima",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Die nach Süden ausgerichteten Steillagen und ihre Nähe zur Mosel erzeugen ein perfektes Mikroklima für unseren Riesling. Der Südhang garantiert Sonnenlicht von morgens bis abends; der Steilhang lässt den Boden durch wenig Schattenwurf ideal erwärmen.</p><p>Zusätzlich reflektiert die Mosel tagsüber die Sonnenstrahlen in den Weinberg, während sie nachts die gespeicherte Wärme abgibt und so für ein ausgeglichenes Mikroklima sorgt. Eine lange Vegetationsperiode erlaubt es den Trauben, langsam zu reifen und dabei ihre erfrischende Säure zu bewahren.</p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_pCg6Jk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01580_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Schieferboden",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Der steinige Schieferboden, der an der Oberfläche des Weinbergs zu sehen ist, reflektiert während des Tages das Sonnenlicht zu den Trauben und speichert gleichzeitig einen Großteil der Wärme. Diese wird langsam an die unteren Bodenschichten abgegeben, wodurch auch in den kühleren Nächten ein sehr ausgeglichener Wärmehaushalt für die Rebstöcke erzeugt wird.</p><p>Der Schiefer ist sehr kaliumhaltig und somit eine reichhaltige, natürliche Mineralienquelle. Er verleiht dem Moselriesling seinen unverwechselbaren mineralischen und lebendigen Charakter.</p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_jExMJc": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00440_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Alte wurzelechte Rebstöcke",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Aufgrund der sehr steinhaltigen und skelettreichen Böden ist ein großer Teil der Mosel noch reblausfrei. Alle sich im Eigentum von Dr. Loosen befindlichen Weinbergsparzellen sind noch mit wurzelechten Reben bepflanzt.</p><p>Teilweise sind diese Rebstöcke bis zu 100 Jahre alt.<br/><br/></p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "media_zQLkK6",
+        "media_pCg6Jk",
+        "media_jExMJc"
+      ],
+      "name": "t:sections.flow.name",
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "content_position": "middle",
+        "content_alignment": "left",
+        "select_motion": "hover",
+        "open_first_tab": true,
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "auto_play": false,
+        "change_steps_speed": 5,
+        "pause_hover": true,
+        "background_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "image_position": "first",
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "desktop_height": "650px",
+        "padding_top": 100,
+        "padding_bottom": 28,
+        "image_position_mobile": "second",
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 68,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "flow_JzYWBN": {
+      "type": "flow",
+      "blocks": {
+        "media_xcm7Td": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DrLoosen_Praelat_Treppchen_30x20cm_300dpi_DrLoosen_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Mikroklima",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Die nach Süden ausgerichteten Steillagen und ihre Nähe zur Mosel erzeugen ein perfektes Mikroklima für unseren Riesling. Der Südhang garantiert Sonnenlicht von morgens bis abends; der Steilhang lässt den Boden durch wenig Schattenwurf ideal erwärmen.</p><p>Zusätzlich reflektiert die Mosel tagsüber die Sonnenstrahlen in den Weinberg, während sie nachts die gespeicherte Wärme abgibt und so für ein ausgeglichenes Mikroklima sorgt. Eine lange Vegetationsperiode erlaubt es den Trauben, langsam zu reifen und dabei ihre erfrischende Säure zu bewahren.</p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_P7xcPp": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01580_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Schieferboden",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Der steinige Schieferboden, der an der Oberfläche des Weinbergs zu sehen ist, reflektiert während des Tages das Sonnenlicht zu den Trauben und speichert gleichzeitig einen Großteil der Wärme. Diese wird langsam an die unteren Bodenschichten abgegeben, wodurch auch in den kühleren Nächten ein sehr ausgeglichener Wärmehaushalt für die Rebstöcke erzeugt wird.</p><p>Der Schiefer ist sehr kaliumhaltig und somit eine reichhaltige, natürliche Mineralienquelle. Er verleiht dem Moselriesling seinen unverwechselbaren mineralischen und lebendigen Charakter.</p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_XYNWpV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00440_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Alte wurzelechte Rebstöcke",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Aufgrund der sehr steinhaltigen und skelettreichen Böden ist ein großer Teil der Mosel noch reblausfrei. Alle sich im Eigentum von Dr. Loosen befindlichen Weinbergsparzellen sind noch mit wurzelechten Reben bepflanzt.</p><p>Teilweise sind diese Rebstöcke bis zu 100 Jahre alt.<br/><br/></p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "media_xcm7Td",
+        "media_P7xcPp",
+        "media_XYNWpV"
+      ],
+      "name": "t:sections.flow.name",
+      "settings": {
+        "heading": "",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -1162,12 +1352,13 @@
     "image_with_text_feQhxP",
     "collage_VkLagH",
     "rich_text_9gdefq",
-    "rich_text_eqkLLC",
     "rich_text_rDwM77",
     "flow_mphUC9",
     "image_with_text_tc9tgC",
     "image_with_text_yHGk6D",
     "flow_3MzY6e",
+    "flow_KWdfbh",
+    "flow_JzYWBN",
     "text_column_with_image_nYrgLi",
     "image_with_text_Q3MVMU"
   ]
