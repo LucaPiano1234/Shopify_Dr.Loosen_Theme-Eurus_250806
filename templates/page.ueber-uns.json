@@ -43,7 +43,7 @@
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00669_1.jpg",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 20,
+            "overlay_opacity": 30,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
@@ -379,7 +379,7 @@
         "text_iaaGzY": {
           "type": "text",
           "settings": {
-            "text": "<p>BERNKASTELLER LAY</p><p>BERNKASTELLER JOHANNISBRÜNNCHEN</p><p>ERDENER PRÄLAT</p><p>ERDENER TREPPCHEN</p><p>GRAACHER DOMPROBST</p><p>GRAACHER HIMMELREICH</p><p>WEHLENER SONNENUHR</p><p>ÜRZIGER WÜRZGARTEN</p>",
+            "text": "<p><a href=\"/collections/bernkasteller-lay\" title=\"Bernkasteller Lay\">BERNKASTELLER LAY</a></p><p><a href=\"/collections/bernkasteller-johannisbrunnchen\" title=\"Bernkasteller Johannisbrünnchen\">BERNKASTELLER JOHANNISBRÜNNCHEN</a></p><p><a href=\"/collections/erdener-pralat\" title=\"Erdener Prälat\">ERDENER PRÄLAT</a></p><p><a href=\"/collections/erdener-treppchen\" title=\"Erdener Treppchen\">ERDENER TREPPCHEN</a></p><p><a href=\"/collections/graacher-domprobst\" title=\"Graacher Domprobst\">GRAACHER DOMPROBST</a></p><p><a href=\"/collections/graacher-himmerlreich\" title=\"Graacher Himmelreich\">GRAACHER HIMMELREICH</a></p><p><a href=\"/collections/wehlener-sonnenuhr\" title=\"Wehlener Sonnenuhr\">WEHLENER SONNENUHR</a></p><p><a href=\"/collections/urziger-wurzgarten\" title=\"Ürziger Würzgarten\">ÜRZIGER WÜRZGARTEN</a></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -404,7 +404,7 @@
         "show_section_divider": false,
         "make_full_page_width": true,
         "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_bottom": 36,
         "content_alignment_mobile": "center",
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
