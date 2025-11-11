@@ -785,7 +785,7 @@
         "image_alignment_mobile": "left",
         "full_width_mobile": true,
         "top_padding_mobile": 48,
-        "bottom_padding_mobile": 48
+        "bottom_padding_mobile": 24
       }
     },
     "rich_text_KK6zbr": {
@@ -813,6 +813,9 @@
       "block_order": [
         "heading_U9QwPN",
         "text_YWzLPW"
+      ],
+      "custom_css": [
+        "@media (max-width: 600px) {{display: none; }}"
       ],
       "name": "t:sections.rich-text.name",
       "settings": {
