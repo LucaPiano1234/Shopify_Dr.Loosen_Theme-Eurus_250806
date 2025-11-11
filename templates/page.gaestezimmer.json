@@ -181,7 +181,7 @@
         "background_color_dark": "rgba(0,0,0,0)",
         "content_alignment": "center",
         "show_section_divider": false,
-        "make_full_page_width": true,
+        "make_full_page_width": false,
         "padding_top": 28,
         "padding_bottom": 28,
         "content_alignment_mobile": "center",
@@ -609,7 +609,7 @@
             "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
-            "padding_top": 63,
+            "padding_top": 45,
             "padding_bottom": 24,
             "padding_right": 10,
             "padding_left": 10
