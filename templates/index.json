@@ -1491,7 +1491,7 @@
         "image_alignment": "left",
         "full_width": false,
         "padding_full_width": false,
-        "top_padding": 28,
+        "top_padding": 8,
         "bottom_padding": 68,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
