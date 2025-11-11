@@ -884,7 +884,8 @@
         "buttons_EyUERK"
       ],
       "custom_css": [
-        ".heading-image_banner_HYLK68 {text-wrap-style: balance;}"
+        ".heading-image_banner_HYLK68 {text-wrap-style: balance;}",
+        "@media (max-width: 600px) {{display: none; }}"
       ],
       "name": "t:sections.promotion-banner.name",
       "settings": {
