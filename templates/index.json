@@ -914,6 +914,128 @@
         "padding_bottom_mobile": 0
       }
     },
+    "collage_gjpDFq": {
+      "type": "collage",
+      "blocks": {
+        "image_n64dGD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
+            "overlay_opacity": 0,
+            "image_link": "",
+            "open_new_window": false,
+            "image_padding": false,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 100,
+            "button_label": "",
+            "button_link": "",
+            "show_button_style": "primary",
+            "open_new_window_button": false,
+            "text_align": "center",
+            "content_position": "center",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_n64dGD"
+      ],
+      "name": "t:sections.collage.name",
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "heading_highlight_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "heading_highlight_color_dark": "rgba(0,0,0,0)",
+        "show_vendor": false,
+        "show_rating": false,
+        "show_highlighted_features": true,
+        "show_highlighted_attributes": true,
+        "max_columns": 1,
+        "spacing": 28,
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "min_columns_mobile": "1",
+        "spacing_mobile": 20,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_TnQ7ki": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6bttRy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Lagen:",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_3kF4c3": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><a href=\"/collections/bernkasteller-lay\" title=\"Bernkasteller Lay\">BERNKASTELLER LAY</a></h4><h4><a href=\"/collections/bernkasteller-johannisbrunnchen\" title=\"Bernkasteller Johannisbrünnchen\">BERNKASTELLER JOHANNISBRÜNNCHEN</a></h4><h4><a href=\"/collections/erdener-pralat\" title=\"Erdener Prälat\">ERDENER PRÄLAT</a></h4><h4><a href=\"/collections/erdener-treppchen\" title=\"Erdener Treppchen\">ERDENER TREPPCHEN</a></h4><h4><a href=\"/collections/graacher-domprobst\" title=\"Graacher Domprobst\">GRAACHER DOMPROBST</a></h4><h4><a href=\"/collections/graacher-himmerlreich\" title=\"Graacher Himmelreich\">GRAACHER HIMMELREICH</a></h4><h4><a href=\"/collections/wehlener-sonnenuhr\" title=\"Wehlener Sonnenuhr\">WEHLENER SONNENUHR</a></h4><h4><a href=\"/collections/urziger-wurzgarten\" title=\"Ürziger Würzgarten\">ÜRZIGER WÜRZGARTEN</a></h4>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6bttRy",
+        "text_3kF4c3"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 72,
+        "padding_bottom": 32,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "flow_cHX3gh": {
       "type": "flow",
       "blocks": {
@@ -1080,6 +1202,7 @@
         "media_6CyrN6",
         "media_TcWnbW"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
         "@media (max-width: 600px) {{display: none; }}"
@@ -1261,7 +1384,7 @@
         "image_alignment": "left",
         "full_width": false,
         "padding_full_width": false,
-        "top_padding": 68,
+        "top_padding": 28,
         "bottom_padding": 68,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
@@ -1565,8 +1688,8 @@
         "bottom_padding": 52,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 32,
+        "bottom_padding_mobile": 36
       }
     },
     "image_with_text_6pTyjA": {
@@ -1765,8 +1888,8 @@
         "bottom_padding": 52,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 32,
+        "bottom_padding_mobile": 40
       }
     },
     "image_with_text_Hk6zia": {
@@ -1966,8 +2089,8 @@
         "bottom_padding": 52,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 32,
+        "bottom_padding_mobile": 40
       }
     },
     "image_with_text_rgeAdd": {
@@ -2595,6 +2718,8 @@
     "image_with_text_YqX66c",
     "image_with_text_xqcgeY",
     "promotion_banner_ijXatP",
+    "collage_gjpDFq",
+    "rich_text_TnQ7ki",
     "flow_cHX3gh",
     "image_with_text_3kTMkD",
     "image_with_text_GtacQh",
