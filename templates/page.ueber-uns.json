@@ -289,6 +289,188 @@
         "bottom_padding_mobile": 0
       }
     },
+    "collage_VkLagH": {
+      "type": "collage",
+      "blocks": {
+        "image_KUGrwD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
+            "overlay_opacity": 0,
+            "image_link": "",
+            "open_new_window": false,
+            "image_padding": false,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 100,
+            "button_label": "",
+            "button_link": "",
+            "show_button_style": "primary",
+            "open_new_window_button": false,
+            "text_align": "center",
+            "content_position": "center",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_KUGrwD"
+      ],
+      "name": "t:sections.collage.name",
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "heading_highlight_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "heading_highlight_color_dark": "rgba(0,0,0,0)",
+        "show_vendor": false,
+        "show_rating": false,
+        "show_highlighted_features": true,
+        "show_highlighted_attributes": true,
+        "max_columns": 1,
+        "spacing": 28,
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "min_columns_mobile": "1",
+        "spacing_mobile": 20,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_9gdefq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rqGzzp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Lagen:",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_iaaGzY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>BERNKASTELLER LAY</p><p>BERNKASTELLER JOHANNISBRÜNNCHEN</p><p>ERDENER PRÄLAT</p><p>ERDENER TREPPCHEN</p><p>GRAACHER DOMPROBST</p><p>GRAACHER HIMMELREICH</p><p>WEHLENER SONNENUHR</p><p>ÜRZIGER WÜRZGARTEN</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rqGzzp",
+        "text_iaaGzY"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_eqkLLC": {
+      "type": "rich-text",
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_rDwM77": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7Vaj8J": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>BERNKASTELLER LAY⎥BERNKASTELLER JOHANNISBRÜNNCHEN⎥ERDENER PRÄLAT⎥ERDENER TREPPCHEN⎥GRAACHER DOMPROBST⎥GRAACHER HIMMELREICH⎥WEHLENER SONNENUHR⎥ÜRZIGER WÜRZGARTEN</h3>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "text_7Vaj8J"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "flow_mphUC9": {
       "type": "flow",
       "blocks": {
@@ -455,6 +637,7 @@
         "media_enK9eR",
         "media_qTY3Wm"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 1024px) {.md\\:flex {border-radius: 10px; padding-right: 50px; }}",
         "@media (max-width: 600px) {{display: none; }}"
@@ -472,7 +655,7 @@
         "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
-        "auto_play": true,
+        "auto_play": false,
         "change_steps_speed": 5,
         "pause_hover": true,
         "background_color": "rgba(0,0,0,0)",
@@ -977,6 +1160,10 @@
     "slideshow_ztEAAV",
     "rich_text_RaY8Qw",
     "image_with_text_feQhxP",
+    "collage_VkLagH",
+    "rich_text_9gdefq",
+    "rich_text_eqkLLC",
+    "rich_text_rDwM77",
     "flow_mphUC9",
     "image_with_text_tc9tgC",
     "image_with_text_yHGk6D",
