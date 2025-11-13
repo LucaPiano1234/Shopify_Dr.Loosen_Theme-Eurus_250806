@@ -1028,7 +1028,7 @@
         "heading_light": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#f3f6ef",
         "heading_dark": "rgba(0,0,0,0)",
         "color_heading_highlight_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)",
