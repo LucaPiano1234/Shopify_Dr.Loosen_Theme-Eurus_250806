@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "theme-mode": {
@@ -73,8 +82,8 @@
       "view": "Meinen Warenkorb ansehen ({{ count }})",
       "item_added": "Artikel wurde Ihrem Warenkorb hinzugefügt",
       "terms_confirm": "Bitte stimmen Sie den Allgemeinen Geschäftsbedingungen zu.",
-      "enable_amount_freeship_html": "Fügen Sie <span class=\"text-medium font-medium\">{{ amount_to_freeshipping }}</span> mehr hinzu, um <span class=\"font-medium\">GRATIS<\/span> Versand zu erhalten",
-      "enable_amount_freegift_html": "Fügen Sie <span class=\"text-medium font-medium\">{{ amount_to_freegift }}<\/span> mehr hinzu, um {{ other_offer }} zu erhalten",
+      "enable_amount_freeship_html": "Fügen Sie <span class=\"text-medium font-medium\">{{ amount_to_freeshipping }}</span> mehr hinzu, um <span class=\"font-medium\">GRATIS</span> Versand zu erhalten",
+      "enable_amount_freegift_html": "Fügen Sie <span class=\"text-medium font-medium\">{{ amount_to_freegift }}</span> mehr hinzu, um {{ other_offer }} zu erhalten",
       "freeshipping": "Herzlichen Glückwunsch! Sie sind für den kostenlosen Versand berechtigt!",
       "freegift": "Herzlichen Glückwunsch! Sie haben Anspruch auf {{ other_offer }}",
       "free_all_offer": "Herzlichen Glückwunsch! Sie haben Anspruch auf kostenlosen Versand und {{ other_offer }}!",
@@ -334,7 +343,7 @@
       "taxes_included_and_shipping_policy_html": "Steuern inklusive. <a target='_blank' href='{{ link }}' class='nav-link hover-text-link relative effect-inline'>Versand</a> wird beim Bezahlvorgang berechnet.",
       "taxes_and_shipping_at_checkout": "Steuern und Versand werden an der Kasse berechnet",
       "cart_enable_terms_and_conditions": "Ich stimme den Bedingungen zu",
-      "cart_enable_terms_and_conditions_html": "Ich stimme den <a href='{{ url }}' class='button-link relative text-[rgba(var(--colors-text-link))]' target='_blank'>Allgemeinen Geschäftsbedingungen<\/a>",
+      "cart_enable_terms_and_conditions_html": "Ich stimme den <a href='{{ url }}' class='button-link relative text-[rgba(var(--colors-text-link))]' target='_blank'>Allgemeinen Geschäftsbedingungen</a>",
       "headings": {
         "product": "Produkt",
         "price": "Preis",
@@ -441,7 +450,7 @@
       "view_more_button": "Mehr sehen",
       "view_less_button": "Weniger sehen"
     },
-    "quick-order-list":{
+    "quick-order-list": {
       "variant": "Variante",
       "variant-total": "Variantensumme",
       "total-items": "Gesamtzahl der Artikel"
@@ -649,9 +658,9 @@
     "product_description": "Produktbeschreibung"
   },
   "multiple_stores": {
-    "button_view":"Im Detail sehen",
-    "view_more":"Mehr Shop anzeigen",
-    "view_less":"Weniger Shop anzeigen"
+    "button_view": "Im Detail sehen",
+    "view_more": "Mehr Shop anzeigen",
+    "view_less": "Weniger Shop anzeigen"
   },
   "store_selector": {
     "available": "Abholung möglich unter ",
@@ -669,5 +678,12 @@
   },
   "header": {
     "menu": "Speisekarte"
+  },
+  "shopify": {
+    "collections": {
+      "sorting": {
+        "best_selling": "Meistverkauft"
+      }
+    }
   }
 }
