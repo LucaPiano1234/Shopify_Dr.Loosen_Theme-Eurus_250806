@@ -1034,7 +1034,7 @@
         "text_dark": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
         "content_alignment": "center",
-        "show_section_divider": false,
+        "show_section_divider": true,
         "make_full_page_width": true,
         "padding_top": 72,
         "padding_bottom": 32,
