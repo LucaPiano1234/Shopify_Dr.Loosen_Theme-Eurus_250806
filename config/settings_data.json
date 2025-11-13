@@ -209,17 +209,17 @@
         "disabled": false,
         "settings": {}
       },
-      "10746902591489815047": {
-        "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
-        "disabled": false,
-        "settings": {}
-      },
       "13180643132867056963": {
         "type": "shopify://apps/complianz-gdpr-cookie-consent/blocks/bc-block/e49729f0-d37d-4e24-ac65-e0e2f472ac27",
         "disabled": false,
         "settings": {
           "hide_label": false
         }
+      },
+      "10746902591489815047": {
+        "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
