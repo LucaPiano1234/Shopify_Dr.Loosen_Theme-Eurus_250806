@@ -2305,7 +2305,7 @@
         "text": "",
         "show_view_all": true,
         "view_all_position": "bottom",
-        "view_all_button_style": "secondary",
+        "view_all_button_style": "text-link",
         "title_size": 90,
         "title_style": "capitalize",
         "title_position": "inline",
