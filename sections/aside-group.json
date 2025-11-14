@@ -527,6 +527,7 @@
     },
     "cookie-banner": {
       "type": "cookie-banner",
+      "disabled": true,
       "settings": {
         "cookie_enabled": false,
         "cookie_notice": "<p>We use cookies and similar technologies to provide the best experience on our website. </p>",
