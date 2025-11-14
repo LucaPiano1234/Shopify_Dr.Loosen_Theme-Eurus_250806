@@ -1448,7 +1448,7 @@
             "highlight_type": "underline",
             "heading_base_size": 90,
             "heading_tag": "h2",
-            "text": "<p>Seit 1993 ist das Weingut Dr. Loosen Mitglied im VDP (Verband Deutscher Prädikatsweingüter).</p><p>Mit der VDP.Klassifikation verpflichtet sich das Weingut zu strengsten Qualitätsstandards, die Herkunft und Terroir in den Mittelpunkt stellen.</p><p>*Im Weinbaugebiet Mosel verzichtet der VDP.Regionalverband auf die Klassifikationsstufe VDP.ERSTE LAGE<br/><br/><strong>Die vierstufige Qualitätspyramide des VDP ordnet die Weine nach ihrem Ursprung:</strong></p>",
+            "text": "<p>Seit 1993 ist das Weingut Dr. Loosen Mitglied im VDP (Verband Deutscher Prädikatsweingüter).</p><p>Mit der VDP.Klassifikation verpflichtet sich das Weingut zu strengsten Qualitätsstandards, die Herkunft und Terroir in den Mittelpunkt stellen.</p><p>*Im Weinbaugebiet Mosel verzichtet der VDP.Regionalverband auf die Klassifikationsstufe VDP.ERSTE LAGE.<br/><br/><strong>Die vierstufige Qualitätspyramide des VDP ordnet die Weine nach ihrem Ursprung:</strong></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -1516,7 +1516,7 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "VDP.Große Lage⎥GG Reserve",
+            "heading": "VDP.Große Lage⎥GG Réserve",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
