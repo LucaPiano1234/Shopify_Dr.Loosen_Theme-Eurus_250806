@@ -1605,7 +1605,7 @@
         "image_alignment_mobile": "left",
         "full_width_mobile": true,
         "top_padding_mobile": 32,
-        "bottom_padding_mobile": 40
+        "bottom_padding_mobile": 0
       }
     },
     "image_with_text_8XhMhx": {
@@ -1704,8 +1704,8 @@
         "bottom_padding": 52,
         "image_alignment_mobile": "left",
         "full_width_mobile": true,
-        "top_padding_mobile": 32,
-        "bottom_padding_mobile": 36
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
       }
     },
     "image_with_text_YQJmrw": {
@@ -1804,8 +1804,8 @@
         "bottom_padding": 52,
         "image_alignment_mobile": "left",
         "full_width_mobile": true,
-        "top_padding_mobile": 32,
-        "bottom_padding_mobile": 40
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
       }
     },
     "image_with_text_Hk6zia": {
