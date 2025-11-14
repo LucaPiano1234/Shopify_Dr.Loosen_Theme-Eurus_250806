@@ -527,7 +527,7 @@
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
             "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "#a67f63",
+            "secondary_button_light": "#9e8015",
             "secondary_button_text_light": "rgba(0,0,0,0)",
             "button_dark": "rgba(0,0,0,0)",
             "button_text_dark": "rgba(0,0,0,0)",
