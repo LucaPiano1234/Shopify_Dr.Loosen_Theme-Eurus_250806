@@ -808,11 +808,21 @@
             "read_more_label": "Read more",
             "see_less_label": "See less"
           }
+        },
+        "text_JGGeii": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><a href=\"/collections/bernkasteller-lay\" title=\"Bernkasteller Lay\">BERNKASTELLER LAY</a></h4><h4><a href=\"/collections/bernkasteller-johannisbrunnchen\" title=\"Bernkasteller Johannisbrünnchen\">BERNKASTELLER JOHANNISBRÜNNCHEN</a></h4><h4><a href=\"/collections/erdener-pralat\" title=\"Erdener Prälat\">ERDENER PRÄLAT</a></h4><h4><a href=\"/collections/erdener-treppchen\" title=\"Erdener Treppchen\">ERDENER-TREPPCHEN</a></h4><h4><a href=\"/collections/graacher-domprobst\" title=\"Graacher Domprobst\">GRAACHER-DOMPROBST</a></h4><h4><a href=\"/collections/graacher-himmerlreich\" title=\"Graacher Himmelreich\">GRAACHER-HIMMELREICH</a></h4><h4><a href=\"/collections/wehlener-sonnenuhr\" title=\"Wehlener Sonnenuhr\">WEHLENER-SONNENUHR</a></h4><h4><a href=\"/collections/urziger-wurzgarten\" title=\"Ürziger Würzgarten\">ÜRZIGER WÜRZGARTEN</a></h4>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
         }
       },
       "block_order": [
         "heading_U9QwPN",
-        "text_YWzLPW"
+        "text_YWzLPW",
+        "text_JGGeii"
       ],
       "custom_css": [
         "@media (max-width: 600px) {{display: none; }}"
@@ -1020,6 +1030,7 @@
         "heading_6bttRy",
         "text_3kF4c3"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 600px) {{display: none; }}"
       ],
