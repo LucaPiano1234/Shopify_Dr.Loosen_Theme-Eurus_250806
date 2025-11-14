@@ -1055,7 +1055,8 @@
         "media_pCg6Jk"
       ],
       "custom_css": [
-        "svg {display: none;}"
+        "svg {display: none;}",
+        "blockquote,li {font-family: \"New \";}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
