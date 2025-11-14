@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/DrLoosen_2019_10_30x20cm_300dpi_DrLoosen_photo_Chris_Marmann_1.png",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 20,
+            "overlay_opacity": 0,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
@@ -170,8 +170,7 @@
         "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 0.25rem; }}",
         "@media screen and (min-width: 768px) {.sub-heading-template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2 {font-size: 1.1rem; padding-bottom: 20px; }}",
         "@media screen and (min-width: 768px) {.sub-heading-slide_GJyfyj {font-size: 1.1rem; margin-bottom: 20px; }}",
-        "@media screen and (min-width: 768px) {.sub-heading-slide_C4yh4H {font-size: 1.1rem; margin-bottom: 20px; }}",
-        ".button {}"
+        "@media screen and (min-width: 768px) {.sub-heading-slide_C4yh4H {font-size: 1.1rem; margin-bottom: 20px; }}"
       ],
       "settings": {
         "show_hero": true,
