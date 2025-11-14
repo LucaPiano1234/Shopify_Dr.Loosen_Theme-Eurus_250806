@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/DrLoosen_2019_10_30x20cm_300dpi_DrLoosen_photo_Chris_Marmann_1.png",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 10,
+            "overlay_opacity": 20,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
@@ -34,7 +34,7 @@
             "button_label_1": "LAGEN-RIESLINGEN ENTDECKEN",
             "button_link_1": "shopify://collections/alle-weine",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "shopify://collections/alle-weine",
             "open_new_window_button_2": false,
@@ -168,7 +168,7 @@
       "custom_css": [
         "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 100px; }}",
         "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 0.25rem; }}",
-        ".buttonk {box-shadow: 3px 4px 6px black;}"
+        ".button {text-shadow: 3px 4px 6px black;}"
       ],
       "settings": {
         "show_hero": true,
