@@ -926,7 +926,7 @@
         "logo_width": 80,
         "logo_width_mobile": 90,
         "show_social_icons": false,
-        "enable_on_homepage": true,
+        "enable_on_homepage": false,
         "enable_on_collection_page": false,
         "shadow": 80,
         "text_color_light": "#ffffff",
