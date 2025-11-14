@@ -1121,6 +1121,9 @@
       "block_order": [
         "media_XYNWpV"
       ],
+      "custom_css": [
+        "blockquote,li {font-family: \"New \";}"
+      ],
       "name": "t:sections.flow.name",
       "settings": {
         "heading": "",
