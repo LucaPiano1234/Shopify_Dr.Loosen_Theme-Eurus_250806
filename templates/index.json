@@ -823,6 +823,7 @@
         "text_YWzLPW",
         "text_JGGeii"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 600px) {{display: none; }}"
       ],
@@ -930,6 +931,7 @@
       "blocks": {
         "image_n64dGD": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
             "overlay_opacity": 0,
