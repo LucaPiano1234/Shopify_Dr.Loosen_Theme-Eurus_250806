@@ -1343,7 +1343,8 @@
       ],
       "custom_css": [
         "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
-        "@media (max-width: 600px) {{display: none; }}"
+        "@media (max-width: 600px) {{display: none; }}",
+        "@media only screen and (min-width: 1024px) {.md\\:flex {position: sticky; align-self: flex-start; }}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
