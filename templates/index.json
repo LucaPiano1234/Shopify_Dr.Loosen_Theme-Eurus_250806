@@ -1272,6 +1272,25 @@
             "show_button_style": "primary"
           }
         },
+        "media_jCqdgP": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Kinheimer_Rosenberg_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Kinheimer Rosenberg",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
         "media_6CyrN6": {
           "type": "media",
           "settings": {
@@ -1318,6 +1337,7 @@
         "media_iYtybg",
         "media_WgDEVV",
         "media_xcPLDE",
+        "media_jCqdgP",
         "media_6CyrN6",
         "media_TcWnbW"
       ],
@@ -1339,7 +1359,7 @@
         "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
-        "auto_play": true,
+        "auto_play": false,
         "change_steps_speed": 5,
         "pause_hover": true,
         "background_color": "rgba(0,0,0,0)",
