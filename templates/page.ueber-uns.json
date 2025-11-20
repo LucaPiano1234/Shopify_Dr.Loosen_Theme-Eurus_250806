@@ -381,6 +381,7 @@
       "block_order": [
         "image_KUGrwD"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 600px) {{display: none; }}"
       ],
@@ -455,6 +456,7 @@
         "text_g8RcEz",
         "text_TMBxfp"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.name",
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
@@ -680,7 +682,6 @@
         "media_enK9eR",
         "media_qTY3Wm"
       ],
-      "disabled": true,
       "custom_css": [
         "@media (min-width: 1024px) {.md\\:flex {border-radius: 10px; padding-right: 50px; }}",
         "@media (max-width: 600px) {{display: none; }}"
