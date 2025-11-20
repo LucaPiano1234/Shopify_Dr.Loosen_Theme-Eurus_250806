@@ -1324,7 +1324,7 @@
       "custom_css": [
         "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
         "@media (max-width: 600px) {{display: none; }}",
-        "@media only screen and (min-width: 1024px) {media {position: sticky; top: 5px; align-self: flex-start; }}"
+        "@media only screen and (min-width: 1024px) {media {position: sticky; top: 5px; align-self: flex-start; overflow: hidden; }}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
