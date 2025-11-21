@@ -1332,7 +1332,6 @@
         "media_ewTiJc": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR.webp",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -1402,7 +1401,7 @@
       "custom_css": [
         "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
         "@media (max-width: 600px) {{display: none; }}",
-        "@media only screen and (min-width: 1024px) {.w-full relative {position: sticky; align-self: flex-start; top: 50px; padding-bottom: 50px; }}",
+        "@media only screen and (min-width: 1024px) {.w-full relative {position: sticky; align-self: flex-start; top: 50px; bottom: 50px; }}",
         "@media (min-width: 768px) {.md\\:pt-7 {padding-top: 1.2rem; }}",
         "@media (min-width: 768px) {.md\\:pb-7 {padding-bottom: 1.2rem; }}"
       ],
