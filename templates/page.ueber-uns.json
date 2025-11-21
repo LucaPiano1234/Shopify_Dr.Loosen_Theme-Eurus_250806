@@ -516,10 +516,10 @@
         "padding_bottom_mobile": 28
       }
     },
-    "flow_mphUC9": {
+    "flow_6yqTJE": {
       "type": "flow",
       "blocks": {
-        "media_zVde6q": {
+        "media_GKMFnN": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay_1.webp",
@@ -538,7 +538,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_XNG4e6": {
+        "media_yjBaDY": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen_1.webp",
@@ -557,7 +557,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_bwKYVi": {
+        "media_LBTdWX": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT_1.webp",
@@ -576,7 +576,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_gi34mt": {
+        "media_xkqa6V": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN_ceab565d-c0de-4a36-902b-4b4b5627f965.webp",
@@ -595,7 +595,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_WNi83a": {
+        "media_LJbKQV": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost_1.webp",
@@ -614,7 +614,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_U6BTcf": {
+        "media_YFYRhL": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH_1.webp",
@@ -633,7 +633,26 @@
             "show_button_style": "primary"
           }
         },
-        "media_enK9eR": {
+        "media_hafWRb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Kinheimer_Rosenberg_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Kinheimer Rosenberg",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/kinheimer-rosenberg",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_HbXjbE": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR_1.webp",
@@ -652,7 +671,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_qTY3Wm": {
+        "media_94gV4Y": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__Uerziger_Wuerzgarten_f117ea07-7e99-4bfd-8e3f-1dcf19f66e90.webp",
@@ -670,21 +689,82 @@
             "open_new_window_button": false,
             "show_button_style": "primary"
           }
+        },
+        "media_UEKYkB": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_w7dJdw": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_yegnGE": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
         }
       },
       "block_order": [
-        "media_zVde6q",
-        "media_XNG4e6",
-        "media_bwKYVi",
-        "media_gi34mt",
-        "media_WNi83a",
-        "media_U6BTcf",
-        "media_enK9eR",
-        "media_qTY3Wm"
+        "media_GKMFnN",
+        "media_yjBaDY",
+        "media_LBTdWX",
+        "media_xkqa6V",
+        "media_LJbKQV",
+        "media_YFYRhL",
+        "media_hafWRb",
+        "media_HbXjbE",
+        "media_94gV4Y",
+        "media_UEKYkB",
+        "media_w7dJdw",
+        "media_yegnGE"
       ],
       "custom_css": [
-        "@media (min-width: 1024px) {.md\\:flex {border-radius: 10px; padding-right: 50px; }}",
-        "@media (max-width: 600px) {{display: none; }}"
+        "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
+        "@media (max-width: 600px) {{display: none; }}",
+        "@media only screen and (min-width: 1024px) {.w-full relative {position: sticky; align-self: flex-start; top: 50px; bottom: 50px; }}",
+        "@media (min-width: 768px) {.md\\:pt-7 {padding-top: 1.2rem; }}",
+        "@media (min-width: 768px) {.md\\:pb-7 {padding-bottom: 1.2rem; }}"
       ],
       "name": "t:sections.flow.name",
       "settings": {
@@ -695,7 +775,7 @@
         "heading_alignment": "center",
         "content_position": "middle",
         "content_alignment": "left",
-        "select_motion": "hover",
+        "select_motion": "click",
         "open_first_tab": false,
         "adapt_radius": true,
         "image_corner_radius": 0,
@@ -709,12 +789,12 @@
         "heading_color_dark": "rgba(0,0,0,0)",
         "text_color_dark": "rgba(0,0,0,0)",
         "image_position": "second",
-        "full_width": true,
+        "full_width": false,
         "padding_full_width": false,
         "show_section_divider": false,
         "desktop_height": "natural",
         "padding_top": 28,
-        "padding_bottom": 52,
+        "padding_bottom": 28,
         "image_position_mobile": "second",
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
@@ -1343,7 +1423,7 @@
     "collage_VkLagH",
     "rich_text_Drj9CA",
     "rich_text_rDwM77",
-    "flow_mphUC9",
+    "flow_6yqTJE",
     "image_with_text_tc9tgC",
     "image_with_text_yHGk6D",
     "flow_3MzY6e",
