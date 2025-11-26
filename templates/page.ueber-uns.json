@@ -43,23 +43,23 @@
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00669_1.jpg",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 20,
+            "overlay_opacity": 30,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "enable_bakground": false,
-            "subheading": "",
+            "subheading": "Über uns",
             "subheading_size": 100,
-            "heading": "Über uns",
+            "heading": "200 Jahre Familiengeschichte",
             "highlight_type": "underline",
-            "heading_size": 170,
+            "heading_size": 110,
             "heading_tag": "h2",
-            "text": "<p>200 Jahre Familiengeschichte</p>",
-            "button_label_1": "",
-            "button_link_1": "",
+            "text": "",
+            "button_label_1": "Exklusive Rieslinge aus unseren Großen Lagen sichern",
+            "button_link_1": "shopify://collections/alle-weine",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
@@ -80,7 +80,7 @@
             "color_text_button_hover": "rgba(0,0,0,0)",
             "color_button_secondary": "rgba(0,0,0,0)",
             "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
+            "colors_text_link": "#ffffff",
             "color_heading_highlight_light": "rgba(0,0,0,0)",
             "color_product_card_background": "rgba(0,0,0,0)",
             "color_product_card_text": "rgba(0,0,0,0)"
@@ -89,6 +89,12 @@
       },
       "block_order": [
         "slide_PQEW7a"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 100px; }}",
+        "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 0.25rem; }}",
+        "@media screen and (min-width: 768px) {.sub-heading-template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2 {font-size: 1.1rem; padding-bottom: 10px; }}",
+        ".button {text-shadow: 3px 4px 6px black;}"
       ],
       "name": "t:sections.slideshow.name",
       "settings": {
@@ -112,7 +118,7 @@
         "adapt_corners_mobile": true,
         "rounded_corner_image_mobile": false,
         "show_content_below_image": false,
-        "mobile_height": "500",
+        "mobile_height": "250",
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 20
       }
@@ -144,7 +150,7 @@
             "button_label": "VDP Weine entdecken",
             "button_link": "shopify://collections/alle-weine",
             "open_new_window_button": false,
-            "show_button_style_1": "text-link",
+            "show_button_style_1": "primary",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
@@ -196,7 +202,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen. Seine Aromen spiegeln Jahreszeiten, Terroir und die Leidenschaft der Weinmacher. Große Winzer wissen schon vor der ersten Lese, wie ihr Wein schmecken soll. Individuelles Terroir triumphiert über Technologie, Qualität über Quantität.</p><p>Diesen Prinzipien folgen wir auf unseren Weingütern <strong>Dr. Loosen</strong> (Mosel) und <strong>Villa Wolf</strong> (Pfalz). Unsere Weine sollen konzentriert, komplex und unverwechselbar ihre Herkunft widerspiegeln, besonders aus unseren Großen Lagen.</p><p>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas. Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.</p><p>Ernst Loosen</p>",
+            "text": "<p>Einen großen Wein zu genießen, ist ein einzigartiges Vergnügen.</p><p><strong>In seiner Aromenvielfalt spiegelt sich ein ganzer Kosmos, vom Wechsel der Jahreszeiten über das unverwechselbare Terroir einer Weinlage bis hin zur Leidenschaft der Weinmacher. </strong></p><p>Alle großen Winzer, denen ich begegnet bin, haben eine klare Vision. Sie wissen wie ihre Weine schmecken sollen, bevor die erste Traube überhaupt gelesen ist. Stets lassen sie individuelles Terroir über die Technologie triumphieren.</p><p><strong>Und Qualität – perfekt gereifte Trauben – kommt immer vor Quantität.</strong> Große Weine verdanken sich großer Leidenschaft und der Hingabe an klare Überzeugungen, die kompromisslos realisiert werden.</p><p><strong>Diesen Prinzipien fühlen wir uns auf unseren beiden Weingütern Dr. Loosen an der Mosel und Villa Wolf in der Pfalz verpflichtet</strong>. Wir wollen Weine erzeugen, die zum Genuss verführen, die konzentriert und komplex sind und auf unverwechselbare Weise ihre Herkunft wiederspiegeln.</p><p>Wenn ich einen Wein aus unserer Ersten Großen Lage Wehlener Sonnenuhr trinke, dann möchte ich den blauen Schiefer riechen, der die Trauben genährt hat und die Frucht schmecken, die mit diesem einzigartigen Terroir verbunden ist. Ich möchte den besonderen Charakter eines Jahrgangs erleben. Das ist das Besondere, was Wein von jedem anderen Getränk unterscheidet.</p><p><strong>Jeder große Wein entsteht im Kopf. Aber seine wahre Größe beweist er erst in Ihrem Glas.</strong> Ich hoffe, Sie trinken unseren Wein mit derselben Freude, mit der ich ihn erzeuge.<br/><br/><em>Ernst Loosen</em></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -214,7 +220,7 @@
             "button_label": "GG Paket entdecken",
             "button_link": "",
             "open_new_window": false,
-            "show_button_style": "text-link",
+            "show_button_style": "primary",
             "button_light": "rgba(0,0,0,0)",
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
@@ -236,12 +242,15 @@
         "heading_RGeVte",
         "button_MgArwQ"
       ],
+      "custom_css": [
+        ".h2 {text-wrap-style: balance;}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/2023-09_HoR_DrLoosen-07774_1.jpg",
-        "desktop_height": "550px",
-        "mobile_height": "400px",
+        "desktop_height": "natural",
+        "mobile_height": "300px",
         "desktop_image_width": "medium",
         "image_layout": "stacked",
         "adapt_radius": true,
@@ -281,14 +290,626 @@
         "bottom_padding_mobile": 0
       }
     },
+    "rich_text_9gdefq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rqGzzp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Lagen:",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_iaaGzY": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><a href=\"/collections/bernkasteller-lay\" title=\"Bernkasteller Lay\">BERNKASTELLER LAY</a></h4><h4><a href=\"/collections/bernkasteller-johannisbrunnchen\" title=\"Bernkasteller Johannisbrünnchen\">BERNKASTELLER JOHANNISBRÜNNCHEN</a></h4><h4><a href=\"/collections/erdener-pralat\" title=\"Erdener Prälat\">ERDENER PRÄLAT</a></h4><h4><a href=\"/collections/erdener-treppchen\" title=\"Erdener Treppchen\">ERDENER TREPPCHEN</a></h4><h4><a href=\"/collections/graacher-domprobst\" title=\"Graacher Domprobst\">GRAACHER DOMPROBST</a></h4><h4><a href=\"/collections/graacher-himmerlreich\" title=\"Graacher Himmelreich\">GRAACHER HIMMELREICH</a></h4><h4><a href=\"/collections/wehlener-sonnenuhr\" title=\"Wehlener Sonnenuhr\">WEHLENER SONNENUHR</a></h4><h4><a href=\"/collections/urziger-wurzgarten\" title=\"Ürziger Würzgarten\">ÜRZIGER WÜRZGARTEN</a></h4>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rqGzzp",
+        "text_iaaGzY"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (max-width: 600px) {{display: none; }}"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "collage_VkLagH": {
+      "type": "collage",
+      "blocks": {
+        "image_KUGrwD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
+            "overlay_opacity": 0,
+            "image_link": "",
+            "open_new_window": false,
+            "image_padding": false,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 100,
+            "button_label": "",
+            "button_link": "",
+            "show_button_style": "primary",
+            "open_new_window_button": false,
+            "text_align": "center",
+            "content_position": "center",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_KUGrwD"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (max-width: 600px) {{display: none; }}"
+      ],
+      "name": "t:sections.collage.name",
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "heading_highlight_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "heading_highlight_color_dark": "rgba(0,0,0,0)",
+        "show_vendor": false,
+        "show_rating": false,
+        "show_highlighted_features": true,
+        "show_highlighted_attributes": true,
+        "max_columns": 1,
+        "spacing": 28,
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "min_columns_mobile": "1",
+        "spacing_mobile": 20,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_Drj9CA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KnPkfQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Lagen - Das Herz großer Rieslinge",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_g8RcEz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Blauschiefer, Rotschiefer, Vulkangestein - unsere Lagen sind das Fundament für Rieslinge von Weltklasse. Jede Lage prägt den Charakter unserer Weine einzigartig.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "text_TMBxfp": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><a href=\"/collections/bernkasteller-lay\" title=\"Bernkasteller Lay\"><em>BERNKASTELLER LAY</em></a></h4><h4><a href=\"/collections/bernkasteller-johannisbrunnchen\" title=\"Bernkasteller Johannisbrünnchen\"><em>BERNKASTELLER JOHANNISBRÜNNCHEN</em></a></h4><h4><a href=\"/collections/erdener-pralat\" title=\"Erdener Prälat\"><em>ERDENER PRÄLAT</em></a></h4><h4><a href=\"/collections/erdener-treppchen\" title=\"Erdener Treppchen\"><em>ERDENER-TREPPCHEN</em></a></h4><h4><a href=\"/collections/graacher-domprobst\" title=\"Graacher Domprobst\"><em>GRAACHER-DOMPROBST</em></a></h4><h4><a href=\"/collections/graacher-himmerlreich\" title=\"Graacher Himmelreich\"><em>GRAACHER-HIMMELREICH</em></a></h4><h4><a href=\"/collections/wehlener-sonnenuhr\" title=\"Wehlener Sonnenuhr\"><em>WEHLENER-SONNENUHR</em></a></h4><h4><a href=\"/collections/urziger-wurzgarten\" title=\"Ürziger Würzgarten\"><em>ÜRZIGER WÜRZGARTEN</em></a></h4>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KnPkfQ",
+        "text_g8RcEz",
+        "text_TMBxfp"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "#f3f6ef",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "#f3f6ef",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 44,
+        "padding_bottom": 44,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_rDwM77": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7Vaj8J": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>BERNKASTELLER LAY⎥BERNKASTELLER JOHANNISBRÜNNCHEN⎥ERDENER PRÄLAT⎥ERDENER TREPPCHEN⎥GRAACHER DOMPROBST⎥GRAACHER HIMMELREICH⎥WEHLENER SONNENUHR⎥ÜRZIGER WÜRZGARTEN</h3>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "text_7Vaj8J"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "flow_6yqTJE": {
+      "type": "flow",
+      "blocks": {
+        "media_GKMFnN": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Bernkasteller Lay",
+            "image_style_heading": "rounded",
+            "image_ratio_heading": "aspect-4/3",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "https://weingut-dr-loosen.myshopify.com/collections/bernkasteller-lay",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_yjBaDY": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Bernkasteller Johannisbrünnchen",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/bernkasteller-johannisbrunnchen",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_LBTdWX": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Erdener Prälat",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/erdener-pralat",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_xkqa6V": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN_ceab565d-c0de-4a36-902b-4b4b5627f965.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Erdener Treppchen",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/erdener-treppchen",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_LJbKQV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Graacher Domprobst",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/graacher-domprobst",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_YFYRhL": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Graacher Himmerlreich",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/graacher-himmerlreich",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_hafWRb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Kinheimer_Rosenberg_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Kinheimer Rosenberg",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/kinheimer-rosenberg",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_HbXjbE": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR_1.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Wehlener Sonnenuhr",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/wehlener-sonnenuhr",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_94gV4Y": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__Uerziger_Wuerzgarten_f117ea07-7e99-4bfd-8e3f-1dcf19f66e90.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Ürziger Würzgarten",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-square",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/urziger-wurzgarten",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_UEKYkB": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_w7dJdw": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_yegnGE": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Media Heading",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "media_GKMFnN",
+        "media_yjBaDY",
+        "media_LBTdWX",
+        "media_xkqa6V",
+        "media_LJbKQV",
+        "media_YFYRhL",
+        "media_hafWRb",
+        "media_HbXjbE",
+        "media_94gV4Y",
+        "media_UEKYkB",
+        "media_w7dJdw",
+        "media_yegnGE"
+      ],
+      "custom_css": [
+        "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
+        "@media (max-width: 600px) {{display: none; }}",
+        "@media only screen and (min-width: 1024px) {.w-full relative {position: sticky; align-self: flex-start; top: 50px; bottom: 50px; }}",
+        "@media (min-width: 768px) {.md\\:pt-7 {padding-top: 1.2rem; }}",
+        "@media (min-width: 768px) {.md\\:pb-7 {padding-bottom: 1.2rem; }}"
+      ],
+      "name": "t:sections.flow.name",
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "content_position": "middle",
+        "content_alignment": "left",
+        "select_motion": "click",
+        "open_first_tab": false,
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "auto_play": false,
+        "change_steps_speed": 5,
+        "pause_hover": true,
+        "background_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "image_position": "second",
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "desktop_height": "natural",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "image_position_mobile": "second",
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 52,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_tc9tgC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mKdPUL": {
+          "type": "heading",
+          "settings": {
+            "subheading": "Weingut Dr. Loosen",
+            "heading": "UNSERE LAGEN",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>In der Weinbaukarte für den Regierungsbezirk Trier von 1868, die als Steuerbemessungsgrundlage für Weingüter an der Mosel erstellt worden war, <strong>wurden sieben unserer Lagen als Grosse Lage ausgewiesen.</strong></p><p>Diese Klassifikation ähnelt dem System der Grand Cru im Burgund und wurde 1995 von Stuart Pigott und Hugh Johnson in ihrem Deutschen Weinatlas aktualisiert. Wir greifen heute bewusst auf diese kulturhistorisch bewährte Klassifikation zurück.</p><p><strong>Seit 1988 füllen wir ausschließlich Rieslinge aus den klassifizierten Grossen Lagen als Einzellagen ab, </strong>während alle übrigen Weine von uns als Gutsriesling geführt werden.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_dQCN4K": {
+          "type": "button",
+          "settings": {
+            "button_label": "Alle Lagen entdecken",
+            "button_link": "shopify://pages/unsere-lagen",
+            "open_new_window": false,
+            "show_button_style": "text-link",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mKdPUL",
+        "button_dQCN4K"
+      ],
+      "custom_css": [
+        "@media (min-width: 600px) {{display: none; }}"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": false,
+        "image": "shopify://shop_images/WG_Loosen_Lagenkarte.jpg",
+        "desktop_height": "natural",
+        "mobile_height": "250px",
+        "desktop_image_width": "large",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 44,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 32,
+        "bottom_padding_mobile": 40
+      }
+    },
     "image_with_text_yHGk6D": {
       "type": "image-with-text",
       "blocks": {
         "heading_extqht": {
           "type": "heading",
           "settings": {
-            "subheading": "Philosophie",
-            "heading": "Weinbau",
+            "subheading": "Weinbau",
+            "heading": "Rückbesinnung auf das Wesentliche",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
@@ -310,7 +931,7 @@
             "button_label": "Mehr zum Weinbau",
             "button_link": "shopify://pages/weinbau",
             "open_new_window": false,
-            "show_button_style": "text-link",
+            "show_button_style": "primary",
             "button_light": "rgba(0,0,0,0)",
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
@@ -331,6 +952,9 @@
       "block_order": [
         "heading_extqht",
         "button_mDNmpQ"
+      ],
+      "custom_css": [
+        ".h2 {text-wrap-style: balance;}"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
@@ -369,7 +993,7 @@
         "image_alignment": "right",
         "full_width": false,
         "padding_full_width": false,
-        "top_padding": 0,
+        "top_padding": 76,
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
@@ -401,6 +1025,7 @@
         },
         "media_mPPVxX": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01580_1.jpg",
             "show_sound_control": false,
@@ -420,6 +1045,7 @@
         },
         "media_yCiN4K": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00440_1.jpg",
             "show_sound_control": false,
@@ -448,7 +1074,74 @@
       ],
       "name": "t:sections.flow.name",
       "settings": {
-        "heading": "QUALITÄTSFAKTOREN",
+        "heading": "Qualitätsfaktoren",
+        "highlight_type": "underline",
+        "heading_size": 110,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "content_position": "middle",
+        "content_alignment": "left",
+        "select_motion": "hover",
+        "open_first_tab": true,
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "auto_play": false,
+        "change_steps_speed": 5,
+        "pause_hover": true,
+        "background_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "image_position": "second",
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "desktop_height": "650px",
+        "padding_top": 100,
+        "padding_bottom": 28,
+        "image_position_mobile": "second",
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 68,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "flow_KWdfbh": {
+      "type": "flow",
+      "blocks": {
+        "media_pCg6Jk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01580_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Schieferboden",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Der steinige Schieferboden, der an der Oberfläche des Weinbergs zu sehen ist, reflektiert während des Tages das Sonnenlicht zu den Trauben und speichert gleichzeitig einen Großteil der Wärme. Diese wird langsam an die unteren Bodenschichten abgegeben, wodurch auch in den kühleren Nächten ein sehr ausgeglichener Wärmehaushalt für die Rebstöcke erzeugt wird.</p><p>Der Schiefer ist sehr kaliumhaltig und somit eine reichhaltige, natürliche Mineralienquelle. Er verleiht dem Moselriesling seinen unverwechselbaren mineralischen und lebendigen Charakter.</p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "media_pCg6Jk"
+      ],
+      "custom_css": [
+        "svg {display: none;}",
+        "blockquote,li {font-family: \"New \";}"
+      ],
+      "name": "t:sections.flow.name",
+      "settings": {
+        "heading": "",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -456,7 +1149,73 @@
         "content_position": "middle",
         "content_alignment": "left",
         "select_motion": "hover",
-        "open_first_tab": false,
+        "open_first_tab": true,
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "auto_play": false,
+        "change_steps_speed": 5,
+        "pause_hover": true,
+        "background_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "image_position": "first",
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "desktop_height": "650px",
+        "padding_top": 100,
+        "padding_bottom": 28,
+        "image_position_mobile": "first",
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 68,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "flow_JzYWBN": {
+      "type": "flow",
+      "blocks": {
+        "media_XYNWpV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2020-05_HoR_DrLoosen-00440_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Alte wurzelechte Rebstöcke",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "<p>Aufgrund der sehr steinhaltigen und skelettreichen Böden ist ein großer Teil der Mosel noch reblausfrei.</p><p>Alle sich im Eigentum von Dr. Loosen befindlichen Weinbergsparzellen sind noch mit wurzelechten Reben bepflanzt.</p><p>Teilweise sind diese Rebstöcke bis zu 100 Jahre alt.<br/><br/></p>",
+            "button_text": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "media_XYNWpV"
+      ],
+      "custom_css": [
+        "blockquote,li {font-family: \"New \";}"
+      ],
+      "name": "t:sections.flow.name",
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "content_position": "middle",
+        "content_alignment": "left",
+        "select_motion": "hover",
+        "open_first_tab": true,
         "adapt_radius": true,
         "image_corner_radius": 0,
         "auto_play": false,
@@ -588,12 +1347,12 @@
         "heading_NATNHy": {
           "type": "heading",
           "settings": {
-            "subheading": "ZERTIFIZIERUNG",
-            "heading": "ZERTIFIZIERUNG",
+            "subheading": "Unser Anspruch im Weinbau",
+            "heading": "Qualität und Nachhaltigkeit",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>„Spitzenqualität beim Wein verdankt sich einem sehr komplexen Prozess, der alle Bereiche umfasst: von einer nachhaltigen und verantwortungsvollen Arbeit im Weinberg, über viel Fingerspitzengefühl für die Abläufe im Keller bis hin zu sicheren Arbeitsplätzen für unsere Mitarbeiter, einer guten Zusammenarbeit mit unseren Lieferanten und natürlich einer hohen Kundenzufriedenheit. <br/><br/>In diesem Sinne bekennen wir uns auch dazu, unsere Service- und Prozessqualität auf hohem Niveau zu etablieren und da, wo möglich, und sinnvoll kontinuierlich zu verbessern.<br/><br/>In einem integrierten Qualitätsmanagement erfüllen wir die Kernforderungen der ISO 9001 ebenso wie ein Lebensmittelsicherheitsmanagement, dass sich an den Forderungen der ISO 22000, der ISO 14001 zum Umweltmanagement bzw. dem 45001 zu Arbeitsschutz orientiert.</p>",
+            "text": "<p>„Spitzenqualität beim Wein verdankt sich einem sehr komplexen Prozess, der alle Bereiche umfasst: von einer nachhaltigen und verantwortungsvollen Arbeit im Weinberg, über viel Fingerspitzengefühl für die Abläufe im Keller bis hin zu sicheren Arbeitsplätzen für unsere Mitarbeiter, einer guten Zusammenarbeit mit unseren Lieferanten und natürlich einer hohen Kundenzufriedenheit. </p><p>In diesem Sinne bekennen wir uns auch dazu, unsere Service- und Prozessqualität auf hohem Niveau zu etablieren und da, wo möglich, und sinnvoll kontinuierlich zu verbessern.</p><p>Im Rahmen eines integrierten Qualitätsmanagements erfüllen wir die Kernanforderungen der ISO 9001 und ergänzen diese durch ein Lebensmittelsicherheitsmanagement, das sich an den Normen ISO 22000, ISO 14001 (Umweltmanagement) und ISO 45001 (Arbeitsschutz) orientiert.</p><p>Zusätzlich sind wir nach EcoStep zertifiziert – einem praxisnahen System, das Qualitäts-, Umwelt-, Arbeits- und Gesundheitsschutzmanagement vereint und gezielt die nachhaltige Entwicklung von Weinbaubetrieben fördert.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -612,9 +1371,9 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/WG_Loosen_EcoStep.png",
+        "image": "shopify://shop_images/2021-09_HoR_Loosen-05138_1.jpg",
         "desktop_height": "450px",
-        "mobile_height": "400px",
+        "mobile_height": "250px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
@@ -660,8 +1419,16 @@
     "slideshow_ztEAAV",
     "rich_text_RaY8Qw",
     "image_with_text_feQhxP",
+    "rich_text_9gdefq",
+    "collage_VkLagH",
+    "rich_text_Drj9CA",
+    "rich_text_rDwM77",
+    "flow_6yqTJE",
+    "image_with_text_tc9tgC",
     "image_with_text_yHGk6D",
     "flow_3MzY6e",
+    "flow_KWdfbh",
+    "flow_JzYWBN",
     "text_column_with_image_nYrgLi",
     "image_with_text_Q3MVMU"
   ]

@@ -383,17 +383,17 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "$10 off your first order",
+            "heading": "Unbefangene Einblicke von der Mittelmosel direkt in dein Postfach",
             "highlight_type": "underline",
-            "heading_color": "rgba(0,0,0,0)",
+            "heading_color": "#ffffff",
             "heading_color_dark": "rgba(0,0,0,0)"
           }
         },
         "text_Dka9AE": {
           "type": "text",
           "settings": {
-            "text": "<p>Simply enter code coupon_code at checkout</p>",
-            "coupon_code": "SIMPLY10",
+            "text": "<p>Und 10% Willkommensrabatt auf die erste Bestellung</p>",
+            "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
             "coupon_color_dark": "rgba(0,0,0,0)"
           }
@@ -432,26 +432,17 @@
         "sections--18371362324774__2eca4af3-5277-406b-a4de-c52946c34b5f-1680002178ae4a2c07-2": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more",
-            "button_link": "",
+            "button_label": "Jetzt anmelden und Rabatt bekommen!",
+            "button_link": "shopify://pages/newsletter-anmeldung",
             "open_new_window": true,
-            "button_color": "rgba(0,0,0,0)",
-            "button_text_color": "rgba(0,0,0,0)",
+            "button_color": "#f3f6ef",
+            "button_text_color": "#313e4d",
             "button_color_hover": "rgba(0,0,0,0)",
             "button_text_color_hover": "rgba(0,0,0,0)",
-            "button_color_dark": "rgba(0,0,0,0)",
+            "button_color_dark": "#f3f6ef",
             "button_text_color_dark": "rgba(0,0,0,0)",
             "button_color_hover_dark": "rgba(0,0,0,0)",
             "button_text_color_hover_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "text_VGnQcp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Feel free to contact us for support</p>",
-            "coupon_code": "",
-            "coupon_color": "rgba(0,0,0,0)",
-            "coupon_color_dark": "rgba(0,0,0,0)"
           }
         }
       },
@@ -460,29 +451,32 @@
         "text_Dka9AE",
         "countdown_timer_tLNd9i",
         "email_form_9nnNXU",
-        "sections--18371362324774__2eca4af3-5277-406b-a4de-c52946c34b5f-1680002178ae4a2c07-2",
-        "text_VGnQcp"
+        "sections--18371362324774__2eca4af3-5277-406b-a4de-c52946c34b5f-1680002178ae4a2c07-2"
+      ],
+      "custom_css": [
+        ".popup-minimal-left {}"
       ],
       "settings": {
-        "popup_position": "bottom-left",
+        "popup_position": "bottom-right",
+        "image": "shopify://shop_images/2021-09_HoR_Loosen-04262_1.jpg",
         "content_position": "right",
         "content_alignment": "center",
-        "background_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#313e4d",
+        "text_color_light": "#ffffff",
         "background_color_dark": "rgba(0,0,0,0)",
         "text_color_dark": "rgba(0,0,0,0)",
         "trigger_intent": "delay",
-        "delay": 10,
+        "delay": 27,
         "scroll_height": 25,
         "show_for_guests_only": true,
         "show_on_mobile": true,
         "schedule_enabled": true,
-        "reappear_after": 1,
+        "reappear_after": 18,
         "enable_desktop": true,
         "default_style": "minimal",
         "enable_mobile": true,
         "default_style_mobile": "minimal",
-        "minimal_title": "Explore full power of Eurus Theme",
+        "minimal_title": "Genieße ein 10 % Willkommensrabatt auf die erste Bestellung",
         "minimal_subtitle": ""
       }
     },
@@ -533,6 +527,7 @@
     },
     "cookie-banner": {
       "type": "cookie-banner",
+      "disabled": true,
       "settings": {
         "cookie_enabled": false,
         "cookie_notice": "<p>We use cookies and similar technologies to provide the best experience on our website. </p>",

@@ -206,14 +206,14 @@
         "image_banner_JMnR76": {
           "type": "image_banner",
           "settings": {
-            "heading": "Banner Kennenlernpaekt",
+            "heading": "Terroir pur erleben!",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Hurry up! Get the best deal at best price</p>",
-            "text_size": 100,
+            "text": "<p>Genießen Sie jetzt unser Schiefer-Paket</p>",
+            "text_size": 130,
             "coupon_code": "",
-            "coupon_color": "rgba(0,0,0,0)",
+            "coupon_color": "#ffffff",
             "coupon_color_dark": "rgba(0,0,0,0)"
           }
         },
@@ -221,7 +221,7 @@
           "type": "buttons",
           "settings": {
             "button_label": "Jetzt endecken",
-            "button_link": "",
+            "button_link": "shopify://products/test-edelsuss-kopie",
             "open_new_window_button": false,
             "show_button_style": "primary",
             "color_button": "rgba(0,0,0,0)",
@@ -240,7 +240,8 @@
       ],
       "name": "t:sections.flash-sale.name",
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/DrLoosen_Red_Slate_Soil_17x12cm_300dpi_DrLoosen_1.jpg",
+        "image_overlay_opacity": 30,
         "show_hero": false,
         "border_section": "dotted",
         "content_layout": "horizontal",
@@ -258,12 +259,12 @@
         "adapt_corners_mobile": true,
         "rounded_corner_image_mobile": true,
         "spacing_row_mobile": 20,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 20,
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28,
         "background_color_light": "#313e4d",
         "heading_light": "#ffffff",
         "color_heading_highlight_light": "#e1e3e1",
-        "text_light": "#e1e3e1",
+        "text_light": "#ffffff",
         "line_border_light": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
         "heading_dark": "rgba(0,0,0,0)",
@@ -600,6 +601,7 @@
         "featured_collection_TiqecJ",
         "featured_collection_f9Pz7R"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.name",
       "settings": {
         "heading": "Unsere Kollektionen",
@@ -788,12 +790,15 @@
         "heading_cxdmCz",
         "button_MKfpem"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.min-h-\\[100\\%\\] {border-bottom-width: 60px; border-bottom-color: #ffffff; }}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide_da07c555-91cf-4699-8ee3-b03bc1ca8186.png",
         "desktop_height": "450px",
-        "mobile_height": "400px",
+        "mobile_height": "300px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "adapt_radius": true,
@@ -806,7 +811,7 @@
         "spacing_image": false,
         "text_position": "center",
         "text_alignment": "start",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#f3f6ef",
         "background_color_dark": "rgba(0,0,0,0)",
         "line_border": "dashed",
         "icon_position": "col",
@@ -829,8 +834,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 52,
+        "bottom_padding_mobile": 48
       }
     },
     "image_with_text_FaVmha": {
@@ -1170,6 +1175,121 @@
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 0
       }
+    },
+    "collection_list_Wekbie": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FpUCFr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "weissweine"
+          }
+        },
+        "featured_collection_ymp8ek": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rose"
+          }
+        },
+        "featured_collection_zWyAGG": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "rotweine"
+          }
+        },
+        "featured_collection_x6L3L6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "edelsusse-raritaten"
+          }
+        },
+        "featured_collection_CjWxz7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sekte"
+          }
+        },
+        "featured_collection_9qAR3Y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "entalkoholisiert"
+          }
+        },
+        "featured_collection_PLndaq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "probierpakete"
+          }
+        },
+        "featured_collection_wCiVxK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spezialitaten"
+          }
+        },
+        "featured_collection_WKzYVW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bier"
+          }
+        },
+        "featured_collection_hXntYR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-weine"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FpUCFr",
+        "featured_collection_ymp8ek",
+        "featured_collection_zWyAGG",
+        "featured_collection_x6L3L6",
+        "featured_collection_CjWxz7",
+        "featured_collection_9qAR3Y",
+        "featured_collection_PLndaq",
+        "featured_collection_wCiVxK",
+        "featured_collection_WKzYVW",
+        "featured_collection_hXntYR"
+      ],
+      "name": "t:sections.collection-list.name",
+      "settings": {
+        "heading": "Unsere Kollektionen",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_view_all": false,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "collection_metafield": "",
+        "image_ratio": "square",
+        "title_size": 80,
+        "show_text_overlay": false,
+        "content_alignment": "center",
+        "content_position": "bottom",
+        "image_overlay_opacity": 30,
+        "title_color": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "title_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "show_item_count": true,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "enable_desktop_slider": false,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "spacing": 4,
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_top": 72,
+        "padding_bottom": 80,
+        "spacing_mobile": 4,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
     }
   },
   "order": [
@@ -1186,6 +1306,7 @@
     "image_with_text_FaVmha",
     "image_with_text_3NwrwR",
     "image_with_text_bfjRN6",
-    "image_with_text_eBwWkM"
+    "image_with_text_eBwWkM",
+    "collection_list_Wekbie"
   ]
 }

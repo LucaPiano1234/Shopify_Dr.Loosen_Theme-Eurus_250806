@@ -162,12 +162,12 @@
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
             "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "#9c8013",
+            "secondary_button_text_light": "#313e4d",
             "button_dark": "rgba(0,0,0,0)",
             "button_text_dark": "rgba(0,0,0,0)",
             "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "#ffffff",
             "secondary_button_dark": "rgba(0,0,0,0)",
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
@@ -228,7 +228,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Speiseempfehlung & Geschmacksnoten",
-            "tab_content": "<p>Passt zu:</p>{{ product.metafields.custom.passt_zu | metafield_tag }}<p>Anlass:</p>{{ product.metafields.custom.anlass | metafield_tag }}<p>Aromen:</p>{{ product.metafields.custom.aromen | metafield_tag }}"
+            "tab_content": "<p>Passt zu:</p><p>{{ product.metafields.custom.passt_zu | metafield_tag }}</p><p>Anlass:</p>{{ product.metafields.custom.anlass | metafield_tag }}<p>Aromen:</p>{{ product.metafields.custom.aromen | metafield_tag }}"
           }
         },
         "nutrition_fact_tEqfWX": {
@@ -375,7 +375,7 @@
         "link_vendor": false,
         "make_content_center": false,
         "desktop_layout": "left",
-        "desktop_media_layout": "stacked",
+        "desktop_media_layout": "thumbnail_slider",
         "show_arrow_button": true,
         "mobile_media_size": "full_width",
         "show_thumnail_mobile": false,
@@ -404,9 +404,9 @@
         "full_width": false,
         "spacing_col": "small",
         "padding_top": 60,
-        "padding_bottom": 100,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 48
+        "padding_bottom": 12,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 24
       }
     },
     "multicolumn_YgrRte": {
@@ -463,6 +463,9 @@
         "column_qrmYFm",
         "column_eMRFW7"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 700px) {.x-section {display: none; }}"
+      ],
       "settings": {
         "title": "",
         "highlight_type": "underline",
@@ -503,6 +506,108 @@
         "spacing_mobile": 16,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "multicolumn_PQ6AFD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cmDKKJ": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_1_da770f24-e093-4ea3-83fa-87ab6464054e.svg",
+            "custom_icon": "",
+            "title": "VDP Weingut",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Seit 1993</p>"
+          }
+        },
+        "column_JtT6Rr": {
+          "type": "column",
+          "settings": {
+            "icon": "sun",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_077357ea-b53f-45a6-aa03-27dc5e9156f5.svg",
+            "custom_icon": "",
+            "title": "Ursprünglicher Ausbau",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Wir machen Wein nach Moseltradition um 1900</p>"
+          }
+        },
+        "column_nefcjE": {
+          "type": "column",
+          "settings": {
+            "icon": "another_icon",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/WG_Dr.Loosen_Icons_2_5e4072b1-373a-40ac-802d-184935e494a1.svg",
+            "custom_icon": "",
+            "title": "Weltbekannte Schiefersteillagen",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>in der Mittelmosel</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_cmDKKJ",
+        "column_JtT6Rr",
+        "column_nefcjE"
+      ],
+      "custom_css": [
+        "@media (max-width: 700px) {.flex {display: flex; flex-direction: column; }}",
+        "@media (min-width: 700px) {.x-section {display: none; flex-direction: column; }}"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 58,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 40,
+        "full_width": false,
+        "padding_full_width": true,
+        "show_section_divider": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-7",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
         "padding_top_mobile": 32,
         "padding_bottom_mobile": 28
       }
@@ -534,6 +639,7 @@
       "block_order": [
         "heading_8nMPQf"
       ],
+      "disabled": true,
       "settings": {
         "show_hero": false,
         "image": "{{ product.metafields.custom.bodenart_bild.value }}",
@@ -579,38 +685,100 @@
         "bottom_padding_mobile": 20
       }
     },
-    "recently_viewed_fNawxV": {
-      "type": "recently-viewed",
-      "name": "t:sections.recently-viewed-products.name",
+    "image_with_text_b7nRzF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mt6Yfn": {
+          "type": "heading",
+          "settings": {
+            "subheading": "VDP Wingut seit 1993",
+            "heading": "{{ product.metafields.custom.klassifikation.value }}",
+            "highlight_type": "underline",
+            "heading_base_size": 80,
+            "heading_tag": "h2",
+            "text": "{{ product.metafields.custom.vdp_kategoriebeschreibung | metafield_tag }}",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_9FPJKU": {
+          "type": "button",
+          "settings": {
+            "button_label": "VDP. Weine entdecken",
+            "button_link": "shopify://collections",
+            "open_new_window": false,
+            "show_button_style": "text-link",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mt6Yfn",
+        "button_9FPJKU"
+      ],
+      "name": "t:sections.image-with-text.name",
       "settings": {
-        "heading": "Zuletzt angesehen",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "enable_clear_history": false,
-        "products_to_show": 4,
-        "background_color_light": "",
-        "background_color_dark": "",
-        "show_vendor": false,
-        "show_rating": false,
-        "show_highlighted_features": true,
-        "show_highlighted_attributes": true,
-        "show_quickview": true,
-        "enable_carousel_desktop": false,
-        "enable_swiper_mobile": false,
-        "enable_arrow_mobile": false,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_section_divider": false,
-        "spacing": 28,
-        "padding_top": 28,
-        "padding_bottom": 28,
+        "show_hero": false,
+        "image": "{{ product.metafields.custom.kategorie_bild.value }}",
+        "desktop_height": "650px",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "stacked",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
         "columns_mobile": "2",
-        "show_section_divider_mobile": false,
-        "spacing_mobile": 16,
-        "padding_top_mobile": 20,
-        "padding_bottom_mobile": 20
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "right",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 0,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
       }
     },
     "product-recommendations": {
@@ -675,7 +843,7 @@
             "button_label": "Mehr über uns",
             "button_link": "shopify://pages/uber-uns",
             "open_new_window": false,
-            "show_button_style": "text-link",
+            "show_button_style": "primary",
             "button_light": "rgba(0,0,0,0)",
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
@@ -732,7 +900,7 @@
         "text_color_dark": "rgba(0,0,0,0)",
         "line_border_dark": "rgba(0,0,0,0)",
         "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "right",
+        "image_alignment": "left",
         "full_width": false,
         "padding_full_width": false,
         "top_padding": 100,
@@ -741,6 +909,40 @@
         "full_width_mobile": false,
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 0
+      }
+    },
+    "recently_viewed_fNawxV": {
+      "type": "recently-viewed",
+      "name": "t:sections.recently-viewed-products.name",
+      "settings": {
+        "heading": "Zuletzt angesehen",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "enable_clear_history": false,
+        "products_to_show": 4,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "show_vendor": false,
+        "show_rating": false,
+        "show_highlighted_features": true,
+        "show_highlighted_attributes": true,
+        "show_quickview": true,
+        "enable_carousel_desktop": false,
+        "enable_swiper_mobile": false,
+        "enable_arrow_mobile": false,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_section_divider": false,
+        "spacing": 28,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "columns_mobile": "2",
+        "show_section_divider_mobile": false,
+        "spacing_mobile": 16,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
       }
     },
     "testimonials_with_card_Yx6ANH": {
@@ -816,7 +1018,7 @@
         "auto_play": true,
         "change_slides_speed": 5,
         "image_ratio": "round",
-        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_light": "#f3f6ef",
         "item_background_color_light": "rgba(0,0,0,0)",
         "item_border_color_light": "rgba(0,0,0,0)",
         "heading_and_title_light": "rgba(0,0,0,0)",
@@ -842,7 +1044,7 @@
           "settings": {
             "heading": "Unsere Lagen - Das Herz großer Rieslinge",
             "highlight_type": "underline",
-            "heading_size": 140,
+            "heading_size": 100,
             "heading_tag": "h2",
             "subheading": "",
             "subheading_size": 100,
@@ -879,6 +1081,9 @@
         "image_banner_L3wxEU",
         "buttons_K3KjQY"
       ],
+      "custom_css": [
+        ".heading-image_banner_L3wxEU {text-wrap-style: balance;}"
+      ],
       "name": "t:sections.promotion-banner.name",
       "settings": {
         "heading": "Promotion Banner",
@@ -898,7 +1103,7 @@
         "rounded_corner_image": false,
         "desktop_height": "450px",
         "padding_top": 0,
-        "padding_bottom": 56,
+        "padding_bottom": 24,
         "full_width_mobile": true,
         "adapt_corners_mobile": false,
         "rounded_corner_image_mobile": false,
@@ -910,12 +1115,6 @@
     "collection_list_xhhDpg": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_hEaL8r": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "alle-weine"
-          }
-        },
         "featured_collection_7qc3Xa": {
           "type": "featured_collection",
           "settings": {
@@ -964,10 +1163,21 @@
           "settings": {
             "collection": "spezialitaten"
           }
+        },
+        "featured_collection_HDXBdW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bier"
+          }
+        },
+        "featured_collection_hEaL8r": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-weine"
+          }
         }
       },
       "block_order": [
-        "featured_collection_hEaL8r",
         "featured_collection_7qc3Xa",
         "featured_collection_dWBGUU",
         "featured_collection_LLR7Ge",
@@ -975,7 +1185,9 @@
         "featured_collection_yzdbGB",
         "featured_collection_L9KAry",
         "featured_collection_YeeV4j",
-        "featured_collection_rw6RhG"
+        "featured_collection_rw6RhG",
+        "featured_collection_HDXBdW",
+        "featured_collection_hEaL8r"
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
@@ -993,13 +1205,13 @@
         "show_text_overlay": false,
         "content_alignment": "center",
         "content_position": "bottom",
-        "image_overlay_opacity": 5,
+        "image_overlay_opacity": 30,
         "title_color": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
         "title_color_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)",
         "show_item_count": true,
-        "columns_desktop": 8,
+        "columns_desktop": 3,
         "columns_mobile": "2",
         "enable_desktop_slider": false,
         "swiper_on_mobile": true,
@@ -1015,104 +1227,9 @@
         "padding_bottom_mobile": 28
       }
     },
-    "image_with_text_b7nRzF": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_mt6Yfn": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Weingut Dr. Loosen",
-            "heading": "VDP Wingut seit 1993",
-            "highlight_type": "underline",
-            "heading_base_size": 80,
-            "heading_tag": "h2",
-            "text": "<p>Die Trauben für unsere Weine kommen ausschließlich aus unseren gutseigenen Lagen der Mittelmosel. <strong>Sie werden von Hand gelesen und selektiert. </strong></p><p>Village und Premier Cru Lagen verarbeiten wir zu VDP.Guts- und VDP.Ortsweinen. </p><p>Die Grand Cru Lagen werden separat ausgebaut und – je nach jahrgangsspezifischen Bedingungen – zu großen trockenen Lagen-Rieslingen und den klassischen Prädikaten bis hin zur  Trockenbeerenauslese verarbeitet.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "button_9FPJKU": {
-          "type": "button",
-          "settings": {
-            "button_label": "VDP. Weine entdecken",
-            "button_link": "shopify://collections",
-            "open_new_window": false,
-            "show_button_style": "text-link",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "heading_mt6Yfn",
-        "button_9FPJKU"
-      ],
-      "name": "t:sections.image-with-text.name",
-      "settings": {
-        "show_hero": false,
-        "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01426_1.jpg",
-        "desktop_height": "natural",
-        "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "stacked",
-        "adapt_radius": true,
-        "image_corner_radius": 0,
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "content_layout": "overlap",
-        "spacing_image": false,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": false,
-        "padding_full_width": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
-      }
-    },
     "related_blog_posts_wMDWtw": {
       "type": "related-blog-posts",
+      "disabled": true,
       "name": "t:sections.featured-blog.related_blog",
       "settings": {
         "heading": "Aus der Welt von Dr. Loosen",
@@ -1164,14 +1281,15 @@
   "order": [
     "main",
     "multicolumn_YgrRte",
+    "multicolumn_PQ6AFD",
     "image_with_text_RBtGLj",
-    "recently_viewed_fNawxV",
+    "image_with_text_b7nRzF",
     "product-recommendations",
     "image_with_text_CR6Kqj",
+    "recently_viewed_fNawxV",
     "testimonials_with_card_Yx6ANH",
     "promotion_banner_k7jzqd",
     "collection_list_xhhDpg",
-    "image_with_text_b7nRzF",
     "related_blog_posts_wMDWtw"
   ]
 }

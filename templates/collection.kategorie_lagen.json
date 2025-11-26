@@ -600,6 +600,7 @@
         "featured_collection_TiqecJ",
         "featured_collection_f9Pz7R"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.name",
       "settings": {
         "heading": "Kollektionen",
@@ -692,10 +693,10 @@
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
-        "image": "shopify://shop_images/csm_2016_Klassifikationspyramide_alle_Stufen_tuerkis_by_VDP_ab56c2ad12_1280x1280_7c0c4479-cd18-43ee-96d1-5273dc13d88f.png",
-        "desktop_height": "natural",
+        "image": "shopify://shop_images/250321_Vorlage_Qualitaetspyramide_da07c555-91cf-4699-8ee3-b03bc1ca8186.png",
+        "desktop_height": "450px",
         "mobile_height": "400px",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "image_layout": "stacked",
         "adapt_radius": true,
         "image_corner_radius": 0,
@@ -788,6 +789,7 @@
         "column_Yiqn4W",
         "column_UaqDXJ"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "highlight_type": "underline",
@@ -1023,6 +1025,121 @@
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 0
       }
+    },
+    "collection_list_FTWC3x": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_b9ggJE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "weissweine"
+          }
+        },
+        "featured_collection_aPnpiF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rose"
+          }
+        },
+        "featured_collection_GWXCMa": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "rotweine"
+          }
+        },
+        "featured_collection_9YezVq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "edelsusse-raritaten"
+          }
+        },
+        "featured_collection_egVDeW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sekte"
+          }
+        },
+        "featured_collection_kVbakA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "entalkoholisiert"
+          }
+        },
+        "featured_collection_3dNR76": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "probierpakete"
+          }
+        },
+        "featured_collection_VgehDc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spezialitaten"
+          }
+        },
+        "featured_collection_JpnMdy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bier"
+          }
+        },
+        "featured_collection_t7XxmR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-weine"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_b9ggJE",
+        "featured_collection_aPnpiF",
+        "featured_collection_GWXCMa",
+        "featured_collection_9YezVq",
+        "featured_collection_egVDeW",
+        "featured_collection_kVbakA",
+        "featured_collection_3dNR76",
+        "featured_collection_VgehDc",
+        "featured_collection_JpnMdy",
+        "featured_collection_t7XxmR"
+      ],
+      "name": "t:sections.collection-list.name",
+      "settings": {
+        "heading": "Unsere Kollektionen",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_view_all": false,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "collection_metafield": "",
+        "image_ratio": "square",
+        "title_size": 80,
+        "show_text_overlay": false,
+        "content_alignment": "center",
+        "content_position": "bottom",
+        "image_overlay_opacity": 30,
+        "title_color": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "title_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "show_item_count": true,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "enable_desktop_slider": false,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "spacing": 4,
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_top": 72,
+        "padding_bottom": 80,
+        "spacing_mobile": 4,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
     }
   },
   "order": [
@@ -1037,6 +1154,7 @@
     "image_with_text_yMdDNR",
     "multicolumn_8b4mNJ",
     "image_with_text_bfjRN6",
-    "image_with_text_eBwWkM"
+    "image_with_text_eBwWkM",
+    "collection_list_FTWC3x"
   ]
 }

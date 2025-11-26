@@ -1,0 +1,37 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "parent": "index.json",
+  "context": {
+    "market": "de"
+  },
+  "sections": {
+    "4c9e1af5-c4c0-48cf-b771-49029eedd24f": {
+      "custom_css": [
+        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 100px; }}",
+        "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 0.25rem; }}",
+        "@media screen and (min-width: 768px) {.sub-heading-template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2 {font-size: 1.1rem; padding-bottom: 20px; }}",
+        "@media screen and (min-width: 768px) {.sub-heading-slide_GJyfyj {font-size: 1.1rem; margin-bottom: 20px; }}",
+        "@media screen and (min-width: 768px) {.sub-heading-slide_C4yh4H {font-size: 1.1rem; margin-bottom: 20px; }}"
+      ],
+      "settings": {
+        "desktop_height": "550",
+        "auto_play": false
+      },
+      "blocks": {
+        "template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2": {
+          "settings": {
+            "image": "shopify://shop_images/DrLoosen_2019_10_30x20cm_300dpi_DrLoosen_photo_Chris_Marmann_1.png"
+          }
+        }
+      }
+    }
+  }
+}

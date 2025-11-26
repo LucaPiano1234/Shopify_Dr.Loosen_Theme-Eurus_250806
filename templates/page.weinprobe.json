@@ -43,23 +43,23 @@
             "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01473_1.jpg",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 20,
+            "overlay_opacity": 30,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "enable_bakground": false,
-            "subheading": "",
+            "subheading": "Weinproben",
             "subheading_size": 100,
-            "heading": "Weinproben",
+            "heading": "Verkostungen mit der Handschrift von Ernie Loosen.",
             "highlight_type": "underline",
-            "heading_size": 130,
+            "heading_size": 110,
             "heading_tag": "h2",
             "text": "",
-            "button_label_1": "",
-            "button_link_1": "",
+            "button_label_1": "Jetzt Verkostung anfragen",
+            "button_link_1": "https://weingut-dr-loosen.myshopify.com/pages/weinproben#shopify-block-AQ1crMW9pT1NIaTBQV__forms_inline_CGtDDp",
             "open_new_window_button": false,
-            "show_button_style_1": "primary",
+            "show_button_style_1": "text-link",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
@@ -75,12 +75,12 @@
             "content_background_color": "rgba(0,0,0,0)",
             "color_text": "rgba(0,0,0,0)",
             "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
+            "color_text_button": "#ffffff",
             "color_button_hover": "rgba(0,0,0,0)",
             "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
+            "color_button_secondary": "#ffffff",
             "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
+            "colors_text_link": "#ffffff",
             "color_heading_highlight_light": "rgba(0,0,0,0)",
             "color_product_card_background": "rgba(0,0,0,0)",
             "color_product_card_text": "rgba(0,0,0,0)"
@@ -89,6 +89,12 @@
       },
       "block_order": [
         "slide_PQEW7a"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.xl\\:pl-\\[60px\\] {padding-left: 60px; padding-bottom: 100px; }}",
+        "@media (min-width: 1024px) {.lg\\:mt-9 {margin-top: 0.25rem; }}",
+        "@media screen and (min-width: 768px) {.sub-heading-template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2 {font-size: 1.1rem; padding-bottom: 10px; }}",
+        ".button {text-shadow: 3px 4px 6px black;}"
       ],
       "name": "t:sections.slideshow.name",
       "settings": {
@@ -105,14 +111,14 @@
         "padding_full_width": false,
         "adapt_corners_desktop": true,
         "rounded_corner_image": false,
-        "desktop_height": "450",
+        "desktop_height": "550",
         "padding_top": 0,
         "padding_bottom": 28,
         "full_width_mobile": true,
         "adapt_corners_mobile": true,
         "rounded_corner_image_mobile": false,
         "show_content_below_image": false,
-        "mobile_height": "500",
+        "mobile_height": "250",
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 20
       }
@@ -123,7 +129,7 @@
         "heading_HwMneC": {
           "type": "heading",
           "settings": {
-            "heading": "BESUCHEN SIE UNS IM WEINGUT UND ERLEBEN WEIN HAUTNAH",
+            "heading": "Besuchen Sie uns im Weingut und erleben Wein hautnah",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -144,7 +150,7 @@
             "button_label": "Zur Verkostungsanfrage",
             "button_link": "https://weingut-dr-loosen.myshopify.com/pages/weinproben#shopify-block-AQ1crMW9pT1NIaTBQV__forms_inline_CGtDDp",
             "open_new_window_button": false,
-            "show_button_style_1": "text-link",
+            "show_button_style_1": "primary",
             "button_label_2": "",
             "button_link_2": "",
             "open_new_window_button_2": false,
@@ -176,9 +182,9 @@
         "background_color_dark": "rgba(0,0,0,0)",
         "content_alignment": "center",
         "show_section_divider": false,
-        "make_full_page_width": true,
-        "padding_top": 28,
-        "padding_bottom": 28,
+        "make_full_page_width": false,
+        "padding_top": 56,
+        "padding_bottom": 56,
         "content_alignment_mobile": "center",
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
@@ -192,11 +198,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Verkostungsgebühren",
+            "heading": "Eine Reise durch unsere Lagen",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Wir sind für Weinproben (kein Ausschank) und Weineinkäufe  in der Hauptsaison<br/>von Montag bis Samstag zwischen 10-17 Uhr gegen Voranmeldung für Sie da. <strong>An Sonn- und Feiertagen ist die Vinothek geschlossen.</strong></p><p><strong>Verkostungsgebühren:</strong></p><p>Nur nach individueller Anfrage: 25.- EUR pro Person (7 ausgewählte Weine) <br/>(Nur buchbar Montag – Donnerstag and ab einer Gruppengröße von 8 Personen.)</p><p><strong>oder</strong></p><p>15.- EUR pro Person (5 Weine Ihrer Wahl)<br/>(Buchbar Montag – Samstag, keine Mindestgruppengröße) </p>",
+            "text": "<p>Wir sind für Weinproben (kein Ausschank) und Weineinkäufe  in der Hauptsaison von Montag bis Samstag zwischen 10-17 Uhr gegen Voranmeldung für Sie da. <strong>An Sonn- und Feiertagen ist die Vinothek geschlossen.</strong></p><p><strong>Verkostungsgebühren:</strong></p><p>Nur nach individueller Anfrage: 25.- EUR pro Person (7 ausgewählte Weine) <br/>(Nur buchbar Montag – Donnerstag und ab einer Gruppengröße von 8 Personen.)</p><p><strong>oder</strong></p><p>15.- EUR pro Person (5 Weine Ihrer Wahl)<br/>(Buchbar Montag – Samstag, keine Mindestgruppengröße) </p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -211,6 +217,9 @@
       },
       "block_order": [
         "heading_RGeVte"
+      ],
+      "custom_css": [
+        "{text-wrap-style: pretty;}"
       ],
       "name": "t:sections.image-with-text.name",
       "settings": {
@@ -253,8 +262,8 @@
         "bottom_padding": 48,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 28,
+        "bottom_padding_mobile": 24
       }
     },
     "image_with_text_yHGk6D": {
@@ -264,11 +273,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Verkostung nur gegen Voranmeldung möglich.",
+            "heading": "Wir freuen uns auf Ihren Besuch",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Wir möchten Sie darauf hinweisen, dass es sich ausschließlich um eine Verkostung handelt, wir können keine Weinbergs-,oder Kellerführungen anbieten.</p><p>Planen Sie also eine Reise oder einen Besuch an der Mosel, <strong>dann sprechen Sie uns gerne an und wir gestalten Ihren Besuch im Weingut Dr. Loosen.</strong></p><p>Da wir keine festen Öffnungszeiten haben, ist eine Terminvereinbarung erforderlich. Nutzen Sie hierfür ganz einfach unser Kontaktformular für Ihre persönliche Verkostung der Dr. Loosen-Weine.</p><p><strong>Unser Büro ist von Montag bis Freitag zwischen 9:00 – 17:00 Uhr besetzt,</strong> samstags können Sie sich gerne telefonisch unter: +496531 3426 in der Zeit von 10:00 Uhr und 15:00 Uhr bei uns melden.</p>",
+            "text": "<p><strong>Verkostung nur gegen Voranmeldung möglich.</strong></p><p>Wir möchten Sie darauf hinweisen, dass es sich ausschließlich um eine Verkostung handelt, wir können keine Weinbergs-,oder Kellerführungen anbieten.</p><p>Planen Sie also eine Reise oder einen Besuch an der Mosel, <strong>dann sprechen Sie uns gerne an und wir gestalten Ihren Besuch im Weingut Dr. Loosen.</strong></p><p>Da wir keine festen Öffnungszeiten haben, ist eine Terminvereinbarung erforderlich. Nutzen Sie hierfür ganz einfach unser Kontaktformular für Ihre persönliche Verkostung der Dr. Loosen-Weine.</p><p><strong>Unser Büro ist von Montag bis Freitag zwischen 9:00 – 17:00 Uhr besetzt,</strong> samstags können Sie sich gerne telefonisch unter: +496531 3426 in der Zeit von 10:00 Uhr und 15:00 Uhr bei uns melden.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -284,11 +293,14 @@
       "block_order": [
         "heading_extqht"
       ],
+      "custom_css": [
+        "{text-wrap-style: pretty;}"
+      ],
       "name": "t:sections.image-with-text.name",
       "settings": {
         "show_hero": false,
         "image": "shopify://shop_images/2020-05_HoR_DrLoosen-01375_1.jpg",
-        "desktop_height": "750px",
+        "desktop_height": "550px",
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
@@ -325,8 +337,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 32,
+        "bottom_padding_mobile": 12
       }
     },
     "175577628406739bd7": {
