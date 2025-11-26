@@ -426,6 +426,10 @@
             "see_less_label": "See less"
           }
         },
+        "view_detail_jEQJae": {
+          "type": "view_detail",
+          "settings": {}
+        },
         "icon_text_c8yzn8": {
           "type": "icon_text",
           "settings": {
@@ -484,10 +488,6 @@
             "see_less_label": "See less"
           }
         },
-        "view_detail_jEQJae": {
-          "type": "view_detail",
-          "settings": {}
-        },
         "variant_picker_iTAkNC": {
           "type": "variant_picker",
           "settings": {
@@ -542,11 +542,11 @@
         "price_n79xKd",
         "badges_WNTPR3",
         "text_bV38Xx",
+        "view_detail_jEQJae",
         "icon_text_c8yzn8",
         "icon_text_RCUbB9",
         "icon_text_qALeUf",
         "description_cUnynw",
-        "view_detail_jEQJae",
         "variant_picker_iTAkNC",
         "quantity_selector_e6hgL4",
         "buy_buttons_y9keQt"
@@ -565,7 +565,7 @@
         "show_thumbnails": false,
         "thumbnail_position": "horizontal",
         "transition_style": "fade",
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "zoom_effect": "enlarge",
         "enable_video_autoplay": false,
         "enable_video_loop": false,
