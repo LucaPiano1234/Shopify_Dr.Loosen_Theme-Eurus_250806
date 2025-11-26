@@ -1199,6 +1199,7 @@
         "media_ewTiJc": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/Bremmer_Calmont_Looking_Upstream_1.jpg",
             "show_sound_control": false,
             "video_url": "",
             "video_alt_text": "",
@@ -1290,25 +1291,6 @@
             "show_button_style": "primary"
           }
         },
-        "media_MWnJYz": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Loesnicher_Foersterlay.webp",
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Lösnicher Försterlay",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
         "media_jCqdgP": {
           "type": "media",
           "settings": {
@@ -1324,6 +1306,25 @@
             "description": "",
             "button_text": "Lage entdecken",
             "button_link": "shopify://collections/kinheimer-rosenberg",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_MWnJYz": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Loesnicher_Foersterlay.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Lösnicher Försterlay",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/losnicher-forsterlay",
             "open_new_window_button": false,
             "show_button_style": "primary"
           }
@@ -1375,8 +1376,8 @@
         "media_iYtybg",
         "media_WgDEVV",
         "media_xcPLDE",
-        "media_MWnJYz",
         "media_jCqdgP",
+        "media_MWnJYz",
         "media_6CyrN6",
         "media_TcWnbW"
       ],
