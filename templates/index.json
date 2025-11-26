@@ -1196,6 +1196,24 @@
             "show_button_style": "primary"
           }
         },
+        "media_ewTiJc": {
+          "type": "media",
+          "settings": {
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Bremmer Calmont",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/bremmer-calmont",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
         "media_ac9Mmc": {
           "type": "media",
           "settings": {
@@ -1272,6 +1290,25 @@
             "show_button_style": "primary"
           }
         },
+        "media_MWnJYz": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Loesnicher_Foersterlay.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Lösnicher Försterlay",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "View more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
         "media_jCqdgP": {
           "type": "media",
           "settings": {
@@ -1328,75 +1365,20 @@
             "open_new_window_button": false,
             "show_button_style": "primary"
           }
-        },
-        "media_ewTiJc": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Bremmer Calmont",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "Lage entdecken",
-            "button_link": "shopify://collections/bremmer-calmont",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
-        "media_MWnJYz": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Media Heading",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
-        "media_XLFKnm": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Media Heading",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
         }
       },
       "block_order": [
         "media_pkLziH",
         "media_CttYbc",
+        "media_ewTiJc",
         "media_ac9Mmc",
         "media_iYtybg",
         "media_WgDEVV",
         "media_xcPLDE",
+        "media_MWnJYz",
         "media_jCqdgP",
         "media_6CyrN6",
-        "media_TcWnbW",
-        "media_ewTiJc",
-        "media_MWnJYz",
-        "media_XLFKnm"
+        "media_TcWnbW"
       ],
       "custom_css": [
         "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
