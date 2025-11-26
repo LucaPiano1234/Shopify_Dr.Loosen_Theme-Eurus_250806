@@ -516,10 +516,10 @@
         "padding_bottom_mobile": 28
       }
     },
-    "flow_6yqTJE": {
+    "flow_dwaVdg": {
       "type": "flow",
       "blocks": {
-        "media_GKMFnN": {
+        "media_Y98qXH": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Lay_1.webp",
@@ -538,7 +538,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_yjBaDY": {
+        "media_dgnkQ7": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Bernkasteler_Johannisbruennchen_1.webp",
@@ -557,7 +557,26 @@
             "show_button_style": "primary"
           }
         },
-        "media_LBTdWX": {
+        "media_CGLqft": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bremmer_Calmont_Looking_Upstream_1.jpg",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Bremmer Calmont",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/bremmer-calmont",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_Qq7MTK": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER_PRAeLAT_1.webp",
@@ -576,7 +595,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_xkqa6V": {
+        "media_6VbiRR": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__ERDENER-TREPPCHEN_ceab565d-c0de-4a36-902b-4b4b5627f965.webp",
@@ -595,7 +614,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_LJbKQV": {
+        "media_HPmDPa": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-Domprost_1.webp",
@@ -614,7 +633,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_YFYRhL": {
+        "media_RkqeEd": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_GRAACHER-HIMMELREICH_1.webp",
@@ -633,7 +652,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_hafWRb": {
+        "media_zecmJd": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Kinheimer_Rosenberg_1.webp",
@@ -652,7 +671,26 @@
             "show_button_style": "primary"
           }
         },
-        "media_HbXjbE": {
+        "media_irWFdY": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte_Loesnicher_Foersterlay.webp",
+            "show_sound_control": false,
+            "video_url": "",
+            "video_alt_text": "",
+            "enable_video_autoplay": false,
+            "subheading": "",
+            "heading": "Lösnicher Försterlay",
+            "image_style_heading": "square",
+            "image_ratio_heading": "aspect-16/9",
+            "description": "",
+            "button_text": "Lage entdecken",
+            "button_link": "shopify://collections/losnicher-forsterlay",
+            "open_new_window_button": false,
+            "show_button_style": "primary"
+          }
+        },
+        "media_9PnMCa": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__WEHLENER-SONNENUHR_1.webp",
@@ -671,7 +709,7 @@
             "show_button_style": "primary"
           }
         },
-        "media_94gV4Y": {
+        "media_MijjAY": {
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/20250813_WG_Loosen_Lagenkarte__Uerziger_Wuerzgarten_f117ea07-7e99-4bfd-8e3f-1dcf19f66e90.webp",
@@ -689,75 +727,20 @@
             "open_new_window_button": false,
             "show_button_style": "primary"
           }
-        },
-        "media_UEKYkB": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Media Heading",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
-        "media_w7dJdw": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Media Heading",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
-        },
-        "media_yegnGE": {
-          "type": "media",
-          "settings": {
-            "show_sound_control": false,
-            "video_url": "",
-            "video_alt_text": "",
-            "enable_video_autoplay": false,
-            "subheading": "",
-            "heading": "Media Heading",
-            "image_style_heading": "square",
-            "image_ratio_heading": "aspect-16/9",
-            "description": "",
-            "button_text": "View more",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary"
-          }
         }
       },
       "block_order": [
-        "media_GKMFnN",
-        "media_yjBaDY",
-        "media_LBTdWX",
-        "media_xkqa6V",
-        "media_LJbKQV",
-        "media_YFYRhL",
-        "media_hafWRb",
-        "media_HbXjbE",
-        "media_94gV4Y",
-        "media_UEKYkB",
-        "media_w7dJdw",
-        "media_yegnGE"
+        "media_Y98qXH",
+        "media_dgnkQ7",
+        "media_CGLqft",
+        "media_Qq7MTK",
+        "media_6VbiRR",
+        "media_HPmDPa",
+        "media_RkqeEd",
+        "media_zecmJd",
+        "media_irWFdY",
+        "media_9PnMCa",
+        "media_MijjAY"
       ],
       "custom_css": [
         "@media (min-width: 1024px) {.border-radius-template--25847956570437__flow_cHX3gh {border-radius: 10px; padding-right: 30px; }}",
@@ -1423,7 +1406,7 @@
     "collage_VkLagH",
     "rich_text_Drj9CA",
     "rich_text_rDwM77",
-    "flow_6yqTJE",
+    "flow_dwaVdg",
     "image_with_text_tc9tgC",
     "image_with_text_yHGk6D",
     "flow_3MzY6e",
