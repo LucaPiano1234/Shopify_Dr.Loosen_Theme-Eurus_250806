@@ -162,12 +162,12 @@
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
             "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "#b8a35e",
+            "secondary_button_light": "#9e8015",
             "secondary_button_text_light": "#313e4d",
             "button_dark": "rgba(0,0,0,0)",
             "button_text_dark": "rgba(0,0,0,0)",
             "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "#ffffff",
             "secondary_button_dark": "rgba(0,0,0,0)",
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
