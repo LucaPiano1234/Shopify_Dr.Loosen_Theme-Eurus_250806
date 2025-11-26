@@ -216,7 +216,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Mehr dazu",
-            "tab_content": "<p>Jahrgang: {{ product.metafields.custom.jahrgang.value }}</p><p>Geschmacksrichtung:\t{{ product.metafields.custom.geschmack.value }}</p><p>Terroir: {{ product.metafields.custom.bodenart.value }}</p><p>Lage: {{ product.metafields.custom.lage.value }}</p><p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}</p><p>Rebsorte/n: {{ product.metafields.custom.rebsorte.value }}</p><p>Trinktemperatur: {{ product.metafields.custom.trinktemperatur.value }}</p><p>Anbaugebiet: {{ product.metafields.custom.anbaugebiet.value }}</p><p>Ausbau: {{ product.metafields.custom.ausbau.value }}</p><p>Klassifikation: {{ product.metafields.custom.klassifikation.value }}</p><p>Flaschengröße: {{ product.metafields.custom.inhalt.value }}</p>"
+            "tab_content": "<p>Jahrgang: {{ product.metafields.custom.jahrgang.value }}</p><p>Geschmacksrichtung:\t{{ product.metafields.custom.geschmack.value }}</p><p>Bodenart: {{ product.metafields.custom.bodenart.value }}</p><p>Lage: {{ product.metafields.custom.lage.value }}</p><p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}</p><p>Rebsorte/n: {{ product.metafields.custom.rebsorte.value }}</p><p>Trinktemperatur: {{ product.metafields.custom.trinktemperatur.value }}</p><p>Anbaugebiet: {{ product.metafields.custom.anbaugebiet.value }}</p><p>Ausbau: {{ product.metafields.custom.ausbau.value }}</p><p>Klassifikation: {{ product.metafields.custom.klassifikation.value }}</p><p>Flaschengröße: {{ product.metafields.custom.inhalt.value }}</p>"
           }
         },
         "collapsible_tab_WTEAVV": {
@@ -257,8 +257,8 @@
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
-            "heading": "Zutatenliste",
-            "tab_content": "<p>{{ product.metafields.custom.zutaten | metafield_tag }}</p>"
+            "heading": "Zutatenliste & Allergene",
+            "tab_content": "<p>Zutatenliste:{{ product.metafields.custom.zutaten | metafield_tag }}</p><p>Allergene: {{ product.metafields.custom.allergene.value }}</p>"
           }
         },
         "complementary_XCwmDV": {
