@@ -228,7 +228,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Speiseempfehlung & Geschmacksnoten",
-            "tab_content": "<p>Passt zu:</p><p>{{ product.metafields.custom.passt_zu | metafield_tag }}</p><p>Anlass:</p>{{ product.metafields.custom.anlass | metafield_tag }}<p>Aromen:</p>{{ product.metafields.custom.aromen | metafield_tag }}"
+            "tab_content": "<p>Passt zu:</p><p>{{ product.metafields.custom.passt_zu | metafield_tag }}</p><p>Anlass:</p>{{ product.metafields.custom.anlass | metafield_tag }}<p>Aromen:</p><p>{{ product.metafields.custom.aromen | metafield_tag }}</p>"
           }
         },
         "nutrition_fact_tEqfWX": {
@@ -243,7 +243,7 @@
             "enable_background": false,
             "metafield_key_list": "",
             "nutrition_details": "<p>Brennwert: {{ product.metafields.custom.brennwert.value }}<br/>Kohlenhydrate: {{ product.metafields.custom.kohlenhydrate.value }}<br/>davon Zucker: {{ product.metafields.custom.davon_zucker.value }}</p>",
-            "extra_detail": "Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz. Zutatenliste: {{ product.metafields.custom.zutaten.value }}",
+            "extra_detail": "Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz. Zutatenliste:",
             "content_background_color": "rgba(0,0,0,0)",
             "content_background_color_dark": "rgba(0,0,0,0)",
             "loading_bar_color": "rgba(0,0,0,0)"
