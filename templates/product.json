@@ -243,10 +243,22 @@
             "enable_background": false,
             "metafield_key_list": "",
             "nutrition_details": "<p>Brennwert: {{ product.metafields.custom.brennwert.value }}<br/>Kohlenhydrate: {{ product.metafields.custom.kohlenhydrate.value }}<br/>davon Zucker: {{ product.metafields.custom.davon_zucker.value }}</p>",
-            "extra_detail": "Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz. Zutatenliste:",
+            "extra_detail": "Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz.",
             "content_background_color": "rgba(0,0,0,0)",
             "content_background_color_dark": "rgba(0,0,0,0)",
             "loading_bar_color": "rgba(0,0,0,0)"
+          }
+        },
+        "collapsible_tab_xVdKKJ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Zutatenliste",
+            "tab_content": "<p>{{ product.metafields.custom.zutaten | metafield_tag }}</p>"
           }
         },
         "complementary_XCwmDV": {
@@ -362,6 +374,7 @@
         "collapsible_tab_jdUdyp",
         "collapsible_tab_WTEAVV",
         "nutrition_fact_tEqfWX",
+        "collapsible_tab_xVdKKJ",
         "complementary_XCwmDV",
         "sticky-atc",
         "feature_icon_FgPtCy"
