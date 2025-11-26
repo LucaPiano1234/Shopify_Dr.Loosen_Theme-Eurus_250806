@@ -313,8 +313,8 @@
         "padding_bottom": 100,
         "spacing_col_mobile": 16,
         "spacing_row_mobile": 12,
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 0
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 28
       }
     },
     "media_gallery_tXFe4r": {
