@@ -162,7 +162,7 @@
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
             "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "#9e8015",
+            "secondary_button_light": "#9c8013",
             "secondary_button_text_light": "#313e4d",
             "button_dark": "rgba(0,0,0,0)",
             "button_text_dark": "rgba(0,0,0,0)",
