@@ -591,33 +591,81 @@
         "padding_bottom_mobile": 28
       }
     },
-    "featured_product_Fzrifc": {
+    "featured_product_T46Q3g": {
       "type": "featured-product",
       "blocks": {
-        "text_kjA3Y6": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Das GG-Paket <br/></h2><h2>Das Beste unserer Mittelmosel-Terroirs</h2>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less"
-          }
-        },
-        "price_TWgH3p": {
+        "price_N4B7gb": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_tax_and_shipping": false,
             "text_size_price": 70
           }
         },
-        "badges_JJWem3": {
+        "badges_w7ctCz": {
           "type": "badges",
           "settings": {
             "position_adapt": false
           }
         },
-        "description_eqdept": {
+        "text_N9eJke": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Jeder Schiefer erzählt seine Geschichte\"</p><p>sagt Ernie immer. Blauer Schiefer für Kraft, grauer für Finesse, roter für Würze. Drei Weine, die zeigen, warum wir seit 200 Jahren von diesem Boden nicht loslassen können.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "view_detail_WVxJRA": {
+          "type": "view_detail",
+          "settings": {}
+        },
+        "icon_text_TxmNNC": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p><strong>79€ - Versandkostenfrei</strong></p>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_JhrEHh": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p><strong>Vielschichtige Aromenvielfalt durch unterschiedliche Schieferarten.</strong></p>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "icon_text_dUwFUg": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "arrow-right",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<p><strong>Ideal für Kenner & Entdecker</strong></p>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "description_nA9UC8": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "show_in_tab": false,
             "open_by_default": false,
@@ -631,7 +679,7 @@
             "see_less_label": "See less"
           }
         },
-        "variant_picker_wPbmd8": {
+        "variant_picker_exyeaL": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
@@ -640,13 +688,13 @@
             "swatch_size": "small"
           }
         },
-        "quantity_selector_3LFGGG": {
+        "quantity_selector_NzDwJq": {
           "type": "quantity_selector",
           "settings": {
             "style": "adapt"
           }
         },
-        "buy_buttons_L94bf4": {
+        "buy_buttons_Mpk6CC": {
           "type": "buy_buttons",
           "settings": {
             "show_button_style": "secondary",
@@ -670,7 +718,7 @@
             "button_text_light": "rgba(0,0,0,0)",
             "button_hover_light": "rgba(0,0,0,0)",
             "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "#9e8015",
             "secondary_button_text_light": "rgba(0,0,0,0)",
             "button_dark": "rgba(0,0,0,0)",
             "button_text_dark": "rgba(0,0,0,0)",
@@ -682,19 +730,23 @@
         }
       },
       "block_order": [
-        "text_kjA3Y6",
-        "price_TWgH3p",
-        "badges_JJWem3",
-        "description_eqdept",
-        "variant_picker_wPbmd8",
-        "quantity_selector_3LFGGG",
-        "buy_buttons_L94bf4"
+        "price_N4B7gb",
+        "badges_w7ctCz",
+        "text_N9eJke",
+        "view_detail_WVxJRA",
+        "icon_text_TxmNNC",
+        "icon_text_JhrEHh",
+        "icon_text_dUwFUg",
+        "description_nA9UC8",
+        "variant_picker_exyeaL",
+        "quantity_selector_NzDwJq",
+        "buy_buttons_Mpk6CC"
       ],
       "name": "t:sections.featured-product.name",
       "settings": {
         "product": "test-edelsuss-kopie",
-        "show_product_name": false,
-        "title_size": 80,
+        "show_product_name": true,
+        "title_size": 100,
         "heading_tag": "h2",
         "show_vendor": false,
         "make_content_center": false,
@@ -704,7 +756,7 @@
         "show_thumbnails": false,
         "thumbnail_position": "horizontal",
         "transition_style": "fade",
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "zoom_effect": "enlarge",
         "enable_video_autoplay": false,
         "enable_video_loop": false,
@@ -712,15 +764,15 @@
         "show_media_with_variant_selected": false,
         "option_to_classify_variant_media": "",
         "full_width": false,
-        "spacing_col": "default",
+        "spacing_col": "small",
         "show_section_divider": false,
-        "padding_top": 56,
-        "padding_bottom": 56,
+        "padding_top": 52,
+        "padding_bottom": 32,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "padding_top_mobile": 56,
-        "padding_bottom_mobile": 56,
-        "background_color_light": "#ffffff",
+        "padding_bottom_mobile": 88,
+        "background_color_light": "#f3f6ef",
         "text_light": "rgba(0,0,0,0)",
         "background_color_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)"
@@ -829,7 +881,7 @@
     "slideshow_fhJUnK",
     "flow_Ap7m9X",
     "flow_pgLMy9",
-    "featured_product_Fzrifc",
+    "featured_product_T46Q3g",
     "image_with_text_7jPzbf"
   ]
 }
