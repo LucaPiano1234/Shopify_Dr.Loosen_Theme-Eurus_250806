@@ -796,7 +796,7 @@
           "settings": {
             "heading": "KONTAKT",
             "menu": "",
-            "menu_item_link": "",
+            "menu_item_link": "shopify://pages/contact",
             "open_new_window": false,
             "see_more_link": "",
             "see_more_open_new_window": false,
