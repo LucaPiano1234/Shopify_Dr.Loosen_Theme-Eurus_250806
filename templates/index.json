@@ -15,9 +15,10 @@
         "template--20740642505005__4c9e1af5-c4c0-48cf-b771-49029eedd24f-slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/mountain-magic-hour.jpg",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 80,
+            "overlay_opacity": 0,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
@@ -63,9 +64,10 @@
         "slide_K3CWcd": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/mountain-magic-hour.jpg",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 90,
+            "overlay_opacity": 0,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
@@ -111,9 +113,10 @@
         "slide_C4yh4H": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/mountain-magic-hour.jpg",
             "image_link": "",
             "open_new_window_image": false,
-            "overlay_opacity": 100,
+            "overlay_opacity": 0,
             "show_sound_control": false,
             "video_url": "",
             "enable_video_autoplay": false,
