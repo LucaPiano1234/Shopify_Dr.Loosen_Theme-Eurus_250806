@@ -553,7 +553,7 @@
       ],
       "name": "t:sections.featured-product.name",
       "settings": {
-        "product": "test-edelsuss-kopie",
+        "product": "test-edelsuss",
         "show_product_name": true,
         "title_size": 100,
         "heading_tag": "h2",
