@@ -228,7 +228,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Speiseempfehlung & Geschmacksnoten",
-            "tab_content": "<p>Passt zu:</p><p>{{ product.metafields.custom.passt_zu | metafield_tag }}</p><p>Anlass:</p>{{ product.metafields.custom.anlass | metafield_tag }}<p>Aromen:</p><p>{{ product.metafields.custom.aromen | metafield_tag }}</p>"
+            "tab_content": "<p><strong>Passt zu:</strong></p><p>{{ product.metafields.custom.passt_zu | metafield_tag }}</p><p><strong>Aromen:</strong></p><p>{{ product.metafields.custom.aromen | metafield_tag }}</p>"
           }
         },
         "nutrition_fact_tEqfWX": {
@@ -652,7 +652,6 @@
       "block_order": [
         "heading_8nMPQf"
       ],
-      "disabled": true,
       "settings": {
         "show_hero": false,
         "image": "{{ product.metafields.custom.bodenart_bild.value }}",
