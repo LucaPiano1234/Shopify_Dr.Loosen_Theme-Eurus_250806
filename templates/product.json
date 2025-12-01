@@ -657,7 +657,7 @@
         "image": "{{ product.metafields.custom.bodenart_bild.value }}",
         "image_second": "{{ product.metafields.custom.lage_bild.value }}",
         "desktop_height": "450px",
-        "mobile_height": "400px",
+        "mobile_height": "250px",
         "desktop_image_width": "medium",
         "image_layout": "stacked",
         "adapt_radius": true,
