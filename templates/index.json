@@ -1599,7 +1599,7 @@
         "button_B7LEeT": {
           "type": "button",
           "settings": {
-            "button_label": "Klassifikation entdecken",
+            "button_label": "Klassifikationsstufe entdecken",
             "button_link": "shopify://collections/gg-reserve",
             "open_new_window": false,
             "show_button_style": "primary",
@@ -1684,7 +1684,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>VDP.GROSSE LAGE zeichnet die hochwertigsten deutschen Weinberge aus. Hier reifen die besten Weine mit komplexem Geschmack, expressivem Lagencharakter und besonderem Reifepotenzial.</p><p>Die Lagen werden von den VDP Regionalverbänden bestimmt und parzellengenau abgegrenzt.</p>",
+            "text": "<p>Unsere Weineder Klassifikationsstufe VDP.GROSSE LAGE® zeichnet die hochwertigsten deutschen Weinberge aus.</p><p>Hier reifen die besten Weine mit komplexem Geschmack, expressivem Lagencharakter und besonderem Reifepotenzial.</p><p>Die Lagen werden von den VDP Regionalverbänden bestimmt und parzellengenau abgegrenzt.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -1699,7 +1699,7 @@
         "button_FzWqYn": {
           "type": "button",
           "settings": {
-            "button_label": "Klassifikation entdecken",
+            "button_label": "Klassifikationsstufe entdecken",
             "button_link": "shopify://collections/vdp-grosse-lage",
             "open_new_window": false,
             "show_button_style": "primary",
@@ -1799,7 +1799,7 @@
         "button_9wjRUt": {
           "type": "button",
           "settings": {
-            "button_label": "Klassifikation entdecken",
+            "button_label": "Klassifikationsstufe entdecken",
             "button_link": "shopify://collections/vdp-ortswein",
             "open_new_window": true,
             "show_button_style": "primary",
@@ -2000,7 +2000,7 @@
         "button_qfgNnR": {
           "type": "button",
           "settings": {
-            "button_label": "Klassifikation entdecken",
+            "button_label": "Klassifikationsstufe entdecken",
             "button_link": "shopify://collections/vdp-gutswein",
             "open_new_window": false,
             "show_button_style": "primary",
