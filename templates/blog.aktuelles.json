@@ -12,10 +12,10 @@
     "main": {
       "type": "main-blog",
       "custom_css": [
-        "h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .category-title {text-transform: var(--heading-text-tranform)none;font-family: \"Font-1754914178449\" !important;}"
+        "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6,.category-title {text-transform: var(--heading-text-tranform) none; font-family: \"Font-1754914178449\" !important;}"
       ],
       "settings": {
-        "heading_tag": "h1",
+        "heading_tag": "h2",
         "show_all_tags": true,
         "post_per_page": "",
         "columns_desktop": 3,
@@ -23,7 +23,7 @@
         "pagination": "pagination",
         "paginate_type": "circle",
         "subtext": "",
-        "alignment": "left",
+        "alignment": "center",
         "full_width": true,
         "full_width_mobile": true,
         "show_breadcrumbs": true,
