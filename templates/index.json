@@ -613,7 +613,7 @@
         "button_qypJtU": {
           "type": "button",
           "settings": {
-            "button_label": "Unsere VDP Weine",
+            "button_label": "Unsere VDP Weine entdecken",
             "button_link": "shopify://collections/alle-weine",
             "open_new_window": false,
             "show_button_style": "primary",
