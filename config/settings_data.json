@@ -76,7 +76,7 @@
     "colors_dark_image_treatment_overlay": "#000000",
     "colors_dark_image_treatment_text": "#ffffff",
     "type_body_font": "serif",
-    "text_base_size": 120,
+    "text_base_size": 130,
     "type_header_font": "cardo_n4",
     "heading_base_size": 110,
     "heading_text_tranform": "none",
