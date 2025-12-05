@@ -293,7 +293,7 @@
         "html_H8FMcm": {
           "type": "html",
           "settings": {
-            "custom_html": "{% if product.metafields.custom.e_label %}\n  <a href=\"{{ product.metafields.custom.e_label }}\"target=\"_blank\"><u>Zu den Zutaten und  Nährwertangaben</a>\n{% endif %}"
+            "custom_html": "{% if product.metafields.custom.e_label %}\n  <a href=\"{{ product.metafields.custom.e_label }}\"target=\"_blank\"><u>Zu den Zutaten und  Nährwertangaben</u></a>\n{% endif %}"
           }
         },
         "feature_icon_FgPtCy": {
