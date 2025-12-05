@@ -233,6 +233,7 @@
         },
         "nutrition_fact_tEqfWX": {
           "type": "nutrition_fact",
+          "disabled": true,
           "settings": {
             "show_in_tab": true,
             "open_by_default": false,
@@ -258,7 +259,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Zutatenliste & Allergene",
-            "tab_content": "<p>Zutatenliste:{{ product.metafields.custom.zutaten | metafield_tag }}</p><p>Allergene: {{ product.metafields.custom.allergene.value }}</p>"
+            "tab_content": "<p>Zutatenliste: {{ product.metafields.custom.zutaten | metafield_tag }}</p><p>Allergene: {{ product.metafields.custom.allergene.value }}</p>"
           }
         },
         "complementary_XCwmDV": {
@@ -289,8 +290,15 @@
             "link_to_atc_btn": false
           }
         },
+        "html_H8FMcm": {
+          "type": "html",
+          "settings": {
+            "custom_html": "{% if product.metafields.custom.e_label %}\n  <a href=\"{{ product.metafields.custom.e_label }}\"target=\"_blank\"><strong>Zu den Zutaten und  Nährwertangaben</strong></a>\n{% endif %}"
+          }
+        },
         "feature_icon_FgPtCy": {
           "type": "feature_icon",
+          "disabled": true,
           "settings": {
             "applied_collections": [
               "rotweine"
@@ -377,6 +385,7 @@
         "collapsible_tab_xVdKKJ",
         "complementary_XCwmDV",
         "sticky-atc",
+        "html_H8FMcm",
         "feature_icon_FgPtCy"
       ],
       "settings": {

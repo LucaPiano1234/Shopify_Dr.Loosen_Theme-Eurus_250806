@@ -274,9 +274,7 @@
       "block_order": [
         "forms_inline_ECjFCK"
       ],
-      "custom_css": [
-        ".shopify-app-block {border-inline-color: black;}"
-      ],
+      "custom_css": [],
       "settings": {
         "include_margins": true
       }
