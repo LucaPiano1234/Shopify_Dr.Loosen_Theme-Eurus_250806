@@ -293,7 +293,7 @@
         "html_H8FMcm": {
           "type": "html",
           "settings": {
-            "custom_html": "{% if product.metafields.custom.e_label %}\n  <div class=\"e-label-wrapper\">\n    <a \n      href=\"{{ product.metafields.custom.e_label }}\" \n      target=\"_blank\"\n      class=\"e-label-link\" \n    >\n      Zu den Zutaten & Nährwertangaben\n    </a>\n  </div>\n{% endif %}\n\n<style>\n.e-label-wrapper {\npadding-bottom: .75rem;\nmargin-top: -10px;\npadding-right: .5rem;\npadding-left: .5rem;\nalign-items: center;\n}\n@media (max-width: 600px)\n{\n.e-label-wrapper {\nmargin-top: 0px;\n    align-items: center;\n}\n}\n.e-label-link { \ntext-decoration: underline;</style>"
+            "custom_html": "{% if product.metafields.custom.e_label %}\n  <div class=\"e-label-wrapper\">\n    <a \n      href=\"{{ product.metafields.custom.e_label }}\" \n      target=\"_blank\"\n      class=\"e-label-link\" \n    >\n      Zu den Nährwertangaben\n    </a>\n  </div>\n{% endif %}\n\n<style>\n.e-label-wrapper {\npadding-bottom: .75rem;\nmargin-top: -10px;\npadding-right: .5rem;\npadding-left: .5rem;\nalign-items: center;\n}\n@media (max-width: 600px)\n{\n.e-label-wrapper {\nmargin-top: 0px;\n    align-items: center;\n}\n}\n.e-label-link { \ntext-decoration: underline;</style>"
           }
         },
         "feature_icon_FgPtCy": {
